@@ -79,7 +79,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
         ("exactMatch", SKOS.exactMatch, URIRef, False)
     ]
 
-    DOC = Namespace("http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#")
+    DOC = Namespace("http://Restaurierungs-und-Konservierungsdaten.org/doc-vocab#")  # ("https://conservationdata.github.io/docs/")
 
 
     extendedTuples = [
@@ -170,7 +170,7 @@ def main(link, baseLanguageLabel, propertyMatchDict, seperator):
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRb0tjnjkyjzReZ_--dYJOD4rbl1_iV8EdVTFXATh9ie6u3bRAeEYYrMNKZF0AcM_PQJkQbmZyGFfYe/pub?gid=0&single=true&output=csv"
 baseLanguageLabel = "de"
-baseUri = "https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/Referenzvokabular" #"https://www.lassemempel.github.io/Restaurierungsdaten/Metadaten"  # "http://data.archaeology.link/terminology/archeologicalconservation"
+baseUri = "https://www.w3id.org/conservation/terms/metadata" #"https://www.lassemempel.github.io/Restaurierungsdaten/Metadaten"  # "http://data.archaeology.link/terminology/archeologicalconservation"
 
 # dictionary to map divergent column names in the csv to the SKOS properties
 propertyMatchDict = {"identifier":"notation","description":"definition","parent":"broader", "note (source)": "source"}
