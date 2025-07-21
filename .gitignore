@@ -52,7 +52,7 @@ typings/
 *.tgz
 
 # dotenv environment variables file
-.env
+#.env
 
 # gatsby files
 .cache/
@@ -74,4 +74,4 @@ cypress/screenshots/
 cypress/videos/
 
 # User Config
-config.yaml
+#config.yaml
