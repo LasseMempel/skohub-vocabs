@@ -159,7 +159,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
 
 def main(link, baseLanguageLabel, propertyMatchDict, seperator):
     df = csv2Df(link, propertyMatchDict)
-    df = sortNotation(df)
+    # df = sortNotation(df)
     text = df.to_csv(index=False)
     with open('polishedData.csv', 'w', encoding="utf-8") as f:
         f.write(text)
