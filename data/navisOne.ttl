@@ -1,0 +1,3084 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/0093DC> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schale"@de,
+        "Skal"@dk,
+        "Shell"@en,
+        "forro"@es,
+        "Bordé"@fr,
+        "Κέλυφος"@gr,
+        "Guscio"@it,
+        "Huid"@nl,
+        "Skorupa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/0234D3> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Utrecht 3"@de,
+        "Utrecht 3"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/02A954> a skos:Concept ;
+    dc:source "tblDictionarySTEERINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/11> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Ruderverblendung"@de,
+        "Rorvinge"@dk,
+        "Rudder wing"@en,
+        "armazón del timón"@es,
+        "Rudder wing"@fr,
+        "Rudder wing"@gr,
+        "Cassa di protezione del timone"@it,
+        "Rudder wing"@nl,
+        "Rudder wing"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/03297B> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Beschlag"@de,
+        "Beslag"@dk,
+        "Fitting"@en,
+        "forro"@es,
+        "Armature"@fr,
+        "Εξαρτισμός, Ξάρτια"@gr,
+        "Attrezzatura"@it,
+        "Beslag"@nl,
+        "Łączenie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/06BE5F> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Spant"@de,
+        "Spant"@dk,
+        "Frame"@en,
+        "cuaderna"@es,
+        "Couple"@fr,
+        "Νομέας, Στραβόξυλο"@gr,
+        "Ordinata"@it,
+        "Spant"@nl,
+        "Rama wręgowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/074F8A> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gut (Stehend)"@de,
+        "Rig (Stående)"@dk,
+        "Rigging (Standing)"@en,
+        "jarcías vivas o de labor"@es,
+        "Greement (Dormant)"@fr,
+        "Μη σταθερός Εξαρτισμός"@gr,
+        "Manovre dormienti"@it,
+        "Want (Staand)"@nl,
+        "Olinowanie stałe"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/09BEBF> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kimmholz"@de,
+        "kimingsplanke"@dk,
+        "chine block"@en,
+        "curva del quiebro"@es,
+        "cornière de bouchain"@fr,
+        "η καμπύλη της καρένας"@gr,
+        "blocco della curvatura della carena"@it,
+        "l-vormige kim"@nl,
+        "łańcuch blok"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/09DF17> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bodenplanke"@de,
+        "Bundplanke"@dk,
+        "Bottom Plank"@en,
+        "tablazón de la carena"@es,
+        "Bordage De Caràne"@fr,
+        "Σανίδα του Πυθμένα"@gr,
+        "Tavola del fondo"@it,
+        "Vlakplank"@nl,
+        "Klepka denna"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/0A8516> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gestakt"@de,
+        "Staget"@dk,
+        "Punted"@en,
+        "a pértiga"@es,
+        "À la perche"@fr,
+        "Κίνηση με Κοντάρι"@gr,
+        "A spinta"@it,
+        "Geboomd"@nl,
+        "Na pych"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/0B9A28> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Totgang"@de,
+        "indskudt bord"@dk,
+        "stealer"@en,
+        "traca perdida"@es,
+        "virure perdue"@fr,
+        "corso intercalato"@it,
+        "insteker"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/0BE8C2> a skos:Concept ;
+    dc:source "tblDictionaryDECKS" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/8> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Decksbalken"@de,
+        "Bjælke"@dk,
+        "Joist"@en,
+        "bao de cubierta"@es,
+        "Barrot De Pont"@fr,
+        "Δοκάρι"@gr,
+        "Baglio del ponte"@it,
+        "Dekbalk"@nl,
+        "Podpora pokładu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/0D16A2> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kimmstringer"@de,
+        "Kimingsvæger"@dk,
+        "Bilge Stringer"@en,
+        "vagra de pantoques"@es,
+        "Bordage De Bouchain"@fr,
+        "Λώρος της Σεντίνας"@gr,
+        "Serrettone"@it,
+        "Kimweger"@nl,
+        "Wzdłużnik obłowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/0E4547> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Segel (Sprit)"@de,
+        "Sejl"@dk,
+        "Sail (Sprit)"@en,
+        "vela"@es,
+        "Voile"@fr,
+        "Πανί, Ιστίο"@gr,
+        "Vela (A tarchia)"@it,
+        "Zeil"@nl,
+        "Żagiel rozprzowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/10E2CF> a skos:Concept ;
+    dc:source "tblDictionaryDECKS" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/8> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Laufplanke"@de,
+        "Gangbro"@dk,
+        "Gangway"@en,
+        "Pasadizo"@es,
+        "Μαδερόσκαλα"@gr,
+        "Passerella"@it,
+        "Loopplank"@nl,
+        "Furta burtowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1149D5> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Rah"@de,
+        "Rå"@dk,
+        "Yard"@en,
+        "verga"@es,
+        "Vergue"@fr,
+        "Κεραία, Αντένα"@gr,
+        "Pennone"@it,
+        "Ra"@nl,
+        "Reja"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/130F84> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Seitensteven"@de,
+        "Sidestævn"@dk,
+        "Side Stempost"@en,
+        "roda lateral"@es,
+        "Proue Latérale"@fr,
+        "Πλαϊνό της Πλώρης"@gr,
+        "Ruota di prua laterale"@it,
+        "Zijsteven"@nl,
+        "Dziobnica zewnętrzna"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/15087C> a skos:Concept ;
+    dc:source "tblDictionaryWARFARE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/15> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Artillerie"@de,
+        "Artelleri"@dk,
+        "Artillery"@en,
+        "artellería"@es,
+        "Πυροβολικό"@gr,
+        "Artiglieria"@it,
+        "Artillerie"@nl,
+        "Artyleria"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/178A10> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Jungfer-Block"@de,
+        "Jomfru"@dk,
+        "Deadeye"@en,
+        "vigota ordinaria"@es,
+        "Cap De Mouton"@fr,
+        "Τριόπις, Καρπουζάκι"@gr,
+        "Bigotta"@it,
+        "Jufferblok"@nl,
+        "Jufers"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1975C4> a skos:Concept ;
+    dc:source "tblDictionaryHANDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/14> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Rad"@de,
+        "Hjul"@dk,
+        "Wheel"@en,
+        "rueda"@es,
+        "xxxWheel"@fr,
+        "Τροχός"@gr,
+        "Ruota"@it,
+        "Weil"@nl,
+        "Koło sterowe, ster"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1C41AC> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kraweel Beplankt"@de,
+        "Kravel bygget"@dk,
+        "Carvel Build"@en,
+        "construcción a tope"@es,
+        "Construction à Franc-Bord"@fr,
+        "Πέτσωμα Λείο, Κρόταφο με Κρόταφο"@gr,
+        "Costruzione a paro"@it,
+        "Gladboordig, Karveel"@nl,
+        "Poszycie na styk karawelowe"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1C43CA> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mastfisch"@de,
+        "Mastfisk"@dk,
+        "Mast Fish"@en,
+        "fogonadura del palo"@es,
+        "Fixation du mât"@fr,
+        "Ιστοπέδη"@gr,
+        "Albero (Pesce)"@it,
+        "Mastvis"@nl,
+        "Masztowy wspornik"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1C9D25> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mastspant"@de,
+        "Mastespant"@dk,
+        "Mast Frame"@en,
+        "cuaderna del palo"@es,
+        "Couple De Mât"@fr,
+        "Πλαίσιο του Ιστού"@gr,
+        "Ordinata della albero"@it,
+        "Mastspant"@nl,
+        "Rama masztowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1D1955> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Nagel"@de,
+        "Spiger, Søm"@dk,
+        "Nail"@en,
+        "clavo"@es,
+        "Clou"@fr,
+        "Καρφί"@gr,
+        "Chiodo"@it,
+        "Spijker"@nl,
+        "Gwóźdź"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1E27F0> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gepaddelt und gesegelt"@de,
+        "Padlet og sejlet"@dk,
+        "Paddled and sailed"@en,
+        "a canalete y a vela"@es,
+        "À pagaye et à voile"@fr,
+        "Κωπήλατο (ταρσοπλοϊα)  και Ιστιοφόρο"@gr,
+        "A pagaia e a vela"@it,
+        "Gepeddeld en gezeild"@nl,
+        "Wiosłowanie z ręki i żeglowanie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1EB740> a skos:Concept ;
+    dc:source "tblDictionarySURFACETREATMENT" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/16> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Dekoration"@de,
+        "Dekoration"@dk,
+        "Decoration"@en,
+        "decoración"@es,
+        "Decoration"@fr,
+        "Διακόσμηση"@gr,
+        "Decorazione"@it,
+        "Decoratie"@nl,
+        "Dekoracja"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1F4820> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Masttopp"@de,
+        "Mastetop"@dk,
+        "Masthead"@en,
+        "tope del palo"@es,
+        "Λαιμός Στήλης ή Επιστηλίου, Κολομπίρι"@gr,
+        "Calcese"@it,
+        "Masttop"@nl,
+        "Jabłko masztu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1F8C94> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Geklinkert"@de,
+        "Klinkbygget"@dk,
+        "Clinker Build"@en,
+        "construcción a tingladillo"@es,
+        "Construction à Clin"@fr,
+        "Πέτσωμα με Καβαλικευτά Μαδέρια"@gr,
+        "Costruzione a clinker"@it,
+        "Overnaads"@nl,
+        "Poszycie zakładkowe"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/20AB84> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kielschwein"@de,
+        "Kølsvin"@dk,
+        "Keelson"@en,
+        "sobrequilla"@es,
+        "Carlingue"@fr,
+        "Κόντρα Καρένα, Σωτρόπι"@gr,
+        "Paramezzale"@it,
+        "Zaathout"@nl,
+        "Nadstęka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/20F045> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:definition "wichtigster, mittschiffs im Boden angebrachte Längsverband eines Schiffes oder Bootes. (Wikidata)"@de,
+        "Main structural members running for and aft along the bottom of a ship or boat, to which the frame of the vessel is attached. (Getty AAT)"@en ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300263190>,
+        <https://www.wikidata.org/wiki/Q582062> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kiel"@de,
+        "Køl"@dk,
+        "Keel"@en,
+        "quilla"@es,
+        "Quille"@fr,
+        "Καρένα, Τρόπις"@gr,
+        "Chiglia"@it,
+        "Kiel"@nl,
+        "Stępka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2143CF> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mastbalken"@de,
+        "Mastebjælke"@dk,
+        "Mast Beam"@en,
+        "bao del palo"@es,
+        "Barrot de Mât"@fr,
+        "Ζυγό του Ιστού"@gr,
+        "Baglio della albero"@it,
+        "Zeilbalk"@nl,
+        "Belka masztowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2215C5> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bilgerinne"@de,
+        "kølrende"@dk,
+        "bilgerinne (ger)"@en,
+        "sentina"@es,
+        "gouttière de bouchain"@fr,
+        "canale di sentina"@it,
+        "afwateringsgleuf"@nl,
+        "rowek zezowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/239F9C> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Brigg"@de,
+        "Brigg"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/26941E> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Dover"@de,
+        "Dover"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/29CBC9> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kielgang"@de,
+        "Kølbord"@dk,
+        "Garboard Strake"@en,
+        "traca de aparadura"@es,
+        "Galbord"@fr,
+        "Τουρέλο, Επιστρόφιον"@gr,
+        "Torello"@it,
+        "Zandstrook"@nl,
+        "Klepka przystępkowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2A2031> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bolzen (Eisen)"@de,
+        "Bolt (iron)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2AC165> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Treidelpfosten"@de,
+        "Mast (Slæbe)"@dk,
+        "Mast (Towing)"@en,
+        "pequeño palo"@es,
+        "Mat De Halage"@fr,
+        "Mast (Towing)"@gr,
+        "Albero (Alaggio)"@it,
+        "Mast (Jaag)"@nl,
+        "Maszt holowniczy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2B8C74> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mastspur"@de,
+        "Mastespor"@dk,
+        "Mast Step"@en,
+        "carlinga del palo"@es,
+        "Emplanture De Mât"@fr,
+        "Υποπτερνίς, Σκάτσα"@gr,
+        "Scassa dellalbero"@it,
+        "Mastspoor"@nl,
+        "Gniazdo masztu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2C6BDB> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kraweel (Beplankung)"@de,
+        "Carvel build (planking)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2D4862> a skos:Concept ;
+    dc:source "tblDictionarySTEERINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/11> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Steuerruder"@de,
+        "Ror"@dk,
+        "Rudder"@en,
+        "timón"@es,
+        "Gouvernail"@fr,
+        "Πηδάλιο, Τιμόνι"@gr,
+        "Timone"@it,
+        "Roer"@nl,
+        "Ster"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2EA1AB> a skos:Concept ;
+    dc:source "tblOperatingEnvironment" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/2> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "See"@de,
+        "Hav"@dk,
+        "Offshore"@en,
+        "navegación de alta mar"@es,
+        "Mer"@fr,
+        "Ανοικτή Θάλασσα"@gr,
+        "Marittimo"@it,
+        "Buitengaats"@nl,
+        "Żegluga pełnomorska"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2FF7C7> a skos:Concept ;
+    dc:source "tblShipFunction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/1> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Funktion unbekannt"@de,
+        "Ukendt skibsfunktion"@dk,
+        "Unknown ship function"@en,
+        "función desconocida"@es,
+        "Fonction du bateau inconnue"@fr,
+        "Άγνωστη Λειτουργία"@gr,
+        "Funzione sconosciuta"@it,
+        "Onbekende scheepsfunctie"@nl,
+        "Nieznane przeznaczenie statku"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/3323FF> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Navis caudicaria"@de,
+        "Navis caudicaria"@dk,
+        "Navis caudicaria"@en,
+        "navis caudicaria"@es,
+        "Navis caudicaria"@fr,
+        "Tύπος Caudicaria"@gr,
+        "Navis caudicaria"@it,
+        "Navis caudicaria"@nl,
+        "Navis caudicaria"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/346DF1> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gestakt und gesegelt"@de,
+        "Staget og sejlet"@dk,
+        "Punted and sailed"@en,
+        "a pértiga y a vela"@es,
+        "À la perche et à voile"@fr,
+        "Κίνηση με Κοντάρι και Ιστία"@gr,
+        "A spinta e a vela"@it,
+        "Geboomd en gezeild"@nl,
+        "Na pych i żaglowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/379A2E> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Ausleger"@de,
+        "Udrigger"@dk,
+        "Outrigger"@en,
+        "arbotante"@es,
+        "Προώστης, Αργανέλο, Βαρδαφόγος"@gr,
+        "Buttafuori"@it,
+        "Uitlegger"@nl,
+        "Wysięgnik"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/3A3C90> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Boden"@de,
+        "Bund"@dk,
+        "Bottom"@en,
+        "fondo o carena"@es,
+        "Caràne"@fr,
+        "Πυθμένας"@gr,
+        "Fondo"@it,
+        "Bodem"@nl,
+        "Dno"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/3A4334> a skos:Concept ;
+    dc:source "tblDictionarySTEERINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/11> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Ruderfassung"@de,
+        "Rorfæste"@dk,
+        "Rudder Fitting"@en,
+        "guarnición del timón"@es,
+        "Rudder Fitting"@gr,
+        "Impianto del timone"@it,
+        "Stuurriemkast"@nl,
+        "Zamocowanie wiosła"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/3C3311> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kanuausleger"@de,
+        "Udrigger (Dugout)"@dk,
+        "Outrigger dugout"@en,
+        "arbotante"@es,
+        "Προώστης, Αργανέλο, Βαρδαφόγος (σκαφτός)"@gr,
+        "Buttafuori di canoa"@it,
+        "Uitlegger (Kano)"@nl,
+        "Pływar zaburtowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/3DE001> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Sponung"@de,
+        "spunding"@dk,
+        "rebate"@en,
+        "alefriz"@es,
+        "râblure"@fr,
+        "ο κανθός"@gr,
+        "battura"@it,
+        "sponning"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/3FBE29> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Längsversteifung"@de,
+        "Langsgående forstærkning"@dk,
+        "Longitudinal Stiffener"@en,
+        "refuerzo longitudinal"@es,
+        "Renfort Longitudinal"@fr,
+        "Πλάγια Όψη"@gr,
+        "Montante longitudinale"@it,
+        "Langsverbinding"@nl,
+        "Usztywnienie wzdłużne"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/403A13> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Klampe"@de,
+        "klamp"@dk,
+        "cleat"@en,
+        "cornamusa"@es,
+        "taquet"@fr,
+        "το κοράκι,η δέστρα"@gr,
+        "galloccia"@it,
+        "klamp"@nl,
+        "klamra"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/40D1A3> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mainz A"@de,
+        "Mainz A"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/411EC9> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bug Sprit"@de,
+        "Bovspryd"@dk,
+        "Bowsprit"@en,
+        "bauprés"@es,
+        "Mat De Beaupre"@fr,
+        "Πρόβολος, Μπαστούνι"@gr,
+        "Bompresso"@it,
+        "Boegspriet"@nl,
+        "Bukszpryt"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/4277CC> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Achterschiff"@de,
+        "Agterskib"@dk,
+        "Aft"@en,
+        "a popa"@es,
+        "Poupè Arrière Du Navire"@fr,
+        "Πρυμναίο Τμήμα του Πλοίου"@gr,
+        "Poppavia"@it,
+        "Achterschip"@nl,
+        "Rufa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/427FCF> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Einbaum (mit Gesamtdeck)"@de,
+        "Dugout (with overall deck)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/431A1E> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Nahtspant"@de,
+        "liste"@dk,
+        "lath"@en,
+        "liston"@es,
+        "latte"@fr,
+        "ο τόρνος"@gr,
+        "tavoletta di calafato"@it,
+        "lat"@nl,
+        "złacze"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/434F04> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Knie"@de,
+        "Knæ"@dk,
+        "Knee"@en,
+        "curvatón"@es,
+        "Courbe"@fr,
+        "Αγκών, Μπρατσόλι"@gr,
+        "Bracciolo"@it,
+        "Knie"@nl,
+        "Kolanko, wezłówka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/441BAE> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Segel (Lateiner)"@de,
+        "Sejl (Latiner)"@dk,
+        "Sail (Lateen)"@en,
+        "vela latina"@es,
+        "Voile Latine"@fr,
+        "Πανί (λατίνι)"@gr,
+        "Vela (Latina)"@it,
+        "Zeil (Latijn)"@nl,
+        "Żagiel łaciński"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/45B061> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bugsporn"@de,
+        "Krigen"@dk,
+        "Cutwater"@en,
+        "espolón"@es,
+        "Κυματόμος, Θαλασσοτόμος"@gr,
+        "Tagliamare"@it,
+        "Spoor"@nl,
+        "Taran dziobowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/47191C> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gang"@de,
+        "Bordgang"@dk,
+        "Strake"@en,
+        "traca o hilada"@es,
+        "Virure"@fr,
+        "Μαδέρι"@gr,
+        "Corsodi fasciame"@it,
+        "Gang"@nl,
+        "Pas poszycia"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/4744EE> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bohrung"@de,
+        "Syhul"@dk,
+        "Stitch Hole"@en,
+        "ojal"@es,
+        "Trou De Piqûre"@fr,
+        "Οπή της Ραφής"@gr,
+        "Foro per cucitura"@it,
+        "Stikselgat"@nl,
+        "Otwór do zszywania"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/49AA0C> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schäftung"@de,
+        "Lask"@dk,
+        "Scarf"@en,
+        "escarpe"@es,
+        "Écart"@fr,
+        "Παρέλα, Σόκορα"@gr,
+        "Palella, Giunto"@it,
+        "Las"@nl,
+        "Złącze"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/4B0A52> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Keipe"@de,
+        "Kejpe"@dk,
+        "Rowlock"@en,
+        "chumacera de remo"@es,
+        "-Dame De Nage"@fr,
+        "Στήριγξ, Φουρκαδέλα, Σκαλμός"@gr,
+        "Scalmo"@it,
+        "Roeidol"@nl,
+        "Dulka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/4EC602> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "North Ferriby"@de,
+        "North Ferriby"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/4FF277> a skos:Concept ;
+    dc:source "tblDictionaryPUNTINGANDTOWING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/13> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Stakstange"@de,
+        "Stage"@dk,
+        "Punting Pole"@en,
+        "percha para fincar"@es,
+        "Perche"@fr,
+        "Κουρίτα, Πριάρι"@gr,
+        "Pertica"@it,
+        "Vaarboom"@nl,
+        "Tyczka pychowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/51C929> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Zwammerdam 5"@de,
+        "Zwammerdam 5"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5472B2> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "hulkähnlich"@de,
+        "Holktype"@dk,
+        "Hulklike"@en,
+        "pontón"@es,
+        "Bateau rond"@fr,
+        "Τύπος “Hulklike”"@gr,
+        "Hulk"@it,
+        "Hulkachtig"@nl,
+        "Stary kadłub"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/54D771> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bolzen"@de,
+        "bolt"@dk,
+        "bolt"@en,
+        "perno"@es,
+        "cheville"@fr,
+        "ο ξύλινος πείρος"@gr,
+        "chiavarda"@it,
+        "bout"@nl,
+        "bolec/trzpien"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/54E32C> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "wikingerschiffähnlich"@de,
+        "Vikingeskibslignende"@dk,
+        "Viking ship like"@en,
+        "nave vicinga"@es,
+        "Bateau viking"@fr,
+        "Τύπος Βίκινγκς"@gr,
+        "Vichingo"@it,
+        "Vikingschip-achtig"@nl,
+        "Statek wikingów"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5601F3> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Aussparung"@de,
+        "udsparing"@dk,
+        "recess"@en,
+        "nicho"@es,
+        "niche"@fr,
+        "η εσοχή"@gr,
+        "incasso"@it,
+        "uitsparing"@nl,
+        "wpust"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5B0B41> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Anriss"@de,
+        "opridsningsmærker"@dk,
+        "setting out mark"@en,
+        "marcas"@es,
+        "marque"@fr,
+        "το σημάδεμα"@gr,
+        "segno di costruzione"@it,
+        "markering"@nl,
+        "znaki zewnetrzne"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5E0D28> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kimm (Rund)"@de,
+        "Kiming"@dk,
+        "Bilge"@en,
+        "pantoque"@es,
+        "Bouchain"@fr,
+        "Σεντίνα"@gr,
+        "Ginocchio"@it,
+        "Kim"@nl,
+        "Obło, zęza"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5ED27C> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Getreidelt und gepaddelt"@de,
+        "Trukket og padlet"@dk,
+        "Towed and paddled"@en,
+        "a la sirga y a canalete"@es,
+        "Tiré et à pagayé"@fr,
+        "Ρυμουλκούμενο και Κωπήλατο (ταρσοπλοϊα)"@gr,
+        "A traino e a pagaia"@it,
+        "Gejaagd en gepeddeld"@nl,
+        "Holowanie i wiosłowanie z ręki"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5EEC61> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Wrange"@de,
+        "Bundstok"@dk,
+        "Floor Timber"@en,
+        "varenga"@es,
+        "Varangue"@fr,
+        "Έδρα, Στρώση"@gr,
+        "Madiere"@it,
+        "Legger"@nl,
+        "Dennik"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5EF232> a skos:Concept ;
+    dc:source "tblDictionarySUPERSTRUCTURE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/19> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Reling"@de,
+        "Gelænder"@dk,
+        "Rail"@en,
+        "barandilla"@es,
+        "Φράκτης"@gr,
+        "Pavese"@it,
+        "Reling"@nl,
+        "Reling"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5F47CB> a skos:Concept ;
+    dc:source "tblDictionarySTEERINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/11> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Ruder (Heck)"@de,
+        "Hækror"@dk,
+        "Rudder (Stern)"@en,
+        "timón de espadilla"@es,
+        "Πρωραίο Πηδάλιο"@gr,
+        "Timone (Poppa)"@it,
+        "Roer (hek)"@nl,
+        "Płetwa steru"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/5F88DE> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Seitenspant"@de,
+        "Sidespant"@dk,
+        "Side Frame"@en,
+        "ligazón de revés"@es,
+        "Couple De Côté"@fr,
+        "Πλευρικοί Νομείς"@gr,
+        "Scalmo"@it,
+        "Zijspant"@nl,
+        "Wręg burtowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/610FD3> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Boden zuerst"@de,
+        "Bottom first"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/619AD3> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Unbekannte Konstruktion"@de,
+        "Ukendt konstruktion"@dk,
+        "Unknown constructional feature"@en,
+        "característica desconocida"@es,
+        "Άγνωστο Κατασκευαστικό Στοιχείο"@gr,
+        "Costruzione sconosciuta"@it,
+        "Onbekend constructie element"@nl,
+        "Nieznana cecha konstrukcyjna"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/61AB9E> a skos:Concept ;
+    dc:source "tblDictionaryDECKS" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/8> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Deck"@de,
+        "Dæk"@dk,
+        "Deck"@en,
+        "cubierta"@es,
+        "Pont"@fr,
+        "Κατάστρωμα"@gr,
+        "Coperta"@it,
+        "Dek"@nl,
+        "Pokład"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/63A6E4> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "koggenähnlich"@de,
+        "Koggetype"@dk,
+        "Coglike"@en,
+        "coca"@es,
+        "Cogue"@fr,
+        "Τύπος “Cog”"@gr,
+        "Cog"@it,
+        "Koggeachtig"@nl,
+        "Koga typ"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/644D77> a skos:Concept ;
+    dc:source "tblDictionarySUPERSTRUCTURE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/19> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Achterkastell"@de,
+        "Agerkastel"@dk,
+        "Aftcastle"@en,
+        "castillo de popa"@es,
+        "Επίστεγον, Κάσσαρο"@gr,
+        "Castello di poppa"@it,
+        "Achterkasteel"@nl,
+        "Taran pokładowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/6471C5> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Naht"@de,
+        "Nåd"@dk,
+        "Seam"@en,
+        "costura"@es,
+        "Couture"@fr,
+        "Αρμός"@gr,
+        "Comento"@it,
+        "Naad"@nl,
+        "Szew"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/648E0B> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Toppsegel"@de,
+        "Sejl (Top)"@dk,
+        "Sail (Top)"@en,
+        "escandalosa"@es,
+        "Δόλων, Γάμπια"@gr,
+        "Vela (Superiore)"@it,
+        "Zeil (Top)"@nl,
+        "Topsel"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/6491C3> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kraweel (Seite)"@de,
+        "Carvel build (side)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/655F73> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mast (Besanmast)"@de,
+        "Mast (Mesan)"@dk,
+        "Mast (Mizzen)"@en,
+        "palo de mesana"@es,
+        "Mat D´artimon"@fr,
+        "Ιστός του Επιδρόμου, Πρυμναίος Ιστός"@gr,
+        "Albero (Poppa)"@it,
+        "Mast (Bezaan)"@nl,
+        "Bezan maszt"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/679A09> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Woerden 1"@de,
+        "Woerden 1"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/67C5EA> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Typ Igel"@de,
+        "Igel"@dk,
+        "Igel"@en,
+        "tipo Igel"@es,
+        "Igel"@fr,
+        "Τύπος “Ιgel”"@gr,
+        "Igel"@it,
+        "Igel"@nl,
+        "Igel"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/690B73> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schalenbauweise"@de,
+        "Skalbygget"@dk,
+        "Shell first"@en,
+        "A casco"@es,
+        "Bordé dabord"@fr,
+        "Scafo portante"@it,
+        "Huid eerst"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/69600C> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mast (Vormast)"@de,
+        "Mast (Fokke)"@dk,
+        "Mast (Fore)"@en,
+        "artimón"@es,
+        "Mat De Misaine"@fr,
+        "Ακάτιος, Πρωραίος Ιστός, Τουρκέτο"@gr,
+        "Albero (Prua)"@it,
+        "Mast (Voor)"@nl,
+        "Maszt przedni"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/6A2A87> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Utrecht 1"@de,
+        "Utrecht 1"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/6C1C1D> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Klinker (Seite)"@de,
+        "Clinker build (side)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/705DB7> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Getreidelt"@de,
+        "Trukket"@dk,
+        "Towed"@en,
+        "a la sirga"@es,
+        "Tiré"@fr,
+        "Ρυμουλκούμενο"@gr,
+        "A traino"@it,
+        "Gejaagd"@nl,
+        "Holowanie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/71CB9C> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Vorsegel"@de,
+        "Sejl (For)"@dk,
+        "Sail (Fore)"@en,
+        "vela de proa"@es,
+        "Τρίγκος, Ακάτιον"@gr,
+        "Vela (Di prua)"@it,
+        "Zeil (Voor)"@nl,
+        "Żagiel dziobowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/737BE7> a skos:Concept ;
+    dc:source "tblDictionarySTEERINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/11> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Ruderbalken Stütze"@de,
+        "Rorbjælke støtte"@dk,
+        "Rudder Beam Stiffener"@en,
+        "puntal de bancada de timón"@es,
+        "Support De Poutre De Gouvernail"@fr,
+        "Πουντέλι του Ζυγού του Τιμονιού"@gr,
+        "Puntello per il baglio del timone"@it,
+        "Roerbalk-Klamp"@nl,
+        "Usztywnienie belki sterowej"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/7393C9> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Nagel (Baum)"@de,
+        "Nail (tree)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/75D305> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Paddel"@de,
+        "Padle"@dk,
+        "Paddle"@en,
+        "pala"@es,
+        "Pagaye"@fr,
+        "Κουπί φτυάρι"@gr,
+        "Pagaia"@it,
+        "Peddel"@nl,
+        "Wiosło krótkie (pagaj)"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/7B12A2> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gerudert"@de,
+        "Roet"@dk,
+        "Oared"@en,
+        "a remo"@es,
+        "À rames"@fr,
+        "Κωπήλατο"@gr,
+        "A remi"@it,
+        "Geroeid"@nl,
+        "Wiosłowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/7D2D8B> a skos:Concept ;
+    dc:source "n1.oe" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/2> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Küste"@de,
+        "Coastal"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/7EA68E> a skos:Concept ;
+    dc:source "tblDictionaryHANDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/14> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Anker"@de,
+        "Anker"@dk,
+        "Anchor"@en,
+        "ancla"@es,
+        "Ancre"@fr,
+        "Άγκυρα"@gr,
+        "Ancora"@it,
+        "Anker"@nl,
+        "Kotwica"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/7ED321> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Balken"@de,
+        "Bjælke"@dk,
+        "Beam"@en,
+        "viga"@es,
+        "Bau. Barrot"@fr,
+        "Ζυγός, Καμάρι"@gr,
+        "Baglio"@it,
+        "Balk"@nl,
+        "Belka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/7F16E0> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kaffe"@de,
+        "Kaff"@dk,
+        "Swim-Head"@en,
+        "popa / proa a rampa"@es,
+        "Élancement"@fr,
+        "Swim-Head"@gr,
+        "Slancio"@it,
+        "Heve"@nl,
+        "Skrajnik dziobowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/807A0F> a skos:Concept ;
+    dc:source "tblDictionarySTEERINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/11> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Ruderbalken"@de,
+        "Rorbjælke"@dk,
+        "Rudder Beam"@en,
+        "bancada de timón"@es,
+        "Poutre De Gouvernail"@fr,
+        "Ζυγό του Τιμονιού"@gr,
+        "Baglio del timone"@it,
+        "Roerbalk"@nl,
+        "Belka steru"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/80B562> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Vorschiff"@de,
+        "Forskib"@dk,
+        "Fore"@en,
+        "escobenes"@es,
+        "Avant Du Navire"@fr,
+        "Πρώραθεν, Κατάπρωρα"@gr,
+        "Proravia"@it,
+        "Voor, Voorschip"@nl,
+        "Przód"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/817F57> a skos:Concept ;
+    dc:source "tblDictionaryDECKS" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/8> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Decksplanke"@de,
+        "Dæksplanke"@dk,
+        "Deckplank"@en,
+        "tablazón de cubierta"@es,
+        "Bordage De Pont"@fr,
+        "Μαδέρια του Καταστρώματος"@gr,
+        "Tavola di coperta"@it,
+        "Dekplank"@nl,
+        "Klepka pokładu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/85C3C2> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Rute"@de,
+        "vidje"@dk,
+        "withy"@en,
+        "mimbre"@es,
+        "osier"@fr,
+        "το βούρλο"@gr,
+        "giunco"@it,
+        "twijg"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/87FFFB> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bug"@de,
+        "Bov"@dk,
+        "Bow"@en,
+        "proa"@es,
+        "Proue"@fr,
+        "Πλώρη"@gr,
+        "Prua"@it,
+        "Boeg"@nl,
+        "Dziób"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/883E8D> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Unbekannter Schiffstyp"@de,
+        "Udefineret skibstype"@dk,
+        "Undefined ship type"@en,
+        "tipo desconocido"@es,
+        "Type du bateau inconnu"@fr,
+        "Ακαθόριστος Τύπος"@gr,
+        "Tipo navale indefinito"@it,
+        "Onbekend scheepstype"@nl,
+        "Nieznany typ"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/88C1CD> a skos:Concept ;
+    dc:source "tblDictionarySURFACETREATMENT" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/16> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kalfat"@de,
+        "Kalfatring"@dk,
+        "Caulking"@en,
+        "calafateado"@es,
+        "Calfatage"@fr,
+        "Διάναξη, Καλαφάτισμα"@gr,
+        "Calafatura"@it,
+        "Breeuwsel"@nl,
+        "Uszczelnienie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/8AFF10> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Dollbaum"@de,
+        "Essingstringer"@dk,
+        "Inwale"@en,
+        "galón interno de la regala"@es,
+        "Préceinte Interne"@fr,
+        "Λώρος, Λούρος"@gr,
+        "Capo di banda interno"@it,
+        "Binnenboord"@nl,
+        "Wzdłużnik wewnętrzny"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/8B55C4> a skos:Concept ;
+    dc:source "tblShipFunction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/1> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Militärfahrzeug"@de,
+        "Militærfartøj"@dk,
+        "Military vessel"@en,
+        "buque de guerra"@es,
+        "Navire de guerre"@fr,
+        "Πολεμικό"@gr,
+        "Imbarcazione militare"@it,
+        "Oorlogsschip"@nl,
+        "Jednostka bojowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/8C0C1B> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gut (Laufend)"@de,
+        "Rig (Løbende)"@dk,
+        "Rigging (Running)"@en,
+        "jarcías muertas o arboladura"@es,
+        "Greement (Courant)"@fr,
+        "Εξαρτία, Αρματωσιά"@gr,
+        "Manovre correnti"@it,
+        "Want (Lopend)"@nl,
+        "Olinowanie ruchome"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/8CA594> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mittelsteven"@de,
+        "Midterstævn"@dk,
+        "Middle Stempost"@en,
+        "roda central"@es,
+        "Proue Centrale"@fr,
+        "Μέγιστος Νομεύς, Μάστορης"@gr,
+        "Ruota di prua di mezzo"@it,
+        "Middensteven"@nl,
+        "Stewa środkowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/8D23B1> a skos:Concept ;
+    dc:source "tblShipFunction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/1> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Fischereifahrzeug"@de,
+        "Fiskefartøj"@dk,
+        "Fishing vessel"@en,
+        "barca pesquero"@es,
+        "Bateau de pêche"@fr,
+        "Ψαράδικο"@gr,
+        "Imbarcazione da pesca"@it,
+        "Visserschip"@nl,
+        "Jednostka rybacka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/8E26B8> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "prahmähnlich"@de,
+        "Pramtype"@dk,
+        "Pramlike"@en,
+        "barca a fondo de batea"@es,
+        "Barque"@fr,
+        "Μαούνα"@gr,
+        "Pram"@it,
+        "Praamachtig"@nl,
+        "Barka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/8FCA50> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Nagel (Kupfer)"@de,
+        "Nail (copper)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/938B4F> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Achtersteven"@de,
+        "Agterstævn"@dk,
+        "Sternpost"@en,
+        "codaste popel"@es,
+        "Étambot"@fr,
+        "Ποδόστημα"@gr,
+        "Dritto/Ruota di poppa"@it,
+        "Achtersteven"@nl,
+        "Tylnica"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/9416B4> a skos:Concept ;
+    dc:source "tblDictionaryWARFARE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/15> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Waffen"@de,
+        "Bevæbning"@dk,
+        "Weapons on board"@en,
+        "armamento"@es,
+        "Μεταφερόμενος Οπλισμός"@gr,
+        "Armi a bordo"@it,
+        "Broń na pokładzie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/947F7A> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gerudert und gesegelt"@de,
+        "Roet og sejlet"@dk,
+        "Oared and sailed"@en,
+        "a remo y a vela"@es,
+        "À rames et à voile"@fr,
+        "Κωπήλατο και Ιστιοφόρο"@gr,
+        "A remi e a vela"@it,
+        "Geroeid en gezeild"@nl,
+        "Wiosłowo-żaglowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/96911B> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Zwammerdam 3"@de,
+        "Zwammerdam 3"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/977C4D> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kimm (Eckig)"@de,
+        "Kiming Skarp"@dk,
+        "Chine"@en,
+        "angular de pantoque"@es,
+        "Bouchain Vif"@fr,
+        "Δούγας"@gr,
+        "Curvatura della carena"@it,
+        "Kim (Harde)"@nl,
+        "Łańcuch"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/98614C> a skos:Concept ;
+    dc:source "tblDictionaryHANDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/14> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Poller"@de,
+        "Pullert"@dk,
+        "Bollard"@en,
+        "bita"@es,
+        "Bitte"@fr,
+        "Δέστρα Πρυμνησίων, Μπίντα"@gr,
+        "Bitta"@it,
+        "Bolder"@nl,
+        "Pachołek"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/9A4CAE> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Duchtstütze"@de,
+        "Toftestander"@dk,
+        "Thwart Stanchion"@en,
+        "puntal de bancada"@es,
+        "Montant De Banc De Nage"@fr,
+        "Υπόσελμα"@gr,
+        "Puntello del sedile"@it,
+        "Roeibank-Stut"@nl,
+        "Podpora ławki"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/9DF75C> a skos:Concept ;
+    dc:source "tblDictionarySUPERSTRUCTURE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/19> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kabine"@de,
+        "Kahyt"@dk,
+        "Cabin"@en,
+        "camarote"@es,
+        "Cabine"@fr,
+        "Καμπίνα"@gr,
+        "Cabina"@it,
+        "Roef"@nl,
+        "Kabina"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A00109> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Futterholz"@de,
+        "fyldtræ"@dk,
+        "filler"@en,
+        "pieza de relleno"@es,
+        "cale de remplissage"@fr,
+        "ο ζωστήρας"@gr,
+        "riempitivo"@it,
+        "vulstuk"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A14DDA> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Unbekannter Antrieb"@de,
+        "Ukendt fremdrivningsmiddel"@dk,
+        "Propulsion unknown"@en,
+        "propulsión desconocida"@es,
+        "Propulsion inconnue"@fr,
+        "Άγνωστος Τρόπος Πρόωσης"@gr,
+        "Propulsione sconosciuta"@it,
+        "Onbekende aansturing"@nl,
+        "Napęd nieznany"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A1A0DE> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Ruderducht (Sitz)"@de,
+        "Tofte"@dk,
+        "Thwart"@en,
+        "bancada"@es,
+        "Banc De Nage"@fr,
+        "Σέλμα, Πάγκος"@gr,
+        "Sedile"@it,
+        "Roeibank"@nl,
+        "Ława"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A1B3F9> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schott"@de,
+        "Skot"@dk,
+        "Bulkhead"@en,
+        "mamparo"@es,
+        "Cloison"@fr,
+        "Φράκτες, Μπουλμές"@gr,
+        "Paratia"@it,
+        "Schot"@nl,
+        "Gródź"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A21BCC> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Blackfriars"@de,
+        "Blackfriars"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A29AEA> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "gebunden"@de,
+        "surret / Bundet sammen"@dk,
+        "lashed / bound"@en,
+        "ligadura / ligado"@es,
+        "boutonné"@fr,
+        "Δετό"@gr,
+        "legato"@it,
+        "geknoopt / Gebonden"@nl,
+        "złacze nakladkowe / Powiązany"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A3C7CB> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Riemenpforte"@de,
+        "årehul"@dk,
+        "Oar Port"@en,
+        "gatera"@es,
+        "Ouverture De Rame"@fr,
+        "Ανοιγμα για το Κουπί"@gr,
+        "Cubia del remo"@it,
+        "Riempoort"@nl,
+        "Otwór dulkowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A3EBFA> a skos:Concept ;
+    dc:source "tblDictionaryWARFARE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/15> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Rammsporn"@de,
+        "Ramstævn"@dk,
+        "Ram"@en,
+        "espolón"@es,
+        "Éperon"@fr,
+        "Έμβολο"@gr,
+        "Rostro"@it,
+        "Ram"@nl,
+        "Taran"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A46547> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schnur"@de,
+        "Sting"@dk,
+        "Stitch"@en,
+        "cordel"@es,
+        "Point"@fr,
+        "Ραφή"@gr,
+        "Cordella"@it,
+        "Steek (Stiksel)"@nl,
+        "Ścieg"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A6A046> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Flickung"@de,
+        "reparation"@dk,
+        "repair"@en,
+        "reparacion"@es,
+        "réparation"@fr,
+        "η επισκευή"@gr,
+        "riparazione"@it,
+        "reparatie"@nl,
+        "naprawa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A7A73E> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Aussensteven (hinten)"@de,
+        "falsk agterstævn"@dk,
+        "false stern"@en,
+        "falsa popa"@es,
+        "faux étambot arrière"@fr,
+        "falsa poppa"@it,
+        "buitensteven (achter)"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/A9FE4D> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Scheuerleiste"@de,
+        "Fenderliste"@dk,
+        "Fender"@en,
+        "defensa"@es,
+        "Préceinte"@fr,
+        "Περίζωμα"@gr,
+        "Parabordo"@it,
+        "Berghout"@nl,
+        "Odbijacz, osłona"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/AB357C> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Zimmermannszeichen"@de,
+        "tømrermærke"@dk,
+        "carpenters mark"@en,
+        "marcas de carpintero"@es,
+        "marque de charpentier"@fr,
+        "marchio di carpenteria"@it,
+        "huismerk"@nl,
+        "znaki ciesielskie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/AB5CBB> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "galeerenähnlich"@de,
+        "Galej"@dk,
+        "Galley"@en,
+        "galera"@es,
+        "Galère"@fr,
+        "Κέλης"@gr,
+        "Galera"@it,
+        "Galei"@nl,
+        "Galera"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/ABFB76> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mainz B"@de,
+        "Mainz B"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/AC3D96> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Stevenschuh/Anlauf"@de,
+        "stævnknæ"@dk,
+        "gripe"@en,
+        "trapa"@es,
+        "brion"@fr,
+        "το στειρόποδο της πλώρης"@gr,
+        "brione"@it,
+        "stevenknie"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/AC906A> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Typ Neumagen"@de,
+        "Neumagen"@dk,
+        "Neumagen"@en,
+        "tipo Neumagen"@es,
+        "Neumagen"@fr,
+        "Tύπος “Neumagen”"@gr,
+        "Neumagen"@it,
+        "Neumagen"@nl,
+        "Neumagen"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/AF5C8D> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mastbereich"@de,
+        "Masteområdet"@dk,
+        "Mast Area"@en,
+        "area del palo"@es,
+        "Aire Du Mât"@fr,
+        "Περιοχή του Ιστού"@gr,
+        "Area della albero"@it,
+        "Mastgebied"@nl,
+        "Strefa przymasztowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/AF72E8> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Stütze"@de,
+        "Stander"@dk,
+        "Stanchion"@en,
+        "puntal"@es,
+        "Épontille"@fr,
+        "Στυλίσκος, Πουντέλι"@gr,
+        "Puntello"@it,
+        "Stut"@nl,
+        "Wspornik, podpora"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/AFF00C> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Werkzeugspur"@de,
+        "værktøjsspor"@dk,
+        "tool mark"@en,
+        "marca de herramienta"@es,
+        "trace doutil"@fr,
+        "ίχνος εργαλείου"@gr,
+        "segno di lavorazione"@it,
+        "bewerkingsspoor"@nl,
+        "slady obróbki"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B00683> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "falscher Kiel"@de,
+        "stråkøl"@dk,
+        "false keel"@en,
+        "falsa quilla"@es,
+        "fausse-quille"@fr,
+        "το χέλυσμα,το υποτρόπιον"@gr,
+        "falsa chiglia"@it,
+        "valse kiel"@nl,
+        "ploza stepkowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B02E91> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Woerden 2"@de,
+        "Woerden 2"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B0535D> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Vordersteven"@de,
+        "Forstævn"@dk,
+        "Stempost"@en,
+        "branque"@es,
+        "Étrave"@fr,
+        "Στείρα της Πλώρης"@gr,
+        "Dritto/Ruota di prua"@it,
+        "Voorsteven"@nl,
+        "Gniazdo masztu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B0565D> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bargholz"@de,
+        "Bergholt"@dk,
+        "Wale"@en,
+        "cinta"@es,
+        "Préceinte"@fr,
+        "Ζωστήρ"@gr,
+        "Cinta"@it,
+        "Berghout"@nl,
+        "Mocnica burty"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B0D70E> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Maststütze"@de,
+        "Mastestøtte"@dk,
+        "Mast Support"@en,
+        "puntal para el  palo"@es,
+        "Διαδοκίς, Πικεριά"@gr,
+        "Supporto della albero"@it,
+        "Maststeun"@nl,
+        "Podpora masztu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B0F013> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Typ Portus"@de,
+        "Portus"@dk,
+        "Portus"@en,
+        "tipo portus"@es,
+        "Portus"@fr,
+        "Τύπος “Portus”"@gr,
+        "Portus"@it,
+        "Portus"@nl,
+        "Portus"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B2CF95> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Papyrusboot"@de,
+        "Papyrus boot"@dk,
+        "Papyrus boat"@en,
+        "nave de papiro"@es,
+        "Bateau en papyrus"@fr,
+        "Παπυρένιο Σκάφος"@gr,
+        "Papiro"@it,
+        "Papyrus boot"@nl,
+        "Statki z papirusu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B3B8F9> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gesegelt"@de,
+        "Sejlet"@dk,
+        "Sailed"@en,
+        "a vela"@es,
+        "À voile"@fr,
+        "Ιστιοφόρο"@gr,
+        "A vela"@it,
+        "Gezeild"@nl,
+        "Żaglowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B5BA3D> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bünte"@de,
+        "Dam"@dk,
+        "Fish well"@en,
+        "bodega de peces"@es,
+        "Cale de poisson"@fr,
+        "Ιχθυοδεξαμενή"@gr,
+        "Pozzetto per il pesce"@it,
+        "Bun"@nl,
+        "Sadz rybacka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B61EB9> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schanzkleid"@de,
+        "Skanseklædning"@dk,
+        "Bulwark"@en,
+        "borda ó regala"@es,
+        "Δρύφρακτο, Παραπέτο"@gr,
+        "Parapetto"@it,
+        "Verschansing"@nl,
+        "Nadburcie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B6D026> a skos:Concept ;
+    dc:source "tblDictionarySUPERSTRUCTURE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/19> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Vorderkastell"@de,
+        "Forkastel"@dk,
+        "Forecastle"@en,
+        "castillo de proa"@es,
+        "Πρόστεγον, Καμπούνι"@gr,
+        "Castello di prua"@it,
+        "Voorkasteel"@nl,
+        "Nadbudówka rufowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/B8ECB5> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Holznagel"@de,
+        "trænagle"@dk,
+        "treenail"@en,
+        "cabilla"@es,
+        "gournable (cheville)"@fr,
+        "η καβίλια,ο γόμφος"@gr,
+        "cavicchio"@it,
+        "houten pen (groot)"@nl,
+        "kolek drewniany"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/BAED73> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Einbaum (erweitert)"@de,
+        "Dugout (extended)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/BC332F> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Nagel (Bronze)"@de,
+        "Nail (bronze)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/BC75BB> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gepaddelt"@de,
+        "Padlet"@dk,
+        "Paddled"@en,
+        "a canalete"@es,
+        "À pagaye"@fr,
+        "Κωπήλατο (ταρσοπλοΐα)"@gr,
+        "A pagaia"@it,
+        "Gepeddeld"@nl,
+        "Wiosłowy z ręki"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/BCE269> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Sprung"@de,
+        "Spring"@dk,
+        "Sheer"@en,
+        "arrufo"@es,
+        "Torture"@fr,
+        "Σιμότης, Λουνάδα"@gr,
+        "Cavallino"@it,
+        "Zeeg"@nl,
+        "Wznios pokładu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/BD12D8> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Skelettbauweise"@de,
+        "Skeletbygget"@dk,
+        "Skeleton first"@en,
+        "A esqueleto"@es,
+        "Construit sur couples"@fr,
+        "Scheletro portante"@it,
+        "Op spanten gebouwd"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/BE91AE> a skos:Concept ;
+    dc:source "tblDictionaryWARFARE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/15> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Obersporn"@de,
+        "øvre Ramstævn"@dk,
+        "Upper Ram"@en,
+        "espolón superior"@es,
+        "Υπερκείμενο Έμβολο"@gr,
+        "Rostro superiore"@it,
+        "Bovenste Ram"@nl,
+        "Taran pokładowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C0B0E1> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Einbaum (Boden)"@de,
+        "Dugout (bottom)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C11F67> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Niet"@de,
+        "Klinknagle"@dk,
+        "Rivet"@en,
+        "remache"@es,
+        "Rivet"@fr,
+        "Δίκαρφο, Γουδέλα"@gr,
+        "Rivetto"@it,
+        "Klinknagel"@nl,
+        "Nit"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C399D6> a skos:Concept ;
+    dc:source "tblDictionaryHANDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/14> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Winde"@de,
+        "Vinde"@dk,
+        "Winch"@en,
+        "cabestrante o molinete"@es,
+        "Treuil"@fr,
+        "Εργάτης"@gr,
+        "Cabestrano"@it,
+        "Lier"@nl,
+        "Wciągarka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C42DC4> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Navis oneraria"@de,
+        "Navis oneraria"@dk,
+        "Navis oneraria"@en,
+        "navis oneraria"@es,
+        "Navis oneraria"@fr,
+        "Tύπος Oneraria"@gr,
+        "Navis oneraria"@it,
+        "Navis oneraria"@nl,
+        "Navis oneraria"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C4AA6D> a skos:Concept ;
+    dc:source "n1.function" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/1> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Blockade"@de,
+        "blockage"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C4B24F> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Halbspant"@de,
+        "Halvspant"@dk,
+        "Half Frame"@en,
+        "media cuaderna"@es,
+        "Demi-Couple"@fr,
+        "Σκέλια"@gr,
+        "Semiordinata"@it,
+        "Halfspant"@nl,
+        "Półwręg"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C5A0B6> a skos:Concept ;
+    dc:source "tblShipFunction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/1> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Frachter"@de,
+        "Transportfartøj"@dk,
+        "Transport vessel"@en,
+        "buque mercantil o transporte"@es,
+        "Navire transport"@fr,
+        "Λάντζα, Μαούνα"@gr,
+        "Imbarcazione da trasporto"@it,
+        "Transportschip"@nl,
+        "Jednostka transportowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C71032> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Planke"@de,
+        "Planke"@dk,
+        "Plank"@en,
+        "tablón"@es,
+        "Bordage"@fr,
+        "Σανίδα, Μαδέρι, Επηγκενίς"@gr,
+        "Tavola di fasciame"@it,
+        "Plank"@nl,
+        "Klepka"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C7A87C> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Gerudert, gestakt und gesegelt"@de,
+        "Roet, staget og sejlet"@dk,
+        "Oared, punted and sailed"@en,
+        "a remo, a pértiga y a vela"@es,
+        "À rames, à la perche et à voile"@fr,
+        "Κωπήλατο, με Κοντάρι  και Ιστιοφόρο"@gr,
+        "A remi, a spinta e a vela"@it,
+        "Geroeid, geboomd en gezeild"@nl,
+        "Wiosłowy, na pych i żaglowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/C8BE01> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Pommeroeul 1"@de,
+        "Pommeroeul 1"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/CDC760> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Spiegel"@de,
+        "Spejl."@dk,
+        "Mirror"@en,
+        "popa de espejo"@es,
+        "Miroir"@fr,
+        "Καθρέφτης"@gr,
+        "Specchio"@it,
+        "Spiegel"@nl,
+        "Odbicie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/CEA053> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bolzen (Bronze)"@de,
+        "Bolt (bronze)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/CFCC18> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Genäht"@de,
+        "Syet"@dk,
+        "Sewn"@en,
+        "cosido"@es,
+        "Cousu"@fr,
+        "Ραμμένο"@gr,
+        "Cucito"@it,
+        "Genaaid"@nl,
+        "Szycie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D03311> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Wegerung"@de,
+        "Garnering"@dk,
+        "Ceiling"@en,
+        "ferro interior / vagras"@es,
+        "Valgrage"@fr,
+        "Εντερόνεια, Φόδρο"@gr,
+        "Fasciame interno"@it,
+        "Wegering"@nl,
+        "Potnica, szalunek"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D060C4> a skos:Concept ;
+    dc:source "tblDictionaryWARFARE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/15> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schildhalterung"@de,
+        "Skjoldliste"@dk,
+        "Shield Holder"@en,
+        "montaje del escudo"@es,
+        "Support De Bouclier"@fr,
+        "Στήριγμα Ασπίδας"@gr,
+        "Reggi-scudo"@it,
+        "Schildophanging"@nl,
+        "Uchwyt tarczy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D10A1D> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Stevendekoration"@de,
+        "Stævnfigur"@dk,
+        "Figurehead"@en,
+        "decoración de roda"@es,
+        "Figure De Proue"@fr,
+        "Ακρόπρωρον"@gr,
+        "Polena"@it,
+        "Boegbeeld"@nl,
+        "Galion, figura dziobowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D12C93> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mastducht"@de,
+        "Mastetofte"@dk,
+        "Mast Thwart"@en,
+        "bancada del palo"@es,
+        "Banc De Mât"@fr,
+        "Πάγκος του Άλμπουρου"@gr,
+        "Banco della albero"@it,
+        "Mastbank"@nl,
+        "Ława masztowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D1CB84> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Dollbord"@de,
+        "Essing"@dk,
+        "Gunwale"@en,
+        "regala o borda"@es,
+        "Plat-Bord"@fr,
+        "Κουπαστή"@gr,
+        "Capo di banda"@it,
+        "Dolboord"@nl,
+        "Mocnica burtowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D3FF82> a skos:Concept ;
+    dc:source "tblDictionaryCONSTRUCTIONALFEATURES" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Nut und Feder"@de,
+        "Tap-i-hul-samling"@dk,
+        "Mortice and Tenon"@en,
+        "a rebajo / Unión a Espiga"@es,
+        "Mortice and Tenon"@fr,
+        "Μόρσα και Τένοντες"@gr,
+        "Mortasa e Tenone"@it,
+        "Mortice and Tenon"@nl,
+        "Mortice and Tenon"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D59DA1> a skos:Concept ;
+    dc:source "tblDictionarySURFACETREATMENT" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/16> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Plankenbeschlag"@de,
+        "Forhudning"@dk,
+        "Sheathing"@en,
+        "revestimiento o forro"@es,
+        "Revétement, Doublage"@fr,
+        "Εξωτερική Επένδυση"@gr,
+        "Fodera"@it,
+        "Huidbeplating"@nl,
+        "Powłoka na poszyciu"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D6F501> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Zwammerdam"@de,
+        "Zwammerdam"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D7F183> a skos:Concept ;
+    dc:source "tblShipFunction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/1> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Arbeitsboot"@de,
+        "Arbejdsbåd"@dk,
+        "Working boat"@en,
+        "mahona"@es,
+        "Bateau de travail"@fr,
+        "Εμπορικό Πλοίο"@gr,
+        "Imbarcazione da lavoro"@it,
+        "Werkschuit"@nl,
+        "Łódź"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D800BA> a skos:Concept ;
+    dc:source "tblOperatingEnvironment" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/2> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Unbekannt"@de,
+        "Ukendt anvendelsesområde"@dk,
+        "Unknown operating environment"@en,
+        "uso desconocido"@es,
+        "Environnement d´operation inconnu"@fr,
+        "Άγνωστο"@gr,
+        "Ambiente operativo sconosciuto"@it,
+        "Onbekende vaaromgeving"@nl,
+        "Nieznany obszar działania"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D81709> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "nüstergatt"@de,
+        "lænsehul"@dk,
+        "limber hole"@en,
+        "groeras"@es,
+        "anguillier"@fr,
+        "το μιξούδι"@gr,
+        "foro di biscia"@it,
+        "loggat"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D88694> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Einbaum"@de,
+        "Stammebåd"@dk,
+        "Dugout"@en,
+        "Canoa"@es,
+        "Monoxyle"@fr,
+        "Monossile"@it,
+        "Boomstamkano"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/D8EF0C> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Dolle"@de,
+        "Tolle"@dk,
+        "Thole"@en,
+        "tolete"@es,
+        "Tolet"@fr,
+        "Σκαρμός"@gr,
+        "Scalmotto"@it,
+        "Dol"@nl,
+        "Dulka z dwóch kołków"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/DB6446> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Heck"@de,
+        "Hæk"@dk,
+        "Stern"@en,
+        "popa"@es,
+        "Poupe"@fr,
+        "Πρύμνη"@gr,
+        "Poppa"@it,
+        "Hek"@nl,
+        "Rufa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/DB88D4> a skos:Concept ;
+    dc:source "tblDictionaryWARFARE" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/15> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schild"@de,
+        "Skjold"@dk,
+        "Shield"@en,
+        "escudo"@es,
+        "Ασπίδα"@gr,
+        "Scudo"@it,
+        "Schild"@nl,
+        "Tarcza"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/DC8396> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Schandeckel"@de,
+        "skandæk"@dk,
+        "covering board"@en,
+        "regala"@es,
+        "plat bord"@fr,
+        "bordo"@it,
+        "potdeksel"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/DC89EB> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Langschiff"@de,
+        "Langskib"@dk,
+        "Longship"@en,
+        "navis lunga"@es,
+        "Bateau long"@fr,
+        "Μακρό Πλοίο"@gr,
+        "Nave lunga"@it,
+        "Longship"@nl,
+        "Łódź wikingów"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/DCA950> a skos:Concept ;
+    dc:source "tblDictionaryROWINGANDPADDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/12> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Riemen"@de,
+        "åre"@dk,
+        "Oar"@en,
+        "remo"@es,
+        "Aviron, Rame"@fr,
+        "Κουπί"@gr,
+        "Remo"@it,
+        "Riem"@nl,
+        "Wiosło dulkowe"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/E0984E> a skos:Concept ;
+    dc:source "tblOperatingEnvironment" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/2> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Binnenland"@de,
+        "Indland"@dk,
+        "Inland"@en,
+        "navegación en aguas continentales"@es,
+        "Intérieur"@fr,
+        "Εσωτερικά Ύδατα"@gr,
+        "Interno"@it,
+        "Binnenwater"@nl,
+        "Żegluga śródlądowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/E0BC8C> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Einbaum (mit Vorunter)"@de,
+        "Dugout (with foredeck)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/E5EF06> a skos:Concept ;
+    dc:source "tblPropulsion" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/3> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Getreidelt und gesegelt"@de,
+        "Trukket og sejlet"@dk,
+        "Towed and sailed"@en,
+        "a la sirga y a vela"@es,
+        "Tiré et à voile"@fr,
+        "Ρυμουλκούμενο και Ιστιοφόρο"@gr,
+        "A traino e a vela"@it,
+        "Gejaagd en gezeild"@nl,
+        "Holowanie i żaglowanie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/E9E384> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Bugholz"@de,
+        "stævnblok"@dk,
+        "prow block"@en,
+        "prow block (eng)"@es,
+        "épaulure"@fr,
+        "blocco di prua"@it,
+        "stevenplaat"@nl,
+        "blok dziobowy"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/EAC98D> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kraweel (Boden)"@de,
+        "Carvel build (bottom)"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/EAD7A9> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Erweiterter Einbaum"@de,
+        "Udspændt stammebåd"@dk,
+        "Extended Dugout"@en,
+        "piragua ampliada"@es,
+        "Canoé rehaussée"@fr,
+        "Σκαφτό με Προεκτάσεις"@gr,
+        "Piroga espansa"@it,
+        "Opgeboeide kano"@nl,
+        "Dłubanka z nadburciem"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/EB04DC> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Stringer"@de,
+        "Stringer"@dk,
+        "Stringer"@en,
+        "palmejar / trancanín"@es,
+        "Serre"@fr,
+        "Λώρος, Λούρος"@gr,
+        "Corrente"@it,
+        "Stringer"@nl,
+        "Wzdłużnik"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/EB6A4F> a skos:Concept ;
+    dc:source "tblWoordenboek" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Holzstift"@de,
+        "pind"@dk,
+        "peg"@en,
+        "espiga"@es,
+        "cheville (gournable)"@fr,
+        "ο πείρος.,- το βλήτρον"@gr,
+        "spinotto"@it,
+        "houten pen (klein)"@nl,
+        "kolek"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/ED5180> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Oberstimm"@de,
+        "Oberstimm"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/EDB704> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Rack"@de,
+        "Rakke"@dk,
+        "Parrel"@en,
+        "racamento de verga"@es,
+        "Racage"@fr,
+        "Αγκοίνη, Τρότσα"@gr,
+        "Galloccia"@it,
+        "Rak"@nl,
+        "Rak"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/EF0C63> a skos:Concept ;
+    dc:source "tblDictionaryDECKS" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/8> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Lukendeckel"@de,
+        "Luge"@dk,
+        "Hatch"@en,
+        "Cuartel De Escotilla"@es,
+        "Écoutille"@fr,
+        "Κάθοδος, Κουβούσι"@gr,
+        "Pannello del boccaporto"@it,
+        "Luik"@nl,
+        "Luk"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/F0F917> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Auflanger"@de,
+        "Oplænger"@dk,
+        "Futtock"@en,
+        "ligazón"@es,
+        "Allonge"@fr,
+        "Μαντάλι, Σκαρμός της Πόστας"@gr,
+        "Staminale"@it,
+        "Oplanger"@nl,
+        "Element ramy wręgowej"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/F426DE> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Kielplanke"@de,
+        "Kølplanke"@dk,
+        "Keel-Plank"@en,
+        "tablón de aparadura"@es,
+        "Bordage de Quille"@fr,
+        "Μαδέρι δίπλα στην Καρένα"@gr,
+        "Tavola di chiglia"@it,
+        "Kielplank"@nl,
+        "Klepka stępkowa"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/F4405C> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Segel (Rah)"@de,
+        "Sejl (Råsejl)"@dk,
+        "Sail (Square)"@en,
+        "vela cuadra"@es,
+        "Voile Carree"@fr,
+        "Πανί (τετράγωνο)"@gr,
+        "Vela (Quadra)"@it,
+        "Zeil (Vierkant)"@nl,
+        "Żagiel czworokątny"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/F48592> a skos:Concept ;
+    dc:source "tblShipType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Typ Blussus"@de,
+        "Blussus"@dk,
+        "Blussus"@en,
+        "tipo Blussus"@es,
+        "Blussus"@fr,
+        "Τύπος “Blussus”"@gr,
+        "Blussus"@it,
+        "Blussus"@nl,
+        "Blussus"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/F71E8E> a skos:Concept ;
+    dc:source "tblDictionaryHULL" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/6> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Beplankung"@de,
+        "Bordlægning"@dk,
+        "Planking"@en,
+        "tablón"@es,
+        "Bordé"@fr,
+        "Πέτσωμα"@gr,
+        "Fasciame"@it,
+        "Beplanking"@nl,
+        "Poszycie"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/F9BB92> a skos:Concept ;
+    dc:source "tblDictionaryHANDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/14> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Tau"@de,
+        "Tov, Reb"@dk,
+        "Rope"@en,
+        "cabo"@es,
+        "Cordage"@fr,
+        "Σχοινί"@gr,
+        "Cavo"@it,
+        "Touw"@nl,
+        "Lina"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/FB341B> a skos:Concept ;
+    dc:source "tblDictionaryHANDLING" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/14> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Block"@de,
+        "Blok"@dk,
+        "Pulley"@en,
+        "polea"@es,
+        "Poulie"@fr,
+        "Τροχαλία, Μακαράς"@gr,
+        "Puleggia"@it,
+        "Blok"@nl,
+        "Blok"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/FBE946> a skos:Concept ;
+    dc:source "tblDictionarySTEERINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/11> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Ruderpinne"@de,
+        "Rorpind"@dk,
+        "Rudder Pin"@en,
+        "caña del timón"@es,
+        "Θαιρός, Αρσενικό Βελόνι"@gr,
+        "Perno del timone"@it,
+        "Helmstok"@nl,
+        "Rumpel steru"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/FD7D75> a skos:Concept ;
+    dc:source "n1.tblLookupType" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/4> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Nordic"@de,
+        "Nordic"@en .
+
+<https://www.w3id.org/archlink/terms/NAVISone/FE0706> a skos:Concept ;
+    dc:source "tblDictionarySAILINGGEAR" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/10> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mast (Hauptmast)"@de,
+        "Mast"@dk,
+        "Mast (Main)"@en,
+        "palo (mayor)"@es,
+        "Mât"@fr,
+        "Ιστός, Κατάρτι"@gr,
+        "Albero (Maestro)"@it,
+        "Mast"@nl,
+        "Maszt główny"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/FE767B> a skos:Concept ;
+    dc:source "tblDictionaryINTERNALCONSTRUCTION" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/7> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Querriegel"@de,
+        "Tvårtømmer"@dk,
+        "Transverse Timber"@en,
+        "traversa"@es,
+        "Barrot"@fr,
+        "Διαμήκης Δοκός"@gr,
+        "Elemento trasversale"@it,
+        "Dwarshout"@nl,
+        "Belka poprzeczna"@pl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/FF8A47> a skos:Concept ;
+    dc:source "tblLookupConstruction" ;
+    skos:broader <https://www.w3id.org/archlink/terms/NAVISone/9> ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:prefLabel "Mallenbauweise"@de,
+        "Bygget på maller"@dk,
+        "Mould construction"@en,
+        "A molde"@es,
+        "Sur moules"@fr,
+        "Costruzione su sagoma"@it,
+        "Mallenbouw"@nl .
+
+<https://www.w3id.org/archlink/terms/NAVISone/13> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/4FF277> ;
+    skos:prefLabel "[Staken und treideln]"@de,
+        "[punting and towing]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/16> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/1EB740>,
+        <https://www.w3id.org/archlink/terms/NAVISone/88C1CD>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D59DA1> ;
+    skos:prefLabel "[Oberflächenbehandlung]"@de,
+        "[surface treatment]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/19> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/5EF232>,
+        <https://www.w3id.org/archlink/terms/NAVISone/644D77>,
+        <https://www.w3id.org/archlink/terms/NAVISone/9DF75C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B6D026> ;
+    skos:prefLabel "[Aufbauten]"@de,
+        "[superstructure]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/2> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/2EA1AB>,
+        <https://www.w3id.org/archlink/terms/NAVISone/7D2D8B>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D800BA>,
+        <https://www.w3id.org/archlink/terms/NAVISone/E0984E> ;
+    skos:prefLabel "[Arbeitsumgebung]"@de,
+        "[operating environment]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/8> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/0BE8C2>,
+        <https://www.w3id.org/archlink/terms/NAVISone/10E2CF>,
+        <https://www.w3id.org/archlink/terms/NAVISone/61AB9E>,
+        <https://www.w3id.org/archlink/terms/NAVISone/817F57>,
+        <https://www.w3id.org/archlink/terms/NAVISone/EF0C63> ;
+    skos:prefLabel "[Decks und Weger]"@de,
+        "[decks and ceilings]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/1> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/2FF7C7>,
+        <https://www.w3id.org/archlink/terms/NAVISone/8B55C4>,
+        <https://www.w3id.org/archlink/terms/NAVISone/8D23B1>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C4AA6D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C5A0B6>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D7F183> ;
+    skos:prefLabel "[Schiffsfunktion]"@de,
+        "[ship function]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/14> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/1975C4>,
+        <https://www.w3id.org/archlink/terms/NAVISone/7EA68E>,
+        <https://www.w3id.org/archlink/terms/NAVISone/98614C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C399D6>,
+        <https://www.w3id.org/archlink/terms/NAVISone/F9BB92>,
+        <https://www.w3id.org/archlink/terms/NAVISone/FB341B> ;
+    skos:prefLabel "[Handhabung]"@de,
+        "[handling]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/15> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/15087C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/9416B4>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A3EBFA>,
+        <https://www.w3id.org/archlink/terms/NAVISone/BE91AE>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D060C4>,
+        <https://www.w3id.org/archlink/terms/NAVISone/DB88D4> ;
+    skos:prefLabel "[Kriegsführung]"@de,
+        "[warfare]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/11> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/02A954>,
+        <https://www.w3id.org/archlink/terms/NAVISone/2D4862>,
+        <https://www.w3id.org/archlink/terms/NAVISone/3A4334>,
+        <https://www.w3id.org/archlink/terms/NAVISone/5F47CB>,
+        <https://www.w3id.org/archlink/terms/NAVISone/737BE7>,
+        <https://www.w3id.org/archlink/terms/NAVISone/807A0F>,
+        <https://www.w3id.org/archlink/terms/NAVISone/FBE946> ;
+    skos:prefLabel "[Ruderanlage]"@de,
+        "[steering gear]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/12> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/379A2E>,
+        <https://www.w3id.org/archlink/terms/NAVISone/3C3311>,
+        <https://www.w3id.org/archlink/terms/NAVISone/4B0A52>,
+        <https://www.w3id.org/archlink/terms/NAVISone/75D305>,
+        <https://www.w3id.org/archlink/terms/NAVISone/9A4CAE>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A1A0DE>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A3C7CB>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D8EF0C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/DCA950> ;
+    skos:prefLabel "[Rudern und paddeln]"@de,
+        "[rowing and paddling]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/3> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/0A8516>,
+        <https://www.w3id.org/archlink/terms/NAVISone/1E27F0>,
+        <https://www.w3id.org/archlink/terms/NAVISone/346DF1>,
+        <https://www.w3id.org/archlink/terms/NAVISone/5ED27C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/705DB7>,
+        <https://www.w3id.org/archlink/terms/NAVISone/7B12A2>,
+        <https://www.w3id.org/archlink/terms/NAVISone/947F7A>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A14DDA>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B3B8F9>,
+        <https://www.w3id.org/archlink/terms/NAVISone/BC75BB>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C7A87C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/E5EF06> ;
+    skos:prefLabel "[Antrieb]"@de,
+        "[propulsion]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/7> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/06BE5F>,
+        <https://www.w3id.org/archlink/terms/NAVISone/0D16A2>,
+        <https://www.w3id.org/archlink/terms/NAVISone/130F84>,
+        <https://www.w3id.org/archlink/terms/NAVISone/20AB84>,
+        <https://www.w3id.org/archlink/terms/NAVISone/2215C5>,
+        <https://www.w3id.org/archlink/terms/NAVISone/3FBE29>,
+        <https://www.w3id.org/archlink/terms/NAVISone/434F04>,
+        <https://www.w3id.org/archlink/terms/NAVISone/5EEC61>,
+        <https://www.w3id.org/archlink/terms/NAVISone/5F88DE>,
+        <https://www.w3id.org/archlink/terms/NAVISone/7ED321>,
+        <https://www.w3id.org/archlink/terms/NAVISone/8AFF10>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A1B3F9>,
+        <https://www.w3id.org/archlink/terms/NAVISone/AF72E8>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B5BA3D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C4B24F>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D03311>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D81709>,
+        <https://www.w3id.org/archlink/terms/NAVISone/EB04DC>,
+        <https://www.w3id.org/archlink/terms/NAVISone/F0F917>,
+        <https://www.w3id.org/archlink/terms/NAVISone/FE767B> ;
+    skos:prefLabel "[Innenkonstruktion]"@de,
+        "[internal construction]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/10> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/074F8A>,
+        <https://www.w3id.org/archlink/terms/NAVISone/0E4547>,
+        <https://www.w3id.org/archlink/terms/NAVISone/1149D5>,
+        <https://www.w3id.org/archlink/terms/NAVISone/178A10>,
+        <https://www.w3id.org/archlink/terms/NAVISone/1C43CA>,
+        <https://www.w3id.org/archlink/terms/NAVISone/1C9D25>,
+        <https://www.w3id.org/archlink/terms/NAVISone/1F4820>,
+        <https://www.w3id.org/archlink/terms/NAVISone/2143CF>,
+        <https://www.w3id.org/archlink/terms/NAVISone/2AC165>,
+        <https://www.w3id.org/archlink/terms/NAVISone/2B8C74>,
+        <https://www.w3id.org/archlink/terms/NAVISone/411EC9>,
+        <https://www.w3id.org/archlink/terms/NAVISone/441BAE>,
+        <https://www.w3id.org/archlink/terms/NAVISone/648E0B>,
+        <https://www.w3id.org/archlink/terms/NAVISone/655F73>,
+        <https://www.w3id.org/archlink/terms/NAVISone/69600C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/71CB9C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/8C0C1B>,
+        <https://www.w3id.org/archlink/terms/NAVISone/AF5C8D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B0D70E>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D12C93>,
+        <https://www.w3id.org/archlink/terms/NAVISone/EDB704>,
+        <https://www.w3id.org/archlink/terms/NAVISone/F4405C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/FE0706> ;
+    skos:prefLabel "[Besegelung]"@de,
+        "[sailing gear]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/4> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/0234D3>,
+        <https://www.w3id.org/archlink/terms/NAVISone/239F9C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/26941E>,
+        <https://www.w3id.org/archlink/terms/NAVISone/3323FF>,
+        <https://www.w3id.org/archlink/terms/NAVISone/40D1A3>,
+        <https://www.w3id.org/archlink/terms/NAVISone/4EC602>,
+        <https://www.w3id.org/archlink/terms/NAVISone/51C929>,
+        <https://www.w3id.org/archlink/terms/NAVISone/5472B2>,
+        <https://www.w3id.org/archlink/terms/NAVISone/54E32C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/63A6E4>,
+        <https://www.w3id.org/archlink/terms/NAVISone/679A09>,
+        <https://www.w3id.org/archlink/terms/NAVISone/67C5EA>,
+        <https://www.w3id.org/archlink/terms/NAVISone/6A2A87>,
+        <https://www.w3id.org/archlink/terms/NAVISone/883E8D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/8E26B8>,
+        <https://www.w3id.org/archlink/terms/NAVISone/96911B>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A21BCC>,
+        <https://www.w3id.org/archlink/terms/NAVISone/AB5CBB>,
+        <https://www.w3id.org/archlink/terms/NAVISone/ABFB76>,
+        <https://www.w3id.org/archlink/terms/NAVISone/AC906A>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B02E91>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B0F013>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B2CF95>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C42DC4>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C8BE01>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D6F501>,
+        <https://www.w3id.org/archlink/terms/NAVISone/DC89EB>,
+        <https://www.w3id.org/archlink/terms/NAVISone/EAD7A9>,
+        <https://www.w3id.org/archlink/terms/NAVISone/ED5180>,
+        <https://www.w3id.org/archlink/terms/NAVISone/F48592>,
+        <https://www.w3id.org/archlink/terms/NAVISone/FD7D75> ;
+    skos:prefLabel "[Schiffstyp]"@de,
+        "[ship type]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/6> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/0093DC>,
+        <https://www.w3id.org/archlink/terms/NAVISone/09BEBF>,
+        <https://www.w3id.org/archlink/terms/NAVISone/09DF17>,
+        <https://www.w3id.org/archlink/terms/NAVISone/0B9A28>,
+        <https://www.w3id.org/archlink/terms/NAVISone/20F045>,
+        <https://www.w3id.org/archlink/terms/NAVISone/29CBC9>,
+        <https://www.w3id.org/archlink/terms/NAVISone/3A3C90>,
+        <https://www.w3id.org/archlink/terms/NAVISone/4277CC>,
+        <https://www.w3id.org/archlink/terms/NAVISone/45B061>,
+        <https://www.w3id.org/archlink/terms/NAVISone/47191C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/5E0D28>,
+        <https://www.w3id.org/archlink/terms/NAVISone/7F16E0>,
+        <https://www.w3id.org/archlink/terms/NAVISone/80B562>,
+        <https://www.w3id.org/archlink/terms/NAVISone/87FFFB>,
+        <https://www.w3id.org/archlink/terms/NAVISone/8CA594>,
+        <https://www.w3id.org/archlink/terms/NAVISone/938B4F>,
+        <https://www.w3id.org/archlink/terms/NAVISone/977C4D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A00109>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A7A73E>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A9FE4D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/AC3D96>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B00683>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B0535D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B0565D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B61EB9>,
+        <https://www.w3id.org/archlink/terms/NAVISone/BCE269>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C71032>,
+        <https://www.w3id.org/archlink/terms/NAVISone/CDC760>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D10A1D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D1CB84>,
+        <https://www.w3id.org/archlink/terms/NAVISone/DB6446>,
+        <https://www.w3id.org/archlink/terms/NAVISone/DC8396>,
+        <https://www.w3id.org/archlink/terms/NAVISone/E9E384>,
+        <https://www.w3id.org/archlink/terms/NAVISone/F426DE>,
+        <https://www.w3id.org/archlink/terms/NAVISone/F71E8E> ;
+    skos:prefLabel "[Rumpf]"@de,
+        "[hull]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone/9> a skos:Concept ;
+    skos:inScheme <https://www.w3id.org/archlink/terms/NAVISone> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/NAVISone/03297B>,
+        <https://www.w3id.org/archlink/terms/NAVISone/1C41AC>,
+        <https://www.w3id.org/archlink/terms/NAVISone/1D1955>,
+        <https://www.w3id.org/archlink/terms/NAVISone/1F8C94>,
+        <https://www.w3id.org/archlink/terms/NAVISone/2A2031>,
+        <https://www.w3id.org/archlink/terms/NAVISone/2C6BDB>,
+        <https://www.w3id.org/archlink/terms/NAVISone/3DE001>,
+        <https://www.w3id.org/archlink/terms/NAVISone/403A13>,
+        <https://www.w3id.org/archlink/terms/NAVISone/427FCF>,
+        <https://www.w3id.org/archlink/terms/NAVISone/431A1E>,
+        <https://www.w3id.org/archlink/terms/NAVISone/4744EE>,
+        <https://www.w3id.org/archlink/terms/NAVISone/49AA0C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/54D771>,
+        <https://www.w3id.org/archlink/terms/NAVISone/5601F3>,
+        <https://www.w3id.org/archlink/terms/NAVISone/5B0B41>,
+        <https://www.w3id.org/archlink/terms/NAVISone/610FD3>,
+        <https://www.w3id.org/archlink/terms/NAVISone/619AD3>,
+        <https://www.w3id.org/archlink/terms/NAVISone/6471C5>,
+        <https://www.w3id.org/archlink/terms/NAVISone/6491C3>,
+        <https://www.w3id.org/archlink/terms/NAVISone/690B73>,
+        <https://www.w3id.org/archlink/terms/NAVISone/6C1C1D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/7393C9>,
+        <https://www.w3id.org/archlink/terms/NAVISone/85C3C2>,
+        <https://www.w3id.org/archlink/terms/NAVISone/8FCA50>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A29AEA>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A46547>,
+        <https://www.w3id.org/archlink/terms/NAVISone/A6A046>,
+        <https://www.w3id.org/archlink/terms/NAVISone/AB357C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/AFF00C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/B8ECB5>,
+        <https://www.w3id.org/archlink/terms/NAVISone/BAED73>,
+        <https://www.w3id.org/archlink/terms/NAVISone/BC332F>,
+        <https://www.w3id.org/archlink/terms/NAVISone/BD12D8>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C0B0E1>,
+        <https://www.w3id.org/archlink/terms/NAVISone/C11F67>,
+        <https://www.w3id.org/archlink/terms/NAVISone/CEA053>,
+        <https://www.w3id.org/archlink/terms/NAVISone/CFCC18>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D3FF82>,
+        <https://www.w3id.org/archlink/terms/NAVISone/D88694>,
+        <https://www.w3id.org/archlink/terms/NAVISone/E0BC8C>,
+        <https://www.w3id.org/archlink/terms/NAVISone/EAC98D>,
+        <https://www.w3id.org/archlink/terms/NAVISone/EB6A4F>,
+        <https://www.w3id.org/archlink/terms/NAVISone/FF8A47> ;
+    skos:prefLabel "[Konstruktionsmerkmale]"@de,
+        "[constructional features]"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/terms/NAVISone> .
+
+<https://www.w3id.org/archlink/terms/NAVISone> a skos:ConceptScheme ;
+    dc:creator "Florian Thiery" ;
+    dc:description "NAVISone ist ein Thesaurus über Schiffsbegriffe"@de ;
+    dc:title "NAVISone"@de ;
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/terms/NAVISone/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/NAVISone/1>,
+        <https://www.w3id.org/archlink/terms/NAVISone/10>,
+        <https://www.w3id.org/archlink/terms/NAVISone/11>,
+        <https://www.w3id.org/archlink/terms/NAVISone/12>,
+        <https://www.w3id.org/archlink/terms/NAVISone/13>,
+        <https://www.w3id.org/archlink/terms/NAVISone/14>,
+        <https://www.w3id.org/archlink/terms/NAVISone/15>,
+        <https://www.w3id.org/archlink/terms/NAVISone/16>,
+        <https://www.w3id.org/archlink/terms/NAVISone/19>,
+        <https://www.w3id.org/archlink/terms/NAVISone/2>,
+        <https://www.w3id.org/archlink/terms/NAVISone/3>,
+        <https://www.w3id.org/archlink/terms/NAVISone/4>,
+        <https://www.w3id.org/archlink/terms/NAVISone/6>,
+        <https://www.w3id.org/archlink/terms/NAVISone/7>,
+        <https://www.w3id.org/archlink/terms/NAVISone/8>,
+        <https://www.w3id.org/archlink/terms/NAVISone/9> .
+
