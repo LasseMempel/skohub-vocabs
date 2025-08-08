@@ -1,0 +1,241 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A14228> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3> ;
+    skos:definition "Fest an der Oberfläche des Objektes anhaftende und verhärtete Ansammlung von Fremdsubstanz"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "A14228" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Verkrustung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A379F4> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Das Objekt weist Schäden auf, die auf die innere Struktur des Materials zurückzuführen sind."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "A379F4" ;
+    skos:prefLabel "materialbedingter Schaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AA819F> a skos:Concept ;
+    skos:altLabel "Lichtschaden"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "licht- bzw. beleuchtungsinduzierte Beschädigung des Objektes"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "AA819F" ;
+    skos:prefLabel "lichtinduzierter Schaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AD3A34> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Schädigung durch negative Einwirkung der Bedingungen im Freien"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "AD3A34" ;
+    skos:prefLabel "Verwitterung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B2ADB6> a skos:Concept ;
+    skos:altLabel "anthropogene Schädigung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Durch Menschen mutwillig herbeigeführte Schädigung eines Objektes"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "B2ADB6" ;
+    skos:prefLabel "Vandalismus"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C473B4> a skos:Concept ;
+    skos:altLabel "Altrestaurierung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Schadensphänomen, das durch eine (oder mehrere) vorangegangene Restaurierungs-/Konservierungs-Maßnahme oder andere Bearbeitung verursacht wurde"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "C473B4" ;
+    skos:prefLabel "Beschädigung durch vorherige Bearbeitung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C64BC8> a skos:Concept ;
+    skos:altLabel "Klima"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Schadensphänomen, das durch klimatische Faktoren verursacht oder verschlimmert wird (Feuchtigkeit und Temperatur, bzw. deren Schwankungen)"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "C64BC8" ;
+    skos:prefLabel "Klimaschaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D16G86> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Durch chemische Reaktion des Materials mit seiner Umgebung verursachter Schaden"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "D16G86" ;
+    skos:prefLabel "Korrosionsinduzierter Schaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D171FF> a skos:Concept ;
+    skos:altLabel "Brandschaden"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Durch einen Brand bzw. den Kontakt zu Feuer/Hitze herbeigeführte Schäden an einem Objekt"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "D171FF" ;
+    skos:prefLabel "Feuerschaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D28G9A> a skos:Concept ;
+    skos:altLabel "Erdreste"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3> ;
+    skos:definition "mehr oder weniger fest anhaftende Bodenbestandteile. Hauptsächlich an frisch geborgenen Objekten festzustellen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "D28G9A" ;
+    skos:prefLabel "Erdanhaftungen"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D74F16> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3> ;
+    skos:definition "Lose, auf der Oberfläche des Objektes angesammelte Ablagerung von luftgetragenen Partikeln"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "D74F16" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Staubablagerung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DD3A3D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Schaden, der durch einen Transport des Objektes verursacht wurde."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "DD3A3D" ;
+    skos:prefLabel "Transportschaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F8915F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3> ;
+    skos:definition "Mehr oder weniger Fest an der Oberfläche anhaftende Sinterschichten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "F8915F" ;
+    skos:prefLabel "Versinterung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F968G3> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Beschädigung, die durch Einwirkungen auf ein Objekt während der Bodenlagerung verursacht wurde. (Erddruck, Besiedelung, etc.)"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "F968G3" ;
+    skos:prefLabel "Bodenlagerungsschaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FAFCF5> a skos:Concept ;
+    skos:altLabel "Abnutzung"@de,
+        "Verschleiß"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Durch mechanische Einwirkung hervorgerufene kumulative Schädigung des Objektes. Häufig vor allem auf die Objektoberfläche bezogen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "FAFCF5" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Schaden durch mechanische Beanspruchung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FB7C46> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Beschädigung des Objektes, die auf unpassende Lagerungsbedingungen zurück zu führen ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "FB7C46" ;
+    skos:prefLabel "Lagerungsschaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FDD71B> a skos:Concept ;
+    skos:altLabel "Salzsprengung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Schadensphänomen, das durch das Vorhandensein löslicher Salze in einem Objekt/Material verursacht wird"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "FDD71B" ;
+    skos:prefLabel "Salzbelastung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G1GA5F> a skos:Concept ;
+    skos:altLabel "Biologische Zerstörung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Durch Einwirkung von biologischen Organismen (Pflanzen, Tieren, Mikroorganismen) auf oder in einem Objekt verursachte Beschädigung"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "G1GA5F" ;
+    skos:prefLabel "Biologischer Befall"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GBDG4D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Beschädigung, die durch den Umgang mit dem Objekt bei der Ausgrabung entstanden ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "GBDG4D" ;
+    skos:prefLabel "Bergungsschaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GCCD95> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Beschädigung des Objektes, durch Emmision von schädlichen Stoffen im direkten Umfeld des Objektes (Verpackungsmaterial, Vitrinen, etc.) oder durch emmitierende Stoffe, die zur Bearbeitung des Objektes selbst Verwendung fanden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "GCCD95" ;
+    skos:prefLabel "Schadstoffe"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GGD66G> a skos:Concept ;
+    skos:altLabel "Wassereinbruch"@de,
+        "Überschwemmung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Durch den Kontakt zu Wasser herbeigeführte Schäden an einem Objekt"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:notation "GGD66G" ;
+    skos:prefLabel "Wasserschaden"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3> a skos:Concept ;
+    skos:altLabel "Ablagerung"@de,
+        "Schmutz"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> ;
+    skos:definition "Schadensphänomen, das durch Ablagerung unerwünschter Substanz die Lesbarkeit des Objektes vermindert"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A14228>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D28G9A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D74F16>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F8915F> ;
+    skos:notation "A889A3" ;
+    skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Verschmutzung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> a skos:Concept ;
+    rdfs:seeAlso "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung.:2020-02" ;
+    skos:altLabel "Abbaufaktor"@de,
+        "schädlicher Einfluss"@de ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57> ;
+    skos:definition "Für die Beschädigung/den Abbau als ursächlich angesehene negative Beeinträchtigung eines Objektes"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F964CG> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A379F4>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A889A3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AA819F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AD3A34>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B2ADB6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C473B4>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C64BC8>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D16G86>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D171FF>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DD3A3D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F968G3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FAFCF5>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FB7C46>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FDD71B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G1GA5F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GBDG4D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GCCD95>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GGD66G> ;
+    skos:notation "F964CG" ;
+    skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Schadensursache"@de,
+        "Cause of damage"@en ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> .
+
+<https://www.w3id.org/archlink/branches/F964CG> a skos:ConceptScheme ;
+    dc:creator "Kristina Fischer" ;
+    dc:description " Zweig für Schadensursache im Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter (https://www.w3id.org/archlink/terms/conservationthesaurus)"@de ;
+    dc:title "Schadensursache"@de ;
+    dcterms:contributor "Christian Eckmann",
+        "Dr. Ingrid Stelzner",
+        "Dr. Roland Schwab",
+        "Heidrun Hochgesand",
+        "Katja Broschat",
+        "Kristina Fella",
+        "Lasse Mempel-Länger",
+        "Lena Klar",
+        "Leslie Pluntke",
+        "Markus Wittköpper",
+        "Marlene Schmucker",
+        "Matthias Heinzel",
+        "Rüdiger Lehnert",
+        "Stephan Patscher",
+        "Ulrike Lehnert",
+        "Waldemar Muskalla" ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:publisher "Leibniz-Zentrum für Archäologie (LEIZA)" ;
+    dcterms:rights "CC BY 4.0" ;
+    dcterms:subject "Archäologie"@de,
+        "Konservierung"@de,
+        "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/F964CG/" .
+

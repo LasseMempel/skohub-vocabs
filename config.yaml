@@ -1,7 +1,7 @@
 ---
 # see https://github.com/nextapps-de/flexsearch#tokenizer-prefix-search for options
 tokenizer: "full" # strict, forward, reverse, full
-custom_domain:  "https://www.w3id.org/archlink/terms/" #"https://www.w3id.org/conservation/terms/" #"https://www.lassemempel.github.io/terminologies/" #  # "https://www.w3id.org/conservation/terms/" # "https://conservationdata.github.io/terms/" #"https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/" # "https://lassemempel.github.io/LEIZA-Terminologien/" #"https://museumsvokabular-de.github.io/Museumsvokabular-Hub/" # "https://lassemempel.github.io/gatsbytest/"
+custom_domain: "https://www.w3id.org/archlink/branches/" #"https://www.w3id.org/archlink/terms/" #"https://www.w3id.org/conservation/terms/" #"https://www.lassemempel.github.io/terminologies/" #  # "https://www.w3id.org/conservation/terms/" # "https://conservationdata.github.io/terms/" #"https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/" # "https://lassemempel.github.io/LEIZA-Terminologien/" #"https://museumsvokabular-de.github.io/Museumsvokabular-Hub/" # "https://lassemempel.github.io/gatsbytest/"
 fail_on_validation: true
 searchableAttributes:
   - "prefLabel" # you should not delete this one
@@ -12,7 +12,7 @@ searchableAttributes:
   - "definition"
   - "scopeNote"
 ui:
-  title: "LEIZA Terminologien" # "Restaurierungs- und Konservierungsdaten" # "Terminologien" # Title is mandatory
+  title: "Konservierungsthesaurus-Zweige in Dante" # "Restaurierungs- und Konservierungsdaten" # "Terminologien" # Title is mandatory
   logo: "Thesaurus_Logo.png" # "mv_logo.jpg" # "Thesaurus_Logo.png" # "Leiza_Logo_Deskriptor_CMYK_schwarz_LEIZA.jpg" # Path
   colors:
     skoHubWhite: "rgb(255, 255, 255)"

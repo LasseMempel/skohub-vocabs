@@ -1,0 +1,2023 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A2159C> a skos:Concept ;
+    skos:altLabel "Rindenbast"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> ;
+    skos:definition "natürliche, lange Fasern pflanzlicher Herkunft, die auf Rinden, Stengeln, Blättern oder Fruchtschalen gewonnen werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A2159C" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de ;
+    skos:prefLabel "Bast"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A2C56B> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C84834> ;
+    skos:definition "violette Varietät des Quarz. Die Farbigkeit reicht von blasslila bis tiefviolett, je nach Menge der enthaltenen Eisenverunreinigungen und Einwirkung natürlicher Strahlung. Bei Erhitzung verliert er seine Farbe und wird gelblich-braun, was wiederum als Quarz Varietät \"Citrin\" zählt. Dem Amethyst werden oft spirituelle und heilende Eigenschaften zugeschrieben und er wurde bereits seit der Antike für Schmuck verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A2C56B" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Amethist"@de ;
+    skos:prefLabel "Amethyst"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A38966> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG279C> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A38966" ;
+    skos:prefLabel "Steinzeug"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A3D91B> a skos:Concept ;
+    skos:altLabel "Muschelschale"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A3D91B" ;
+    skos:prefLabel "Muschel"@de,
+        "shell"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A42FG3> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "Mineralgemisch aus primär Calcit, Lasurit, Diopsid und anderen Beimengungen, mit mittlerer Härte (Mohs-Härte 5 - 6). Lapislazuli zeichnet sich durch seine tiefblaue bis azurblaue Farbe aus, oft mit goldenen Pyriteinschlüssen, die ihm ein einzigartiges Erscheinungsbild verleihen. Seit Jahrtausenden wird Lapislazuli als Schmuckstein, in Kunstgegenständen und als Pigment („Ultramarin“) verwendet, insbesondere in Kulturen wie der altägyptischen, mesopotamischen und mittelalterlichen europäischen Kunst."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A42FG3" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Lapislazuli"@de ;
+    skos:prefLabel "Lapislazuli"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A43C59> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FA5484> ;
+    skos:definition "dunkelgrüne bis schwarzes, calciumhaltiges Minerale der Amphibol-Gruppe, mit den Bestandteilen Aluminiumoxid und/oder Eisenoxid."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A43C59" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 68 - 71."@de ;
+    skos:prefLabel "Hornblende"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A4A374> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G76A78> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A4A374" ;
+    skos:prefLabel "Kohle"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A5B5B2> a skos:Concept ;
+    skos:altLabel "Jet"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G76A78> ;
+    skos:definition "aus in Faulschlamm eingebetteten Hölzern entstandene besonders dichte und homogene Kohleart. Die Farbigkeit ist in der Regel von einem tiefen, samtigen schwarz, die Oberfläche glänzend und gut polierbar."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A5B5B2" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 262."@de ;
+    skos:prefLabel "Gagat"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A5G856> a skos:Concept ;
+    skos:altLabel "Baumwollfaser"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300183670>,
+        <https://cameo.mfa.org/wiki/Cotton> ;
+    skos:definition "natürliche, einzellige Fasern aus den Samen der Baumwollpflanze (Gossypium)"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A5G856" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Baumwolle"@de,
+        "cotton"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A6D8BF> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14> ;
+    skos:definition "Legierung aus Kupfer und Zinn, die je nach Gewichtsanteil der beiden Bestandteile unterschiedliche Eigenschaften aufweisen kann. Zinnbronzen mit höherem Kupfergehalt und Zinngehalten bis ca. 10% zeichenen sich durch eine gute Festigkeit und Umformbarkeit (Hämmer-, Walz und Schmiedbarkeit) aus, während Zinnbronzen mit einem höheren Zinngehalt an Härte und Dehnbarkeit aber auch Sprödigkeit zunehmen und daher hauptsächlich als Gusswerkstoff verwendet werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A6D8BF" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), 85/86."@de ;
+    skos:prefLabel "Zinnbronze"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A72G88> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F75BDB> ;
+    skos:definition "grüne Varietät des Minerals Beryll, das duch Spuren von Chrom eine intensive grüne Farbe erhält, die z.T. mit Nuancen von gelb bis blau ergänzt werden. Smaragd werden vor allem aufgrund ihrers Glanzes und ihrer Transparenz als edle Schmucksteine geschätzt, wobei waserklare und fehlerfreie Kristalle extrem selten sind und daher zu den teuersten Edelsteinen der Welt gehören. Häufig sind Smaragde durch Einschlüsse in ihrere Transparenz getrübt und neigen zur Brüchigkeit bei der Verabeitung. Unter langwelligen UV-Strahlen zeigt Smaragd eine rote Lumineszenz."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A72G88" ;
+    skos:note "Klaus Kugi, Norbert Jakober, Mineralien und Edelsteine: Ein umfassender Ratgeber zum Entdecken, Bestimmen und Sammeln. Übersetzt aus dem Italienischen (Klagenfurt 2004), S. 158 - 161."@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Beryll/Smaragd"@de ;
+    skos:prefLabel "Smaragd"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A73FD7> a skos:Concept ;
+    skos:altLabel "Pinus silvestris"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FC3FD6> ;
+    skos:definition "Holz von der Kiefer, einem in Europa weit verbreiteten Nadelbaum. Das Holz zeichnet sich durch eine gelblich bis rötlichweiße Färbung aus, die im Laufe der Zeit bis rötlich-braun nachdunkelt, sowie eine kräftige und dekorative Maserung. Kiefernholz ist sehr harzreich und verströmt beim Bearbeiten einen typischen, aromatischen Duft. Es lässt sich mit den gängigen Holzwerkzeugen gut bearbeiten und wird daher für vielerlei Verwendungen (u.A. für Möbel, Türen, Fenster, Fußböden und als Funierholz) genutzt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A73FD7" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 213/214."@de ;
+    skos:prefLabel "Kiefernholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A82C8C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757> ;
+    skos:definition "Von Fleisch und Haaren befreite und getrocknete, ungegerbte Tierhaut"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A82C8C" ;
+    skos:prefLabel "Rohhaut"@de,
+        "rawhide"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A8B271> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300010946>,
+        <https://cameo.mfa.org/wiki/Brass>,
+        <https://www.wikidata.org/wiki/Q39782> ;
+    skos:definition "Kupferlegierung mit mindestens 50% Kupfer und Zink als zweiten Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile (z.B. Blei) können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen. Aus diesem Grund wird es unter anderem für Goldimitationen verwendet. Messing lässt sich sehr gut gießen, ebenso gut kalt verformen sowie spanlos und spanabhebend bearbeiten, wodurch es entsprechend für die Herstellung von gegossenen Gegenständen als auch getriebenen Gefäßen verwendet wird. Messing zeigt, ebenso wie Bronze, hauptsächlich Korrosionserscheinungen entsprechend des Hauptbestandteiles Kupfer."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A8B271" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 88/89."@de ;
+    skos:prefLabel "Messing"@de,
+        "brass"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A9AC1A> a skos:Concept ;
+    skos:altLabel "Kaninchen"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:definition "tierische Fasern aus den Haaren des Haus- oder Wildkaninchens"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "A9AC1A" ;
+    skos:note "ISO 6938"@de ;
+    skos:prefLabel "Kaninchenhaar"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AA47GG> a skos:Concept ;
+    skos:altLabel "Mohair"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:definition "tierische Fasern aus der Wolle/den Haaren der Angoraziege"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "AA47GG" ;
+    skos:note "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Mohairwolle"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AA992C> a skos:Concept ;
+    skos:altLabel "menschliches Haar"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G899F5> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011820> ;
+    skos:definition "natürliches Material aus den Haaren des menschlichen Kopfes."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "AA992C" ;
+    skos:note "Antoinette Rast-Eicher, Fibres. Microscopy of archaeological textiles and furs (Budapest 2016) S. 273/274."@de ;
+    skos:prefLabel "Menschenhaar"@de,
+        "human hair"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AAG733> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G76A78> ;
+    skos:definition "aus verfestigten Faulschlämmen bestehende Biomineralien. Ihre Entstehung erfolgt unter natürlichen Bedingungen in ehemals nährstoffreichen Gewässern und Sümpfen, wobei organisches Material bei Abwesenheit von Sauerstoff biochemisch umgewandelt wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "AAG733" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/RockData?rockid=508"@de ;
+    skos:prefLabel "Sapropelit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/ABBFB5> a skos:Concept ;
+    skos:altLabel "Prunus species"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "ABBFB5" ;
+    skos:prefLabel "Obstholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/ACD56G> a skos:Concept ;
+    skos:altLabel "Eisenerz"@de,
+        "Eisenformation"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "sedimentäres Gestein mit einem Eisengehalt von mehr als 15%. Als eisenmineralien sind häufig u.A. Limonit, Hämatit, Magnetit, Siderit und/oder Pyrit enthalten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "ACD56G" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 256."@de ;
+    skos:prefLabel "eisenreiches Sedimentit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AG4634> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> ;
+    skos:definition "natürliche Stengelfaser, die aus den Pflanzen der Corchorusarten (Corchorus capsularis und Corchorus olitorius)  gewonnen wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "AG4634" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Jute"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AG8F3A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:definition "Material, welches an der Schaleninnenseite von Perlmuscheln, manchen Schneckenarten und weiteren Kopffüßlern gebildet wird. Die Farbigkeit des Perlmutts variiert stark je nach Herkunft. Perlmutt wurde in der Antike hauptsächlich in Form von Mosaik- und Einlegearbeiten verwendet, aber auch für Knöpfe und Kleinplastiken."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "AG8F3A" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 122 - 128."@de ;
+    skos:prefLabel "Perlmutt"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B14489> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DF7826> ;
+    skos:definition "aus der Umwandlung der losen Pyroklasten (klastisches Auswurfmaterial aus Vulkanen) durch Druck und/oder Zementierung entstandenes Festgestein. Die Gesteinsmatrix kann, ähnlich wie bei den Sedimentgesteinen, aus verschiedenen mit einander verkitteten Mineralien, wie z.B. Calcit oder Quarz, bestehen und wird mit Hilfe des Grundwassers ausgeschieden. Tuffe zeichnen sich durch eine poröse, wasserdurchlässige Struktur sowie starke Umwandlungserscheinungen, wie Silifizierung, Entglasung der Glasbestandteile und chemische Verwitterung, aus"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B14489" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 197."@de ;
+    skos:prefLabel "Tuff"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B21C51> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B12CB4> ;
+    skos:definition "vulkanisches Gesteinsglas aus Siliziumdioxid mit glasartig-homogener aber auch schlackig-blasiger Oberfläche. Die Färbung reicht von dunkelgrau bis annähernd schwarz über rot bis dunkel rot-braun. Obsidian zeichnet sich durch seinen charakteristisch muscheligen, scharfkantigen Bruch aus und wurde daher bereits in der Steinzeit für Werkzeuge und Waffen verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B21C51" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 185 - 189."@de ;
+    skos:prefLabel "Obsidian"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B2F655> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B2F655" ;
+    skos:prefLabel "Geweih"@de,
+        "antlers"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B3BCB6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D74F9D> ;
+    skos:definition "häufigstes Mineral der Granatgruppe mit chemischer Zusammensetzung Fe3Al2(SiO4)3. Almandin zeichnet sich durch eine tiefrote bis violettrote Farbe aus, eine hohe Härte (6,5–7,5 auf der Mohs-Skala) und seine typischen isometrischen Kristalle. Es entsteht vorwiegend in metamorphen Gesteinen wie Glimmerschiefern oder Gneisen unter hohem Druck und Temperatur. Aufgrund seiner Härte und intensiven Farbe wird Almandin seit der Antike als Schmuckstein geschätzt und auch als Schleifmittel verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B3BCB6" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Almandin"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Granat/Almandin"@de ;
+    skos:prefLabel "Almandin"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B41GC3> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F9D2A8> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B41GC3" ;
+    skos:prefLabel "Süßwasserperle"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B44F39> a skos:Concept ;
+    skos:altLabel "Tilia species"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:definition "Holz der Linde, mit einer hellen, weißlich, gelblichen bis rötlichen Färbung, mit unter auch leicht bräunlich oder grünlich gestreift oder gefleckt. Das weiche Holz lässt sich besonders gut schnitzen und drechseln und wird daher häufig für die Bildhauerei sowie für Schnitz- und Drechselarbeiten im Modellbau verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B44F39" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 243/244."@de ;
+    skos:prefLabel "Lindenholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B452DG> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "sekundäres Kupfermineral mit der chemischen Zusammensetzung Cu2CO3(OH)2. Es gehört zur Gruppe der Carbonate mit Hydroxidionen und entsteht häufig als Verwitterungsprodukt von Kupfererzen in der Oxidationszone. Typisch für Malachit ist seine intensive grüne Farbe, die von hellgrün bis dunkelgrün variieren kann, sowie seine oft konzentrisch gebänderte oder massige Struktur. Es hat eine Mohs-Härte von 3,5–4 und wird seit der Antike für Schmuck, Dekoration und Pigmente verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B452DG" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Malachit"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Malachit"@de ;
+    skos:prefLabel "Malachit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B576DA> a skos:Concept ;
+    skos:altLabel "Kaschmir"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:definition "tierische Fasern aus der Wolle/den Haaren der Kaschmirziege"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B576DA" ;
+    skos:note "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Kaschmirwolle"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B5C86F> a skos:Concept ;
+    skos:altLabel "Populus species"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:definition "Holz der Pappel, mit weißlich, gelblich bis hell-grün-bräunlicher Färbung, in Marknähe auch rötlich. Pappelholz ist ein sehr leichtes und weiches Holz, das sich gut mit verschiedenen Werkzeugen bearbeiten lässt. Bei Pappelholz ist es dabei besonders wichtig scharf geschliffene Werkzeuge zu verwenden, da die Oberfläche durch Reaktionsholzbildung oft filzig und rauh erscheinen kann. Aufgrund seiner geringen Festigkeit und der mittelmäßigen Dauerhaftigkeit/Witterungsbeständigkeit wird Pappelholz vor allem als Funierholz für Sperrholzprodukte oder als Konstruktionsholz geringer bis mittlerer Belastung im Innenbereich verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B5C86F" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 325/326."@de ;
+    skos:prefLabel "Pappelholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B6443F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AB4988> ;
+    skos:definition "tierische, oft bunte Keratinstruktur, welche aus der Haut von Vögen gebildet wird und als Federkleid die äußerste Hauptbedeckung von Vögeln bildet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B6443F" ;
+    skos:note "https://de.wikipedia.org/wiki/Feder"@de ;
+    skos:prefLabel "Feder"@de,
+        "feather"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B69747> a skos:Concept ;
+    skos:altLabel "Schneckenhaus"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B69747" ;
+    skos:prefLabel "Schnecke"@de,
+        "snail"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B69F1G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:definition "Werkstoff in Form von Hornplatten aus dem Panzer von Schildkröten. Je nachdem ob das Schildpatt aus dem Rückenpanzer oder dem Bauchpanzer gewonnen wurde, ergeben sich unterschiedliche Farbgestaltung. Eine gelbe, rötliche bis rotbraune, gefalmmte Zeichnung auf grünlichem bis schwarzbräunlichem Grund zeugt von der Herkunft aus dem Rückenpanzer, während eine dunkle Zeichnung auf gelben Grund aus dem Bauchpanzer stammt. Im Gegensatz zu Horn ist Schildpatt von geringerer Dichte und Lichtbrechung, größerer Sprödigkeit und es fehlt die typische faserige Struktur, wie sie im Horn zu finden ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B69F1G" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 118 - 120."@de ;
+    skos:prefLabel "Schildpatt"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B77128> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B77128" ;
+    skos:prefLabel "Koralle"@de,
+        "coral"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B8224D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "sedimentäres Gestein, welches durch die Verfestigung von Kalkschlämmen (Calcit und/oder Aragonit) oder durch mechanisch sedimentierten Klasten verschiedener Herkunft gebildet wird. Auch die Bildung durch direkte biogene Anlagerung unter Beteiligung von pflanzlichen Organismen ist möglich. Die Farbigkeit kann sehr unterschiedlich sein, wenn auch weißlich, gelblich oder graue Farbtöne am häufigsten vorkommen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B8224D" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 240 - 245."@de ;
+    skos:prefLabel "Kalkstein"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B8B69D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:closeMatch <https://cameo.mfa.org/wiki/Amber> ;
+    skos:definition "Fossiles Harz von prähistorischen Bäumen, das über Millionen von Jahren polymerisiert und mineralisiert wurde. Als archäologisches Objekt ist Bernstein besonders wertvoll, da er oft organische Einschlüsse wie Insekten oder Pflanzen enthält, die wichtige Informationen über die Umwelt und Lebensbedingungen früherer Epochen liefern."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B8B69D" ;
+    skos:note "Hermann Kühn, Conservation and Restoration of Works of Art and Antiquities. Volume 1 (London 1986), S. 155/156."@de ;
+    skos:prefLabel "Bernstein"@de,
+        "amber"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B93452> a skos:Concept ;
+    skos:altLabel "Fagus sylvatica"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B93452" ;
+    skos:prefLabel "Buchenholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B93G16> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415> ;
+    skos:closeMatch <http://d-nb.info/gnd/4745413-1>,
+        <http://vocab.getty.edu/aat/300196199>,
+        <https://cameo.mfa.org/wiki/Tombac> ;
+    skos:definition "Kupfer-Zink Legierung, mit hohem Kupferanteil (> 67%) . Ähnlich dem Messing, aber durch den höheren Kupferanteil von deutlich rötlicherer Farbe."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B93G16" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 88/89."@de ;
+    skos:prefLabel "Tombak"@de,
+        "tombac"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B97F4A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D> ;
+    skos:definition "gebändert oder geschichtete Calcedon-Varietät, die je nach Einlagerungen in vielen verschiedenen Farben auftreten kann. Häufig finden sich Verunreinigungen in Form von Eisen, Mangan, Chrom, Calcium u.a., die den Achat in plakativ natürlichen Tönen färben. Achat ist hauptsächlich in vulkanischen Gesteinen, aber auch in Sedimentgestein zu finden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B97F4A" ;
+    skos:note "DIN EN 12670"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Achat"@de ;
+    skos:prefLabel "Achat"@de,
+        "agate"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B9A8BF> a skos:Concept ;
+    skos:altLabel "alaska diamond"@en ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C84834> ;
+    skos:definition "transparente, farblose Varietät des reinen Quarz mit einer Mohs´schen Härte von 7. Charateristisch ist sein glasartiger Glanz, eine hohe Reinheit und eine ausgezeichnete Lichtdurchlässigkeit. Er bricht muschelig und zeigt keine Fluoreszenz unter UV-Licht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B9A8BF" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Bergkristall"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Quarz/Bergkristall"@de ;
+    skos:prefLabel "Bergkristall"@de,
+        "rock crystal"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B9C731> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757> ;
+    skos:definition "Von Haaren befreite und unter Spannung getrocknete sehr dünne Tierhaut, die aus einem Geflecht von Collagenfasern besteht und in den meisten Fällen von Schaf, Kalb oder Ziege gewonnen wurde. Durch mehrere Verarbeitungsschritte wie Kalken,  enthaaren, Schaben und das Trocknen unter Spannung entsteht ein nahezu durchsichtiges, festes Material, welches zum Schreiben, Buchbinden oder für andere Zwecke verwendet wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B9C731" ;
+    skos:note "Julia Becker, Tino Licht, Bernd Schneidmüller, Pergament. In: Thomas Meier, Michael Ott, Rebecca Sauer (Hrsg), Materiale Textkulturen. Konzepte - Materialien - Praktiken. Materiale Textkulturen Bd. 1, Berlin 2015, S. 337."@de ;
+    skos:prefLabel "Pergament"@de,
+        "parchment"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BAB939> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/ABB166> ;
+    skos:definition "metamorphes Gestein, welches überwiegend aus Calcit und/oder Dolomit besteht und durch unterschiedliche Metamorphosebedingungen entstanden sein kann. Die Farbigkeit kann von schneeweiß über grau, schwarz, blassgelb, braun, rosa, dunkelrot, bläulich, lila bis grünlich reichen. Häufig sind Mehrfarbigkeiten in Form von Flecken, einheitlichen Bänderungen oder willkürliche \"Marmorierung\" zu beobachten. In der Industrie werden häufig alle Karbonatgesteine als \"Marmor\" bezeichnet, in der hier vorliegenden Definition ist jedoch die streng petrographische Definition des Begriffs, als Gestein mit kristallinem Gefüge das eine Metamorphose erfahren hat, gemeint."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "BAB939" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 295-298."@de ;
+    skos:prefLabel "Marmor"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BBA96A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D> ;
+    skos:definition "rötlich-orange bis braunrote Varietät des Calcedons, deren Farbe durch Eisenoxid verursacht wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "BBA96A" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Karneol"@de ;
+    skos:prefLabel "Karneol"@de,
+        "carnelian"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BBC26F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:definition "Werkstoff aus hauptsächlich tierischem Keratin. Im engeren Sinne wird mit dem Begriff hauptsächlich das Tierhorn, in Form der spitz zulaufenden Hornzapfen auf dem Schädel mancher Säugetiere, gemeint, wobei unter Umständen auch anderer aus Keratin tierischen Ursprungs bestehende Materialien (tierische Klauen, Hufe, Schnäbel, Schuppen, etc.) damit bezeichnet werden. Typische Hornträger sind Rinder, Schafen und Ziegen. Je nach Tier, Rasse und/oder Herkunft zeigt Horn eine unterschiedliche Färbung, Transparenz und Größe. Aufgrund seiner guten Bearbeitbarkeit und ästhetischen Erscheinungsbild wird Horn bereits seit der Antike für vielerlei Gegenstände verarbeitet (u.A. Kämme, Messerhefte, Löffel, Figuren, Perlen, Knöpfe, Armreife, etc.)"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "BBC26F" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)., S. 120 - 122."@de ;
+    skos:prefLabel "Horn"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BC5A3C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AD3B58> ;
+    skos:definition "typischerweise blaue - hellblaue Varietät des Korunds, seltener grün bis gelbliche Färbungen. Die Färbung ist auf Einschlüsse von Eisen und Titan zurückzuführen. Saphir bricht in muschelig,splittriger Form, besitzt die Mohshärte 9 und zeigt keine Lumineszenz."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "BC5A3C" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Saphir"@de ;
+    skos:prefLabel "Saphir"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BG71D3> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:definition "tierische Fasern aus den borstigen Haaren des Hausschweines"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "BG71D3" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 267."@de ;
+    skos:prefLabel "Schweineborsten"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BGG879> a skos:Concept ;
+    skos:altLabel "Betula species"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011973>,
+        <https://cameo.mfa.org/wiki/Birch> ;
+    skos:definition "Holz aus der Birke. Birkenholz ist ein gelblichweißes, rötlichweißes bis hellbräunliches, mittelschweres Holz mit einer feinen Maserung. Es zeigt eine gute Elatizität und Zähigkeit und lässt sich gut manuell und maschinell mit verschiedenen Werkzeugen bearbeiten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "BGG879" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 95/96."@de ;
+    skos:prefLabel "Birkenholz"@de,
+        "birch"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C12BC3> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B59296> ;
+    skos:definition "Zahn eines Tieres"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "C12BC3" ;
+    skos:prefLabel "Tierzahn"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C1DGG5> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14> ;
+    skos:definition "antike Bronzelegierung aus Kupfer und Arsen"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "C1DGG5" ;
+    skos:prefLabel "Arsenbronze"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C2FCA7> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1> ;
+    skos:definition "natürliches Material, welches als äußerste Schicht die holzigen Teile von Bäumen bedeckt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "C2FCA7" ;
+    skos:prefLabel "Rinde"@de,
+        "bark"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C3AF5A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> ;
+    skos:definition "natürliche Stengelfaser, gewonnen aus dem Bast der Hanfpflanze (Cannabis sativa) durch verschiedene Bearbeitungsschritte"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "C3AF5A" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Hanf"@de,
+        "hemp"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C47769> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A858> ;
+    skos:definition "Holz, das frisch geschlagen oder abgelagert ist, jedoch im Vergleich zu archäologischem Holz noch keinen nennenswerten Abbauprozessen ausgesetzt war"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "C47769" ;
+    skos:prefLabel "rezentes Holz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C5322D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D> ;
+    skos:definition "mikrokristalline Varietät des Calcedons, durch Eisen rötlich bis bräunlich, gelb gefärbt. Jaspis weist dichtes, lichtundurchlässiges Gefüge auf und zeigt einen splittrigen Bruch."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "C5322D" ;
+    skos:note "DIN EN 12670"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Jaspis"@de ;
+    skos:prefLabel "Jaspis"@de,
+        "jasper"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C7BG27> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B12CB4> ;
+    skos:definition "poröses, festes Material aus der Abkühlung und Erstarrung geschmolzener basaltischer Gesteine auf der Oberseite von Lavaströmen. Ähnelt von der Textur und Struktur dem Bimsstein, ist jedoch deutlich schwerer und von dunklerer Farbe als dieser. Schlacke zählt nur bedingt zu den natürlichen Gesteinen, da es neben vulkanischen Ereignissen auch als Nebenprodukt technologischer Prozesse wie der Metallurgie entstehen kann."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "C7BG27" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 337."@de ;
+    skos:prefLabel "Schlacke"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C947B5> a skos:Concept ;
+    skos:altLabel "Nassholz"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A858> ;
+    skos:definition "Holz aus archäologischem Kontext. Damit sich Holz während der Bodenlagerung erhält, sind wassergesättigte und sauerstoffarme Bodenbedingungen nötig. Während Holz als organisches Material unter normalen Bedingungen in relativ kurzer Zeit verrottet, indem die chemischen Bestandteile von Mikroorganismen wie Pilzen und Bakterien sowie tierischen Schädlingen angegriffen und zersetzt werden, wird die Holzsubstanz unter sauerstofffreien oder zumindest sauerstoffreduzierten Bedingungen nur von anaeroben Bakterien zersetzt. Bei den Zersetzungsprozessen werden Cellulose und Hemicellulose nach und nach abgebaut, während das Ligningerüst oftmals weitestgehend erhalten bleibt. Die geschädigten und geschwächten Zellen werden durch Wasser ausgefüllt und sorgt dafür, dass die ursprüngliche Form des Holzartefakt erhalten bleibt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "C947B5" ;
+    skos:note "KUR Database - https://www1.rgzm.de/kur/"@de ;
+    skos:prefLabel "archäologisches Holz"@de,
+        "wet-wood"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CA53A2> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F9GC9A> ;
+    skos:definition "häufig in der Natur vorkommendes Tonmineral mit der chemischen Zusammensetzung Al₂Si₂O₅(OH)₄. Es entsteht hauptsächlich durch die Verwitterung feldspathaltiger Gesteine und kristallisiert in dünnen Blättchen oder Schuppen als Schichtsilikat. Die Farbigkeit ist meist weiß, aber auch braune, gelbe oder graue Färbungen sind möglich. Es besitzt eine feinkörnige Struktur, ist Hauptbestandteil von Kaolin und wurde typischerweise für die Herstellung von Keramik oder als Füllstoff für verschiedene technologische Prozesse verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CA53A2" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 62/63."@de ;
+    skos:prefLabel "Kaolinit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CAD229> a skos:Concept ;
+    skos:altLabel "Acer campestre"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300012236>,
+        <https://cameo.mfa.org/wiki/Maple> ;
+    skos:definition "Holz des Ahornbaumes. Ahornholz ist ein schweres, hartes Holz, das eine helle, weiß bis gelbliche, im frisch geschlagenen Zustand auch rötliche Färbung sowie eine feine, gleichmäßige Maserung aufweist. Es zeigt eine glatte und feinporige Textur, hohe Elastizität und Biegefestigkeit sowie gute Bearbeitbarkeit mit verschiedenen Werkzeugen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CAD229" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S.52/53."@de ;
+    skos:prefLabel "Ahornholz"@de,
+        "maple"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CB19D3> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG279C> ;
+    skos:definition "keramische Materialgruppe mit porösen, meist erdfarbenen Scherben, die bei vergleichsweise niedrigen Temperaturen (ca. 600- 1100°C) gebrannt wird. Aufgrund der niedrigen Brenntemperatur und der daraus resultierenden Offenporigkeit, zeigt Irdenware eine relativ hohe Wasseraufnahmefähigkeit. Aus diesem Grund wird sie häufig mit Engoben oder Glasuren versehen, um die Oberfläche zu verdichten und die Verwendungseigenschaften zu verbessern. Irdenware umfasst verschiedene Keramikwaren wie Terrakotta, Fayence oder Majolika."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CB19D3" ;
+    skos:note "Sven Frotscher, Dtv-Atlas Keramik und Porzellan. Dtv 3258. München: Deutscher Taschenbuch Verlag, 2003, S. 10/11."@de ;
+    skos:prefLabel "Irdenware"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CB4C3C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "sedimentäres Gestein, das durch Ablagerung von Kalk aus kalkhaltigem Wasser entsteht. Häufig tritt Kalksinter auch als oberflächliche Ablagerung/Überzug (z.B. auf bodengelagerten Objekten) auf. In Höhlen kann es unter den richtigen Bedingungen zur Bildung von Tropfsteinen aus Kalksinter kommen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CB4C3C" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 239/240."@de ;
+    skos:prefLabel "Kalksinter"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CCBB4G> a skos:Concept ;
+    skos:altLabel "Perlstein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B12CB4> ;
+    skos:definition "vulkanisches Gesteinsglas mit charakteristischem, perlartigen Aussehen, welches auf zentimetergroßen konzentrisch-schaligen Glaskügelchen in der Matrix zurückzuführen ist. Die Farbigkeit kann von grau, grün, bläulich über rötlich, braun bis hin zu farblos reichen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CCBB4G" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 189 - 191."@de ;
+    skos:prefLabel "Perlit"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CDB814> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DF7826> ;
+    skos:definition "magmatisches Tiefengestein mit Plagioklas-Feldspat als Hauptbestandteil. Zeigt häufig eine grauschwarze bis grünlich-graue Färbung, wobei die Zusammensetzung aus weißlich-grauen Feldspäten und dunklen grünlich-schwarzen Hornblende- und/oder Biotit-Beimengungen zu einem gefleckten/gesprenkeltes Erscheinungsbild führen kann. Die Textur wird als körnig beschrieben, bei der die Minerale mit bloßem Auge erkennbar sind."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CDB814" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 157 - 161."@de ;
+    skos:prefLabel "Diorit"@de,
+        "diorite"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CF41GC> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG279C> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CF41GC" ;
+    skos:prefLabel "Porzellan"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CG154B> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DG279C> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CG154B" ;
+    skos:prefLabel "Steingut"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CG49C6> a skos:Concept ;
+    skos:altLabel "Alpaka"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:definition "tierische Fasern aus dem Wollhaar des Alpakas"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CG49C6" ;
+    skos:note "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Alpakawolle"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CGGB4G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "eine der häufigsten gesteinsbildenden Mineralgruppe der Erdkruste, bestehend aus Alumosilikaten und unterschiedlichen Anteilen von Kalium, Natrium, Calcium und Barium. Die Farbigkeit reicht von weiß, grau bis rötlich, gelblich oder grünlich, je nach Zusammensetzung und Einschlüssen. Feldspatvertreter zeigen einen Glas- bis Perlmuttglanz auf den Spaltflächen, eine Mohshärte von 6 und rot bis violett-blaue Lumineszenz unter UV-Licht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "CGGB4G" ;
+    skos:note "DIN EN 12670"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Feldspat"@de ;
+    skos:prefLabel "Feldspat"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D1788D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "karbonatisches Mineral, das hauptsächlich aus Kalzium-Magnesium-Carbonat besteht. Es zeigt in der Regel eine weiß bis gräuliche Farbe, durch Verunreinigungen treten auch Färbungen von rötlich, braun, grau oder schwarz auf. Darüber hinaus zeigt das Mineral einen glas- bis perlmuttartigen Glanz und tritt sowohl durchscheinend als auch opak auf."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D1788D" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 99."@de ;
+    skos:prefLabel "Dolomit (Mineral)"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D1GC4D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D8B5C3> ;
+    skos:closeMatch <https://cameo.mfa.org/wiki/Alabaster>,
+        <https://cameo.mfa.org/wiki/Egyptian_alabaster> ;
+    skos:definition "Varietät des Gipses mit fester und feinkörniger Struktur und in der Regel heller bis weißer Farbe. Im allgemeinen Sprachgebrauch wird auch eine sehr ähnlich aussehende Varietät des Calcit (Kalksinter) als Alabaster (\"antiker od. ägyptischer Alabaster\") bezeichnet. Echter Alabaster aus Calciumsulfat ist sehr weich und anfällig gegenüber Wasser, während Calcit-Alabaster wasserunlöslich und härter ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D1GC4D" ;
+    skos:note "DIN EN 12670"@de,
+        "Günther Mehling. Naturstein-Lexikon (München 1981), S. 17."@de,
+        "https://www.mindat.org/min-90.html"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Alabaster"@de ;
+    skos:prefLabel "Alabaster"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D467F2> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G76A78> ;
+    skos:definition "zähflüssiges bis festes, harzbasiertes Material von braun bis schwarzer Färbung, das durch Destillation von Holz oder fossilen Harzen gewonnen wird. Es wurde in der Antike häufig als Dichtmittel, Klebstoff oder Beschichtungsmaterial verwendet, beispielsweise für Gefäße, Werkzeuge oder Schiffsplanken. Aufgrund seiner organischen Zusammensetzung liefert Pech wichtige Informationen über die damaligen Rohstoffquellen und Techniken, wobei seine Erhaltung und Analyse besondere konservatorische Maßnahmen erfordert."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D467F2" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 234."@de ;
+    skos:prefLabel "Pech"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D51GA5> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B12CB4> ;
+    skos:definition "schaumiges Gesteinsglas, bestehend aus subparallel verflochtenen Glasfasern, welche Hohlräume einschließen oder um Einsprenglinge herum führen. Das Gesteinsglas zeigt greuweiße, gelbliche, braune, hellgraue bis fast schwarze oder seltener rötliche Farbnuanzen. Seine Struktur ist deutlich porös und leicht, wodurch er in der Lage ist auf dem Wasser zu schwimmen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D51GA5" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 191."@de ;
+    skos:prefLabel "Bimsstein"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D51GAA> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011818> ;
+    skos:definition "tierische Fasern aus den Haaren der Hausziege"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D51GAA" ;
+    skos:note "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Ziegenhaar"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D53ADA> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D53ADA" ;
+    skos:prefLabel "Papyrus"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D6959D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/ABB166> ;
+    skos:definition "metamorphoses Gestein, welches zu mindestens 80% aus Quarz besteht. Die metamorphosen Bedingungen, unter denen sich der Quarzit bildet, können dabei ganz unterschiedlich sein. Durch den hohen Quarzanteil tritt der Quarzit vorallem in weißlicher Farbe auf, kann jedoch auch in jeder anderen Farbe, wie grau, rot oder braun, vorkommen. Die Struktur und Textur ist fein lamelliert bis massig und Schieferungen sind undeutlich ausgebildet oder fehlen ganz."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D6959D" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 298/299."@de ;
+    skos:prefLabel "Quarzit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D71467> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F9GC9A> ;
+    skos:definition "Schichtsilikat der Glimmergruppe, das durch umfassende Verwitterungsprozesse Wasser in sein Kristallgitter eingebaut hat und somit zu den sog. \"Hydroglimmern\" gehört. Illit tritt in der Regel in weißlich bis grün-gräulicher Färbung auf, zeigt einen perlmuttartigen Glanz und die typische plättchenartige Struktur der Tonminerale. Es erscheint vorrangig in Sedimentgesteinen, wie Mergeln, Tonstein oder Schieferton."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D71467" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 62/63."@de ;
+    skos:prefLabel "Illit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D73F9B> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011845>,
+        <https://cameo.mfa.org/wiki/Leather> ;
+    skos:definition "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut. In der Antike und im Mittelalter wurde Leder vor allem für Schuhe, Kleidung und Behältnisse verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D73F9B" ;
+    skos:note "DIN EN 16484"@de ;
+    skos:prefLabel "Leder"@de,
+        "leather"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D75514> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AD3B58> ;
+    skos:definition "rote Varietät des Korund, die durch Spuren von Chrom verursacht werden. Rubin ist für seine außergewöhnliche Härte (Mohshärte 9), seinen glasartigen Glanz und seine Seltenheit bekannt, wodurch er zu den wertvollsten Edelsteinen der Welt gehört."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D75514" ;
+    skos:note "https://www.mindat.org/min-3473.html"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Rubin"@de ;
+    skos:prefLabel "Rubin"@de,
+        "ruby"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D9B246> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DF7826> ;
+    skos:definition "vulkanisches Gestein mit den mineralischen Hauptbestandteilen Plagioklas, Pyroxen und Olivin. Das Gestein zeig sich in der Regel in dunkle Färbung und eine feinkörnige Textur. Basalt ist das häufigste Gestein der ozeanischen Kruste"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "D9B246" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 177 - 184."@de ;
+    skos:prefLabel "Basalt"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DB13B8> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "klastisches Sedimentgestein, welches hauptsächlich aus Tonmineralen besteht. Häufig werden Tonsteine durch Ablagerung von Illit, Montomorillonit und/oder Chlorit leicht schiefrig ausgebildet. Die Farbigkeit liegt bei grau, blau, grünlich, rotbraun, schwarz oder verschiedenfarbig gefleckt. Tonsteine weisen in der Regel eine außerordentliche Feinkörnigkeit auf, wodurch der Bruch selbst bei beachtlicher Beimengung von Quarz oder Glimmer durchwegs homogen wirkt. Die Struktur der Tonsteine ist meist weich und krümelig, zeigt jedoch eine höhere Härte als Schieferton. Die Oberfläche ist von einem seidigen Glanz."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DB13B8" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 231 - 235."@de ;
+    skos:prefLabel "Tonstein"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DBG8AD> a skos:Concept ;
+    skos:altLabel "Fraxinus excelsior"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D39191> ;
+    skos:definition "Holz der Esche. Das Holz zeigt eine gelblich-weiße bis rötliche Färbung auf, die im Laufe der Zeit hellbraun nachdunkeln kann. Zum Teil zeigen sich auch unregelmäßig gestreifte oder wolkige Färbungen, mit nicht immer deutlichen Splint- und Kernholzgrenzen. Es ist ein relativ weiches Holz, mit jedoch guter Festigkeit und Biegsamkeit, welches sich sowohl manuell als auch maschinell gut bearbeiten lässt"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DBG8AD" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 165/166"@de ;
+    skos:prefLabel "Eschenholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DD91F6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "klastisches Sedimentgestein aus in einer feinen Matrix eingebetteten Sandkörnern, die sich durch das Ausfüllen der Zwischenräume mit Bindemitteln wie Kalk, Ton oder Siliziumdioxid verfestigt haben. Die Farbigkeit von Sandsteinen ist vielfältig von weiß, hellgrau, gelblich über rötlich, gelblich-braun bis seltener auch grünlich, blau oder violett,. Häufig kommen auch Bänderungen, Flecken oder Maserungen vor, die auf die unterschiedliche Färbung der einzelnen Ablagerungsschichten zurückzuführen sind. Der Hauptbestandteil der meisten Sandsteine ist Quarz, weitere häufig auftretende Minerale sind Feldspat und Glimmer."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DD91F6" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 226-231."@de ;
+    skos:prefLabel "Sandstein"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DF1279> a skos:Concept ;
+    skos:altLabel "Steatit"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/ABB166> ;
+    skos:definition "metamorphoses Gestein, das nahezu ausschließlich aus dem Mineral Talk besteht. Speckstein zeichnet sich, aufgrund des hohen Talkgehaltes, durch seine Weichheit, leichte Bearbeitbarkeit und eine glatte, fettige Oberfläche aus. Die Farbe ist meist lichtgrau."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DF1279" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 308/309."@de ;
+    skos:prefLabel "Speckstein"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DF96G1> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300014074>,
+        <https://cameo.mfa.org/wiki/Wool> ;
+    skos:definition "tierische Faser (Stapelfaser) aus dem charakteristischen Haarkleid des Schafes. Die Bezeichnung Wolle wird im allgemeinem Sprachgebrauch auch für die Haare anderer Tierarten verwendet, allerdings sollte zur Differenzierung deren Namen hinzugefügt werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DF96G1" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Wolle"@de,
+        "wool"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DG663G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300010959> ;
+    skos:definition "Kupferlegierung aus ca. 60% Kupfer und dem Hauptlegierungsbestandteil Blei (bis zu 28%)."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DG663G" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), 85."@de ;
+    skos:prefLabel "Bleibronze"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DGC848> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B59296> ;
+    skos:definition "Zahn eines menschlichen Individums"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DGC848" ;
+    skos:prefLabel "Menschenzahn"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F1BD88> a skos:Concept ;
+    rdfs:seeAlso "https://www.wsl.ch/land/products/dendro/species.php?code=ALGL",
+        "https://www.wsl.ch/land/products/dendro/species.php?code=ALIN",
+        "https://www.wsl.ch/land/products/dendro/species.php?code=ALVI" ;
+    skos:altLabel "Alnus glutinosa"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011918>,
+        <https://cameo.mfa.org/wiki/Alder> ;
+    skos:definition "Holz der Erlen. Das leichte bis mittelschwere Holz zeigt direkt nach dem Fällen eine rötlich- orange Färbung, die durch die Oxidation mit Luftsauerstoff allmählich rötlichweiß bis rötlichbraun nachdunkelt. Die Maserung ist fein und schlicht und das Holz von geringer Härte, wodurch es mit allen Werkzeugen gut bearbeitbar ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F1BD88" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 163/164"@de ;
+    skos:prefLabel "Erlenholz"@de,
+        "alder"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F2B8B7> a skos:Concept ;
+    skos:altLabel "Flint"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "hartes Sedimentgestein, hauptsächlich bestehend aus feinkörnigem Quarz. Feuerstein bildet sich durch chemische Ausfällung von Siliziumdioxid in marinen Umgebungen und findet sich häufig lagenweise in Kalksteinen oder Kreideschichten. Die Farbe ist meist dunkelgrau bis schwarz und häufig von einer hellen Rinde umgeben. Der Bruch des Feuerstein ist schwarfkantig, muschelig, wesswegen er bereits früh in der Menschheitsgeschichte für Werkzeuge und Waffen verwendet wurde. Der Namensgebung entsprechend zeichnet sich Feuerstein durch seine Eigenschaft der Funkenerzeugung, bei harten Schlägen gegeneinander oder gegen andere harte Materialien, aus."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F2B8B7" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 252/253."@de ;
+    skos:prefLabel "Feuerstein"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F43643> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F75BDB> ;
+    skos:definition "blau bis blaugrüne Varietät des Beryll, die durch Beimengungen von Titan oder zweiwertigen Eisen-Ionen entsteht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F43643" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Beryll/Aquamarin"@de ;
+    skos:prefLabel "Aquamarin"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F5GA47> a skos:Concept ;
+    skos:altLabel "Larix decidua"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FC3FD6> ;
+    skos:definition "Holz von der Lärche, mit gelblichweißer bis rötlichweißer Färbung des Splintholzes und rötlichbraun bis dunkelrotbraun nachdunkelndem Kernholz. Die Textur des Holzes zeigt eine auffallende und sehr dekorative Maßerung sowie eine dichte und feste Struktur. Lärchenholz besitzt eine hohe Widerstandsfähigkeit gegenüber Witterungseinflüssen und eine gute manuelle und maschinelle Verarbeitbarkeit, was es besonders für die Verwendung im Außenbereich als Fensterrahmen, Türen aber auch für den Brückenbau oder für Schwellen, Fässer und Paneelen geeignet macht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F5GA47" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 231/232."@de ;
+    skos:prefLabel "Lärchenholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F646B4> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DF7826> ;
+    skos:definition "körniges Tiefengestein mit Quarzanteil von mehr als 20% und weiteren Bestandteilen aus Feldspat, Biotit und Hornblende. Die Farbigkeit wird allgemein als Hell beschrieben, wobei je nach mineralogischer Zusammensetzungen Abstufungen zwischen weißlich-grau, über rose-rot bis dunkelgrau-schwarz sowie gesprenkelte oder geflecke Texturen zu beobachten sind."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F646B4" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995) S. 145 - 150."@de ;
+    skos:prefLabel "Granit"@de,
+        "granite"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F68381> a skos:Concept ;
+    skos:altLabel "Chloromelanit"@de,
+        "Jade"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "natrium- und aluminiumreiches Mineral aus der Pyroxengruppe mit oft grün, weiß, gelblich oder violetter Färbung. Jadeit bildet dichte, feinkörnige Aggregate, die außergewöhnlich hart und zäh sind (Härte 6,5 - 7 auf der Mohs-Skala). Jadeit ist ein wichtiger Bestandteil des metamorphosen Gesteins Jade, einem Sammelbegriff, der auch Nephrit umfasst. Aufgrund seiner Härte und Ästhetik wurde Jadeit historisch für Schmuck und Werkzeuge verwendet und besitzt große kulturelle Bedeutung, insbesondere in ostasiatischen und mesoamerikanischen Kulturen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F68381" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Jadeit"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Pyroxene/Jadeit"@de ;
+    skos:prefLabel "Jadeit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F85G77> a skos:Concept ;
+    skos:altLabel "Hornblendegestein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/ABB166> ;
+    skos:definition "metamorphes Gestein, welches hauptsächlich aus Amphibolen und Feldspat besteht. Aufgrund des besonders hohen Vorkommens von Hornblende als Hauptbestandteil, wird der Amphibolit im deutschsprachigen Raum auch als Hornblendegestein bezeichnet. Je nach Zusammensetzung sind grau, graugrüne oder schwarzgrüne Farbigkeiten möglich, wobei durch einen hohen Anteil von Plagioklasen-Feldspäten auch ein weiß gepunktetes Aussehen zu finden ist. Die Textur ist als kristallin bis schiefrig zu bezeichnen mit mittel- bis grobkörnigen Korngrößen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F85G77" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 309- 311."@de ;
+    skos:prefLabel "Amphibolit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F9F6DG> a skos:Concept ;
+    skos:altLabel "Elektron"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G4AG5C> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300010965>,
+        <https://cameo.mfa.org/wiki/Electrum>,
+        <https://d-nb.info/gnd/4841049-4>,
+        <https://www.wikidata.org/wiki/Q239481> ;
+    skos:definition "natürlich vorkommende Legierung aus Gold und Silber, teils auch mit geringem Kupferanteil."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F9F6DG" ;
+    skos:note "Der Brockhaus von A-Z: In drei Bänden (Mannheim 2002)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)."@de ;
+    skos:prefLabel "Elektrum"@de,
+        "electrum"@en,
+        "électrum"@fr ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FA1B26> a skos:Concept ;
+    skos:altLabel "Buxus sempervirens"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:definition "Holz des immergrünen Buxbaumes mit charakteristisch gelblich- weißer bis hellbrauner Färbung. Aufgrund der außergewöhnlichen Härte, hohen Dichte sowie feinen, homogenen Textur mit glatter Oberfläche traditionell unter  anderem verwendet für technische und wissenschaftliche Geräte, Maschinen- und Musikinstrumente sowie Drechslerarbeiten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "FA1B26" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 415."@de ;
+    skos:prefLabel "Buchsbaumholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FB8DCB> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F9D2A8> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "FB8DCB" ;
+    skos:prefLabel "Salzwasserperle"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FC776B> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A11ACA> ;
+    skos:definition "keramische Erzeugnisse mit einer grobkörnigen, oft porösen Scherbenstruktur, die durch die Verwendung von Ton mit sichtbaren Mineral- oder Magerungsbestandteilen entsteht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "FC776B" ;
+    skos:note "Sven Frotscher, Dtv-Atlas Keramik und Porzellan. Dtv 3258. München: Deutscher Taschenbuch Verlag, 2003, S. 10/11."@de ;
+    skos:prefLabel "Grobkeramik"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FCA7DA> a skos:Concept ;
+    skos:altLabel "Abies alba"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FC3FD6> ;
+    skos:definition "Holz aus der Tanne, mit heller, oft weißlich-gelber bis rötlichweißer Färbung und grauem Schimmer. Es besitzt eine relativ gleichmäßige Textug und zeigt eine dezente, weniger markante Maserung im Vergleich zu anderen Hölzern. Das Holz ist verhältnismäßig leicht, harzarm und zeichnet sich durch eine moderate Festigkeit sowie eine mäßige Widerstandsfähigkeit gegenüber Witterungseinflüssen aus. Es eignet sich gut für die Verarbeitung mit Hand- und Maschinenwerkzeugen. Aufgrund dieser Eigenschaften wird es hauptsächlich für den Innenbau, für Möbel, Holzverkleidungen oder Behältnisse verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "FCA7DA" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 381/382."@de ;
+    skos:prefLabel "Tannenholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FD27A8> a skos:Concept ;
+    skos:altLabel "Flussspat"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "Mineral aus der Gruppe der Halogeniden, bestehend aus Calciumfluorit und anderen Beimengungen. Fluorit tritt in einer großen Farbvielfalt auf, von reiner farblos-durchsichtigen bis violett, rosa, grün, blau oder gelben Färbungen. Fluorit ist ein relativ weiches Mineral, mit der Mohshärte 4 und ist durch seine vollkommene, oktaedrische Spaltbarkeit sowie seine markante Fluoreszenz, die je nach Lichtlänge und chemischer Zusammensezung des Fluorits in unterschiedlichen Farben auftreten kann, gekennzeichnet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "FD27A8" ;
+    skos:note "Klaus Kugi, Norbert Jakober, Mineralien und Edelsteine: Ein umfassender Ratgeber zum Entdecken, Bestimmen und Sammeln. Übersetzt aus dem Italienischen (Klagenfurt 2004), S. 66/67."@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Fluorit"@de ;
+    skos:prefLabel "Fluorit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FF744D> a skos:Concept ;
+    skos:altLabel "frisches Elfenbein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AG55BC> ;
+    skos:definition "Elfenbein, das aus der Gegenwart bzw. von kürzlich verstorbenen Tieren wie Elefanten oder Walrossen gewonnen wurde. Aufgrund von Naturschutzgesetzen und internationalen Abkommen wie dem Washingtoner Artenschutzübereinkommen (CITES) ist der Handel mit solchem Elfenbein stark eingeschränkt und verboten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "FF744D" ;
+    skos:note "https://www.bfn.de/elfenbein"@de ;
+    skos:prefLabel "modernes Elfenbein"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FG3BCD> a skos:Concept ;
+    rdfs:seeAlso "https://www.wsl.ch/land/products/dendro/species.php?code=QUPE",
+        "https://www.wsl.ch/land/products/dendro/species.php?code=QUPU",
+        "https://www.wsl.ch/land/products/dendro/species.php?code=QURO" ;
+    skos:altLabel "Quercus species"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D39191> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300012264>,
+        <https://cameo.mfa.org/wiki/Oak> ;
+    skos:definition "Holz aus Eichenbäumen. Das Holz der verschiedenen Eichenbäumen ist im allgemeinen als starkes und strapazierfähiges Holz zu beschreiben, welches eine üblicherweise hellbraune bis gelblich-braun/rötliche Färbung aufweist. Die Maserung verläuft häufig in markanten, wellenförmigen/gespiegelten Formen. Die mechanische Bearbeitbarkeit hängt im Detail von der jeweiligen Eichenart ab, ist insgesamt jedoch als gut zu beschreiben."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "FG3BCD" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 149 - 155"@de ;
+    skos:prefLabel "Eichenholz"@de,
+        "oak"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G16647> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F6F797> ;
+    skos:definition "Seide, die aus den Kokons des Tussahspinners (Antheraea mit diversen Unterarten) hergestellt wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G16647" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de ;
+    skos:prefLabel "Tussahseide"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G21F5B> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F6F797> ;
+    skos:definition "Seide, die durch das Sekret bestimmter Muscheln (Steckmuschel – Pinna nobilis) hergestellt wird.."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G21F5B" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de ;
+    skos:prefLabel "Muschelseide"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G2944B> a skos:Concept ;
+    skos:altLabel "Picea abies"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FC3FD6> ;
+    skos:definition "Holz von der Fichte, einem der häufigsten Nadelbäume in Europa. Fichtenholz zeichnet sich durch sein helles, gelblich- bis rötlichweißes und relativ weiches Holz mit feiner Struktur aus. Es lässt sich mit verschiedenen Werkzeugen und Techniken gut bearbeiten, zeigt jedoch eine geringe Dauerhaftigkeit, da es pilz- und insektenanfällig und nicht witterungsfest ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G2944B" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 177/178."@de ;
+    skos:prefLabel "Fichtenholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G2C131> a skos:Concept ;
+    skos:altLabel "Ulmus campestris"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D39191> ;
+    skos:definition "Holz der Ulme. Ulmenholz zeichnet sich durch eine charakteristische Farbpalette aus, die von gelblich-braun bis dunkelbraun reicht, oft mit einem rötlichen Schimmer. Die Maserung ist häufig markant und wellenförmig, gelegentlich mit unregelmäßigen Streifen. Splint- und Kernholz sind meist deutlich voneinander abgegrenzt, wobei das Kernholz härter und widerstandsfähiger ist. Es handelt sich um ein mittelschweres bis schweres Holz, das eine gute Elastizität und Zähigkeit aufweist. Die Bearbeitbarkeit ist insgesamt gut, sowohl von Hand als auch maschinell."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G2C131" ;
+    skos:prefLabel "Ulmenholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G356D5> a skos:Concept ;
+    rdfs:seeAlso "https://www.wsl.ch/land/products/dendro/species.php?code=TABA" ;
+    skos:altLabel "Taxus baccata"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FC3FD6> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300012774>,
+        <https://cameo.mfa.org/wiki/Yew> ;
+    skos:definition "Holz der Eibe. Eibenholz zeigte eine gelb bis gold-braune Färbung, oft mit rötlich- violettem Schimmer und eine feine, gleichmäßige Maserung. Charakteristisch sind seine hohe Elastizität, Härte sowie Dichte, wobei es noch gut drechsel- und schnitzbare ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G356D5" ;
+    skos:note "Rudi Wagenführ, HOLZatlas (München 2000), S. 145/146"@de ;
+    skos:prefLabel "Eibenholz"@de,
+        "yew"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G43GG2> a skos:Concept ;
+    skos:altLabel "Rosshaar"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011819>,
+        <https://cameo.mfa.org/wiki/Horsehair> ;
+    skos:definition "tierische Fasern aus dem Fell, der Mähne oder dem Schweif des Pferdes"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G43GG2" ;
+    skos:note "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Pferdehaar"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G465BG> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1> ;
+    skos:definition "organisches Material aus der für die Ausbreitung dienenden Gebewebestruktur von Pflanzen, bestehend aus Samenschale, Embryo und Nährgewebe."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G465BG" ;
+    skos:prefLabel "Samen"@de,
+        "seed"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G56716> a skos:Concept ;
+    skos:altLabel "historisches Elfenbein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AG55BC> ;
+    skos:definition "Elfenbein von Tieren, die vor Tausenden von Jahren gestorben sind und durch natürliche Prozesse konserviert wurden. Der Handel mit fossilem Elfenbein fällt meist nicht unter internationale Artenschutzgesetze, da es keine direkten Auswirkungen auf heutige Tierpolpulationen hat."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G56716" ;
+    skos:prefLabel "fossiles Elfenbein"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G593G4> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:definition "tierische Fasern aus den Haaren des Wildschweines, mit außergewöhnlich kräftigen und harten Erscheinungsform im Vergleich zu Haaren anderer Tierarten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G593G4" ;
+    skos:prefLabel "Wildschweinborsten"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G63684> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/ABB166> ;
+    skos:definition "metamorphes Gestein mit den mineralischen Hauptbestandteilen Serpentin, Olivin und Pyroxen. Zeigt häufig hell grünlich-graue bis dunkelgrüne Färbungen, aber auch rötliche Töne im Falle von Mangan-Gehalten. Auch fleckige, gebändert bis gestreifte oder völlig unregelmäßige Farbgebungen sind möglich. Die Textur kann schuppig, stumpf oder seidig-glänzend sein."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G63684" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 168, 279."@de ;
+    skos:prefLabel "Serpentinit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G636F1> a skos:Concept ;
+    skos:altLabel "Schiefer"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "Eine besonders feinplattig ausgebildete Art des Tonsteins. Schieferton zeichnet sich durch eine ausgeprägte Schieferung und Spaltbarkeit aus, die durch gerichteten Druck während der Diagenese entsteht. Die Struktur ist blättrig oder leistenförmig ausgebildet. Schiefertone sind deutlich weicher als Tonsteine und zeigen eine stumpfen Oberflächenbeschaffenheit."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G636F1" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 231 - 235."@de ;
+    skos:prefLabel "Schieferton"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G734B3> a skos:Concept ;
+    skos:altLabel "Gipsstein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "hauptsächlich in weißen Färbungen vorkommendes Gestein, aber auch gelbe, rote, braune, graue bis schwarze Färbungen sind möglich. Bei Gips wird der Name sowohl für das Gestein, als auch das Mineral gleichermaßen verwendet. Gips als Gestein tritt häufig in Wechsellagerung mit Steinsalz, Dolomiten und bituminösen Tongesteinen auf. Die Strukur des Gipses als Gestein zeigt häufig eine stark gewellte, verbogene Schichtung (\"Gekrösegips\"). Im Gegensatz zu Kalkstein oder Dolomit ist Gips deutlich weicher und kann daher durch Härteprüfung leicht von diesen unterschieden werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G734B3" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 236/267."@de ;
+    skos:prefLabel "Gips (Gestein)"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G8533D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> ;
+    skos:definition "aus den Samenhülsen des Kapokbaumes bestehende natürliche Fasern"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G8533D" ;
+    skos:note "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Kapok"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G98D28> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F75BDB> ;
+    skos:definition "rosafarbene bis pinke Varietät des Beryll, die durch Mangan-Einschlüsse ihre charakteristische Farbe erhält."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G98D28" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Morganit"@de ;
+    skos:prefLabel "Morganit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GAG81G> a skos:Concept ;
+    skos:altLabel "Corylus avellana"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "GAG81G" ;
+    skos:prefLabel "Haselholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GB5A92> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BC685F> ;
+    skos:definition "Materialbezeichnung für Garn- und Stoffprodukte bestehend aus Flachsfasern."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "GB5A92" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de ;
+    skos:prefLabel "Leinen"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GFDB57> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> ;
+    skos:definition "getrocknete Halme pflanzlicher Fasern, die für eine Vielzahl unterschiedlicher Zwecke verwendet werden, z.B. zum Weben, Flechten oder als Magerungsmittel für Ton"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "GFDB57" ;
+    skos:prefLabel "Stroh"@de,
+        "straw"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GG1CG9> a skos:Concept ;
+    skos:altLabel "Salix species"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "GG1CG9" ;
+    skos:prefLabel "Weidenholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GG2137> a skos:Concept ;
+    skos:altLabel "Fell"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BA652F> ;
+    skos:definition "organisches Material aus der vom Körper abgetrennten, mit dichten Haaren besetzten Haut von Säugetieren."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "GG2137" ;
+    skos:prefLabel "Tierfell"@de,
+        "fur"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GG4BF9> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "polymineralisches Sedimentgestein, welches durch die Verwitterung von vulkanischer Asche oder Gläsern entsteht. Hauptbestandteil ist das Mineral Montmorillonit, mit Beimengungen von u.A. Quarz, Feldspäten, Pyrit und Biotit. Abhängig von der mineralischen Zusammensetzung treten Farben zwischen weiß, gelb, grünlich, grau bis braun auf.  Bentonit ist ein sehr weiches Gestein mit einer körnigen Textur und einem matten Oberflächenglanz"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "GG4BF9" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 200."@de ;
+    skos:prefLabel "Bentonit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GGCA4G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> ;
+    skos:definition "großbkörniges, sedimentäres Gestein, das hauptsächlich aus dem gleichnamigen Mineral besteht. Die genaue Bildung von Dolomit ist nicht geklärt, jedoch kommen sie ausschließlich in marinen Sedimentabfolgen vor. Farbe, Korngröße und Gefüge ähneln den Kalksteinen, jedoch ist Dolomit härter und weniger reaktiv gegenüber Säuren."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "GGCA4G" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 248/249."@de ;
+    skos:prefLabel "Dolomit (Gestein)"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AD789F> a skos:Concept ;
+    skos:altLabel "Silberlegierungen"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G4AG5C> ;
+    skos:closeMatch <http://d-nb.info/gnd/4181330-3>,
+        <http://vocab.getty.edu/aat/300010975>,
+        <https://www.wikidata.org/wiki/Q52895784> ;
+    skos:definition "Legierung mit Silber als Hauptbestandteil. Reines Silber ist für viele Anwendungsbereiche zu weich, sodass es häufig mit anderen Metallen (vor allem Kupfer) legiert wird. Neben den Korrosionserscheinungen des reinen Silbers treten in Legierungssystemen weitere Korrosionen auf. So kann sich z.B. bei kupferhaltigen Silberlegierungen Kupfer-I-oxid und Kupfersulfid bilden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "AD789F" ;
+    skos:note "\"Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67.\""@de,
+        "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)."@de ;
+    skos:prefLabel "Silberlegierung"@de,
+        "silver alloy"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6> a skos:Concept ;
+    skos:altLabel "Cu"@de,
+        "reines Kupfer"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF> ;
+    skos:closeMatch <http://d-nb.info/gnd/4033734-0>,
+        <http://vocab.getty.edu/aat/300011020>,
+        <https://www.wikidata.org/wiki/Q753> ;
+    skos:definition "rot-bräunliches Metall mit dem chemischen Symbol Cu und der Ordnungszahl 29. Kupfer war wohl das erstes Metall, dass von den Menschen gezielt hergestellt und verarbeitet wurde. Kupfer ist in feuchter, verunreinigter Luft, sowie in chloridbelasteten Böden recht korrossionsanfällig. Mit den Bestandteilen der Luft (u.a. Schwefel- oder Carbonatverbindungen) bildet es eine Patina, die als Schutzschicht für das darunterliegende Metall gegenüber weiterem Korrosionsangriff dient. Diese Patina kann dem Objekt unter umständen ein recht ästhetisches Erscheinungsbild verleihen (sog. \"Edelpatina\")."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "B28FA6" ;
+    skos:note "\"Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67.\""@de,
+        "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S.28/29, 33."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 83 - 85."@de ;
+    skos:prefLabel "Kupfer"@de,
+        "copper"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415> ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/GC4CA7> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B626A3> a skos:Concept ;
+    skos:altLabel "Knochen"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/AG55BC> ;
+    skos:notation "B626A3" ;
+    skos:prefLabel "Bein"@de,
+        "bone"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BC685F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> ;
+    skos:definition "natürliche Stengelfaser, die aus der Leinpflanze (Linum usitatissimum) durch verschiedene Bearbeitungsschritte gewonnen wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/GB5A92> ;
+    skos:notation "BC685F" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Flachs"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BC75G1> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FAG415> ;
+    skos:closeMatch <http://d-nb.info/gnd/4014081-7>,
+        <http://vocab.getty.edu/aat/30001090> ;
+    skos:definition "Legierung mit Eisen als Hauptbestandteil, die aufgrund ihrer Härte und Verfügbarkeit seit der Antike weit verbreitet für die Herstellung von Werkzeugen, Waffen und landwirtschaftlichen Geräten genutzt wurde. Die Entdeckung der Eisenherstellung (Verhüttung) stellt einen wichtigen Fortschritt in der technologischen Metallverarbeitung der Menschheitsgeschichte dar und beeinflusste maßgeblich die Entwicklung und Expansion antiker Kulturen. Eisenlegierungen sind äußerst korrosionsanfällig, wobei das Korrosionsgeschehen stark von der Legierungszusammensetzung und der Gefügestruktur abhängig ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "BC75G1" ;
+    skos:note "\"Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67.\""@de,
+        "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)."@de ;
+    skos:prefLabel "Eisenlegierung"@de,
+        "iron alloy"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/F71C6B> ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/B19D33> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D74F9D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "Gruppe von Silikatmineralen mit unterschiedlicher chemischer Zusammensetzung aus zweiwertigen Ionen, wie Ca, Mg, Fe, Mn und dreiwertigen, wie Al, Fe3+ oder Cr. Je nach Kombination ergeben sich verschiedene Varietäten, mit eigenen Trivialnamen, sowie Mischkristalle zwischen diesen. Granate kommen häufig als Nebengemengeteil in metamorphosen Gesteinen vor, zum Beispiel in Glimmerschiefer, Hornblenscheifer, Peridotit und Serpentinit."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B3BCB6> ;
+    skos:notation "D74F9D" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 74/75."@de ;
+    skos:prefLabel "Granat"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D8B5C3> a skos:Concept ;
+    skos:altLabel "Selenite"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "weiches Mineral aus wasserhaltigem Kalziumsulfat. Es ist in der Regel farblos bis weiß, durch enthaltene Verunreinigungen können jedoch auch grau, gelb, rötliche bis braun, schwarze Färbungen auftreten. Gips zeigt eine äußerst geringe Härte, sodass er bereits mit dem Fingernagel geritzt werden kann. Gips kommt als Mineral häufig in Sedimentgesteinen oder auch in Seeablagerungen oder Tonen vor, darüber hinaus tritt er als Eindampfungsprodukt auch in reiner Form (Gips-Gestein) auf."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/D1GC4D> ;
+    skos:notation "D8B5C3" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 102."@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Gips"@de ;
+    skos:prefLabel "Gips (Mineral)"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B> a skos:Concept ;
+    skos:altLabel "Goldlegierungen"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G4AG5C> ;
+    skos:closeMatch <http://d-nb.info/gnd/4157867-3>,
+        <http://vocab.getty.edu/aat/300010963>,
+        <https://www.wikidata.org/wiki/Q37136268> ;
+    skos:definition "Legierung mit Gold als Hauptbestandteil. Da reines Gold relativ weich ist, wird es zur Verbesserung der Härte und Beständigkeit mit anderen Metallen (hauptsächlich Kupfer und Silber) legiert. Kongruent zu reinen Goldobjekten sind auch an Objekten aus Goldlegierungen kaum materialbedingte konservatorische Maßnahmen notwendig. Je nach Höhe des Anteils an unedleren Bestandteilen kann es jedoch zu oberflächlicher Verfärbung kommen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DC5B2B" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 56-74."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 38/39."@de ;
+    skos:prefLabel "Goldlegierung"@de,
+        "gold alloy"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F15DFD> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A82D86> ;
+    skos:closeMatch <http://d-nb.info/gnd/4190861-2>,
+        <http://vocab.getty.edu/aat/300011000>,
+        <https://cameo.mfa.org/wiki/Zinc_alloys>,
+        <https://www.wikidata.org/wiki/Q204835> ;
+    skos:definition "Legierung mit Zink als Hauptbestandteil."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F15DFD" ;
+    skos:prefLabel "Zinklegierung"@de,
+        "zinc alloy"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/G8AG1C> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F387GB> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A82D86> ;
+    skos:closeMatch <http://d-nb.info/gnd/4145917-9>,
+        <http://vocab.getty.edu/aat/300010932>,
+        <https://cameo.mfa.org/wiki/Lead_alloys> ;
+    skos:definition "Legierung mit Blei als Hauptbestandteil."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F387GB" ;
+    skos:note "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.202."@de ;
+    skos:prefLabel "Bleilegierung"@de,
+        "lead alloy"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/G992B6> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F71C6B> a skos:Concept ;
+    skos:altLabel "Fe"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566> ;
+    skos:closeMatch <http://d-nb.info/gnd/4014002-7>,
+        <http://vocab.getty.edu/aat/300011002>,
+        <https://www.wikidata.org/wiki/Q677> ;
+    skos:definition "bläulich-gräuliches Metall mit dem chemischen Symbol Fe und der Ordnungszahl 26. Im archäologischen Kontext kommen in der Regel ausschließlich Eisen-Kohlenstoff-Legierungen vor, sodass reines Eisen kaum eine Rolle in der Restaurierung spielt. Eisen ist sehr unedel und neigt sowohl an der Luft, als auch bei der Bodenlagerung zu starken Korrosionsreaktionen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F71C6B" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S.32/33"@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 97/98."@de ;
+    skos:prefLabel "Eisen"@de,
+        "iron"@en,
+        "fer"@fr ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/BC75G1> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FA5484> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "Gruppe von Eisen-Magnesium-Silikatmineralen mit mittlerer Härte. Die Färbung ist meit dunkel, von grün bis schwarzer Farbe. Die Färbung hängt dabei vor allem vom Eisen-Gehalt der Mineralie ab. Die Spaltflächen der Amphibole zeigen sich oft mit einem Glas- oder Perlmuttglanz, während die nadeligen, faserartigen Formen von einem seidigen Glanz sind. Amphibole kommen in vielen magmatischen und metamorphosen Gesteinen vor, wie z. B in Graniten, Dioriten und vor allem in den Amphiobioliten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A43C59> ;
+    skos:notation "FA5484" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 68 - 71."@de ;
+    skos:prefLabel "Amphibol"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G6A358> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A82D86> ;
+    skos:closeMatch <http://d-nb.info/gnd/4190903-3>,
+        <http://vocab.getty.edu/aat/300010978>,
+        <https://cameo.mfa.org/wiki/Tin_alloys>,
+        <https://www.wikidata.org/wiki/Q9346089> ;
+    skos:definition "Legierung mit Zinn als Hauptbestandteil."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G6A358" ;
+    skos:note "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S. 210"@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 80/81."@de ;
+    skos:prefLabel "Zinnlegierung"@de,
+        "tin alloy"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/G78BD6> ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CFC44A> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G78BD6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300133748>,
+        <https://cameo.mfa.org/wiki/Tin>,
+        <https://www.wikidata.org/wiki/Q1096> ;
+    skos:definition "silberweißes, sehr weiches Metall mit dem chemischen Symbol Sn und der Ordnungszahl 50. Zinn wird hauptsächlich als Legierungsbestandteil (z.B. für (Zinn-)Bronze oder in Weichloten) verwendet, aber auch als reines Metall für die Herstellung von Geschirr und kleinen Kulturobjekten. Gegenüber Luftsauerstoff ist es weitgehend beständig, wird jedoch von Säuren (v.a. Salpetersäure) stark angegriffen. Bei der Lagerung von Zinnobjekten unterhalb 13°C tritt das Phänomen der sog. \"Zinnpest\" auf, bei der sich das stabile Zinn in α-Zinn umwandelt, was sich in Form von Flecken und Pusteln bemerktbar macht und schleichend zur vollständigen Verstörung des Zinnobjektes führt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G78BD6" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 29, 33."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 80/81."@de ;
+    skos:prefLabel "Zinn"@de,
+        "tin"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/G6A358> ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CFC44A> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G8AG1C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011037>,
+        <https://cameo.mfa.org/wiki/Zinc> ;
+    skos:definition "bläulich-weißes Metall mit dem chemischen Symbol Zn und der Ordnungszahl 30. Zink wurde in der Antike hauptsächlich als Erz bei der Kupferverhüttung bzw. -legierung verarbeitet. Erst im späten Mittelalter wird Zink gezielt als reines Metall hergestellt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G8AG1C" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 29, 33."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 92/93."@de ;
+    skos:prefLabel "Zink"@de,
+        "zinc"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/F15DFD> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G992B6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011022>,
+        <https://cameo.mfa.org/wiki/Lead> ;
+    skos:definition "sehr weiches Metall, von bläulich-gräulicher Farbe mit dem chemischen Symbol Pb und der Ordnungszahl 82. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glasuren sowie Legierungen mit anderen Metallen verwendet. Blei läuft an der Luft unter Bildung einer passivierenden Oxidschicht an und ist auch bei Kontak mit Wasser oder Säuren stark korrosionsanfällig."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "G992B6" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 29, 33."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 81/82."@de ;
+    skos:prefLabel "Blei"@de,
+        "lead"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/F387GB> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A11ACA> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300235507>,
+        <http://www.wikidata.org/entity/Q45621>,
+        <https://cameo.mfa.org/wiki/Ceramic> ;
+    skos:definition "anorganischer, nicht-metallischer, durch das Brennen von Ton hergestelltes Material. Ton stellt einen weit verbreiteten Werkstoff da, der im feuchten Zustand gut plastisch formbar ist und sich beim Brennen zur mehr oder weniger festen Keramik umwandelt. Ton besteht aus verschiedenen Tonmineralen (z.B. Kaolinit, Montmorillonit und Illit), Zuschlagstoffen - sog. Magerungsmitteln - wie Sand, Kalk, Ziegelmehl, Stroh, Häcksel, Tierhaare, Knochenasche oder Muscheln und Wasser. Objekte aus Keramik wurden bereits vor tausenden von Jahren von vielen Kulturen für verschiedenste Verwendungszwecke angefertigt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/DG279C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FC776B> ;
+    skos:notation "A11ACA" ;
+    skos:note "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 222."@de,
+        "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 8/9."@de ;
+    skos:prefLabel "Keramik"@de,
+        "ceramic"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AD3B58> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:closeMatch <https://www.mindat.org/min-1136.html> ;
+    skos:definition "sehr hartes Mineral aus Aluminiumoxid, welches je nach enthaltenen Spurenelementen in ganz unterschiedlichen Farben auftreten kann. Die bekanntesten Varietäten sind Rubin und Saphir. Korund ist nach Diamant das zweithärteste, natürlich vorkommende Material mit einer Mohshärte von 9. Korund weist eine hohe Dichte, einen glasartigen Glanz sowie einen muscheligen Bruch auf."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BC5A3C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D75514> ;
+    skos:notation "AD3B58" ;
+    skos:note "Klaus Kugi, Norbert Jakober, Mineralien und Edelsteine: Ein umfassender Ratgeber zum Entdecken, Bestimmen und Sammeln. Übersetzt aus dem Italienischen (Klagenfurt 2004), S. 78/79."@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Korund"@de ;
+    skos:prefLabel "Korund"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AG55BC> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B626A3> ;
+    skos:definition "Zahnsubstanz, das als Werkstoff aus den Stoßzähnen des Elefanten und seiner Vorfahren (Mastodon, Mammut) gewonnen wird. Im allgemeinen Sprachgebrauch wird auch eine Reihe weitere, in Aussehen und Struktur ähnlicher Materialien (Walrosszahn, Nilpferdzahn, Narwahlzahn, etc.) als Elfenbein bezeichnet. Elfenbein ist in der Regel von cremeweißer Farbe, mit Schwankungen ins gelblich, grünlich, rötlich oder bräunliche, und weist eine charakteristische Maserung auf. Im Gegensatz zu Knochen weist Elfenbein einen niedrigeren Mineralgehalt auf, was sich in einer höheren Elastizität, Bruchfestigkeit, Polierfähigkeit und geringerer Sprödigkeit im Vergleich zu Knochenmaterial zeigt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/FF744D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G56716> ;
+    skos:notation "AG55BC" ;
+    skos:note "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S.111 - 118."@de ;
+    skos:prefLabel "Elfenbein"@de,
+        "ivory"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF> a skos:Concept ;
+    skos:altLabel "Objektmaterial"@de ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/GD172G> ;
+    skos:closeMatch <http://terminology.lido-schema.org/lido00132>,
+        <http://vocab.getty.edu/aat/300010358> ;
+    skos:definition "Material aus dem das Objekt besteht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
+    skos:notation "B51DAF" ;
+    skos:prefLabel "Material"@de ;
+    skos:relatedMatch <https://www.wikidata.org/wiki/Q16829513> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B59296> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:definition "biologisches Material, aus Dentin, Zahnschmelz und manchmal Zement. Es ist hart, langlebig und verhältnismäßig resistent gegen Verwitterung, wodurch es häufig in archäologischen Funden wie Schmuck, Werkzeugen oder Resten von Tieren und Menschen erhalten bleibt. Zahn kann durch Form, Farbe und Wachstumsmuster individuelle oder artspezifische Merkmale aufweisen und ist ein wichtiger Träger biologischer sowie kultureller Informationen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C12BC3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DGC848> ;
+    skos:notation "B59296" ;
+    skos:prefLabel "Zahn"@de,
+        "tooth"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A> a skos:Concept ;
+    skos:altLabel "Metalle"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300010900>,
+        <https://cameo.mfa.org/wiki/Metal>,
+        <https://d-nb.info/gnd/4038860-8> ;
+    skos:definition "chemisches Element, das durch eine gute elektrische und thermische Leitfähigkeit, einen typischen Glanz sowie gute Formbarkeit mit spanlosen oder spangebenden Methoden gekennzeichnet ist. Die typischen metallischen Eigenschaften ergeben sich aus der charakteristischen Gitterstruktur des Atomaufbaus. Metalle werden bereits seit Jahrhunderten von Menschen systematisch gewonnen, bearbeitet und für Werkzeuge, Schmuck, Waffen und andere Zwecke verwendet. Sie spielen eine zentrale Rolle in der technologischen und kulturellen Entwicklung der Menschheit."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/F7D3DB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13> ;
+    skos:notation "B5DD1A" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 11, 18 - 21."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S.17."@de ;
+    skos:prefLabel "Metall"@de,
+        "metal"@en,
+        "métal"@fr ;
+    skos:relatedMatch <http://www.wikidata.org/entity/Q11426> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B7DD6B> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DFG875> ;
+    skos:definition "Von Bäumen der botanischen Gruppe der Dikotyledonen (Laubbäume) gewonnenes Holz, mit artspezifischen Ausprägungen des Zellbaues aus Gefäßen, Libriformfasern, Tracheiden und Parenchymzellen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/D39191>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> ;
+    skos:notation "B7DD6B" ;
+    skos:note "DIN EN 844:2020-01, Rund- und Schnittholz - Terminologie; Dreisprachige Fassung EN 844:2019, Deutsches Institut für Normung."@de,
+        "Rudi Wagenführ, HOLZatlas (München 2000)., S.9."@de,
+        "https://www.duden.de/rechtschreibung/Laubholz"@de ;
+    skos:prefLabel "Laubholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BA652F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300192949> ;
+    skos:definition "Kollagenhaltiges tierisches Material"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GG2137> ;
+    skos:notation "BA652F" ;
+    skos:prefLabel "Kollagenhaltiges Material"@de,
+        "collagenous material"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DFG875> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A858> ;
+    skos:definition "Stützwort zur Thesaurus-Strukturierung, das die nachfolgenden Begriffe als Arten von Holz klassifiziert"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B7DD6B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FC3FD6> ;
+    skos:notation "DFG875" ;
+    skos:prefLabel "[Holzart]"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A> ;
+    skos:closeMatch <http://d-nb.info/gnd/4133759-1>,
+        <http://vocab.getty.edu/aat/300011029>,
+        <https://www.wikidata.org/wiki/Q1090> ;
+    skos:definition "weißlich-graues Metall mit dem chemischen Symbol Ag und der Ordnungszahl 47. Gehört, ebenso wie Gold und Kupfer, zu den ersten Metallen die von den Menschen verarbeitet wurde. Silber wurde als edler metallischer Werkstoff aufgrund seiner guten Verarbeitbarkeit, hohen Korrosionsbeständigkeit im Vergleich zu anderen Metallen und seiner reinen warm-glänzenden Erscheinung seit der Antike für Münzen, Schmuck und zeremonielle Gegenstände genutzt. Im Vergleich zu Gold war Silber überdies häufiger verfügbar. Als Edelmetall ist es relativ beständig gegen Korrosion, wird jedoch von Luftsauerstoff, Schwefel und chloridhaltigen Lösungen (z.B. in stark chloridhaltigen Böden) unter Bildung von Silberoxid, Silbersulfid und/oder Silberchlorid angegriffen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "F135A8" ;
+    skos:note "\"Wilhelm P. Bauer, Grundzüge der Metallkorrosion. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, 63–67.\""@de,
+        "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 28, 32."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 53, 55 - 59."@de ;
+    skos:prefLabel "Silber"@de,
+        "silver"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/AD789F> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011793> ;
+    skos:definition "Überbegriff für organische Materialien die aus verschiedenen Teilen eines Tieres hergestellt werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/AB4988>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BA652F> ;
+    skos:notation "F2A45F" ;
+    skos:prefLabel "Materialien tierischen Ursprungs"@de,
+        "animal material"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F6F797> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AB4988> ;
+    skos:definition "feine, glänzende Naturfaser, die aus den Kokons von Seidenspinnern, wie dem domestizierten Bombyx mori, ausgeschieden und zu Geweben verarbeitet wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/G16647>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G21F5B> ;
+    skos:notation "F6F797" ;
+    skos:note "CIETA Vocabularies - Vokabular der Textiltechniken"@de ;
+    skos:prefLabel "Seide"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F7D3DB> a skos:Concept ;
+    skos:altLabel "Reinmetall"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A> ;
+    skos:definition "Metall, welches nahezu ausschließlich aus einer Atomart besteht und nur sehr geringe Mengen an anderen Elementen enthält. Jedes Reinmetall besitzt charakteristische physikalische und chemische Eigenschaften, wie eine spezifische Dichte, Härte, Schmelztemperatur und chemische Aktivität, das es von anderen Metallen unterscheidet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A> ;
+    skos:notation "F7D3DB" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 21"@de ;
+    skos:prefLabel "reines Metall"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F9D2A8> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B41GC3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FB8DCB> ;
+    skos:notation "F9D2A8" ;
+    skos:prefLabel "Perle"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13> a skos:Concept ;
+    skos:altLabel "Legierung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300010902> ;
+    skos:definition "Gemenge aus mindestens zwei verschiedenen chemischen Elementen, wobei eines davon ein Metall ist. Durch das gezielte Zusammenschmelzen von Metallen werden Legierungen mit spezifischen Eigenschaften wie verbesserte Festigkeit, Korrosionsbeständigkeit oder Verarbeitbarkeit hergestellt. Im festen/abgekühlten Zustand können diese Legierungsbestandteile nicht ohne weiteres mit physikalischen Methoden getrennt werden. Benannt werden Legierungen nach dem mengenmäßig überwiegend enthaltenen Metall."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/FAG415>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G4AG5C> ;
+    skos:notation "F9GB13" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 42."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 28."@de ;
+    skos:prefLabel "Metalllegierung"@de,
+        "metal alloy"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F9GC9A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "Gruppe von Mineralen, die hauptsächlich aus Aluminium-Silikaten, mit vereinzelten weiteren Bestandteilen, wie Eisen, Magnesium oder Kalium, bestehen. Sie bilden dichte, bröckelige oder mehlige Massen und fühlen sich zwischen den Fingern zerrieben seifig, fettig an. Typische Merkmale der Tonminerale sind die plättchenartige Struktur mit blättriger Kristallform, sowie ein charakteristisch erdiger Geruch im feuchten Zustand. Wie der Name bereits vermuten lässten, bilden diese Mineral die Hauptbestandteil von Tonen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/CA53A2>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D71467> ;
+    skos:notation "F9GC9A" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 62."@de ;
+    skos:prefLabel "Tonminerale"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FAG415> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13> ;
+    skos:definition "Legierung, bei dem der Hauptbestandteil durch ein unedles Metall gebildet wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A82D86>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BC75G1> ;
+    skos:notation "FAG415" ;
+    skos:prefLabel "Unedelmetallegierung"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A> ;
+    skos:closeMatch <http://d-nb.info/gnd/4157819-3>,
+        <http://vocab.getty.edu/aat/300011021>,
+        <https://cameo.mfa.org/wiki/Gold>,
+        <https://www.wikidata.org/wiki/Q897> ;
+    skos:definition "gelbes Metall mit dem chemischen Symbol Au und der Ordnungszahl 79. Gehört zu den ersten Metallen, die in der frühen Menschheitsgeschichte verarbeitet wurden. Aufgrund seiner Seltenheit, der guten Bearbeitbarkeit sowie der schönen Farbe und dem auffälligen Glanz wird Gold seit Jahrtausenden für Schmuck und Prestigeobjekte verwendet. Durch die hohe Korrosionsbeständigkeit sind an Goldobjekten kaum materialbezogene, konservatorische Maßnahmen notwendig."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "FD5149" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 26, 32."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 30, 33 - 38."@de ;
+    skos:prefLabel "Gold"@de,
+        "gold"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G899F5> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AB4988> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011814> ;
+    skos:definition "Natürliche, faserartige Gebilde aus Keratin, die aus der Haut von Säugetieren wachsen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/AA992C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> ;
+    skos:notation "G899F5" ;
+    skos:prefLabel "Haar"@de,
+        "hair"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A9A858> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1> ;
+    skos:definition "natürliches Material, nachwachsender Rohstoff; die Hauptbestandteile von Holz sind Cellulose, Hemicellulose und Lignin, während des Wachstums werden Extraktstoffe und Mineralien in den Zellen eingelagert. Holz ist aufgrund seiner Festigkeit, Vielseitigkeit und Verfügbarkeit ein wichtiger Rohstoff für Bau-, Möbel- und Kunsthandwerksanwendungen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C47769>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C947B5>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DFG875> ;
+    skos:notation "A9A858" ;
+    skos:note "DIN EN 844:2020-01, Rund- und Schnittholz - Terminologie; Dreisprachige Fassung EN 844:2019, Deutsches Institut für Normung."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)., S. 103/104"@de ;
+    skos:prefLabel "Holz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AB4988> a skos:Concept ;
+    skos:altLabel "Tierfaser"@de,
+        "tierische Faser"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300386673>,
+        <https://cameo.mfa.org/wiki/Animal_fibers> ;
+    skos:definition "Natürliche Fasern, die aus den Haarfollikeln oder den Sekreten von Tieren gewonnen werden und basierend auf ihren jeweiligen Eigenschaften im kulturellen Kontext für verschiedene Anwendungen wie z.B. Kleidung, Fäden oder Dekor verarbeitet wurden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B6443F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F6F797>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G899F5> ;
+    skos:notation "AB4988" ;
+    skos:note "Antoinette Rast-Eicher, Fibres. Microscopy of archaeological textiles and furs (Budapest 2016) S. 127/128."@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "Fasern tierischen Ursprungs"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566> a skos:Concept ;
+    skos:altLabel "unedle Metalle"@de,
+        "unedles Metall"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F7D3DB> ;
+    skos:closeMatch <http://d-nb.info/gnd/4583082-4>,
+        <http://vocab.getty.edu/aat/300241615>,
+        <https://www.wikidata.org/wiki/Q428855> ;
+    skos:definition "Sammelbegriff für Metalle, mit negativem Normalpotenzial. Sie neigen, aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur chemischen Reaktion mit ihrer Umgebung. Objekte aus unedlen Metallen zeigen im archäologischen Kontext daher in der Regel mehr oder weniger starke Korrosionserscheinungen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/F71C6B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF> ;
+    skos:notation "BBF566" ;
+    skos:note "Charles E. Mortimer, Ulrich Müller, Chemie. Das Basiswissen der Chemie (Stuttgart 2007)9."@de,
+        "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000),S. 26."@de ;
+    skos:prefLabel "Unedelmetall"@de,
+        "base metal"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14> a skos:Concept ;
+    skos:altLabel "Bronzen"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300010957>,
+        <https://cameo.mfa.org/wiki/Bronze> ;
+    skos:definition "Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen. Ebenso hängt die Verarbeitbarkeit maßgeblich von den Legierungszusammensetzten ab. Die Korrosionsanfälligkeit von Bronze entspricht im Wesentlichen der des Kupfers, wobei entsprechend der anderen Bestandteile weitere Korrosionserscheinungen auftreten können."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A6D8BF>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C1DGG5>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DG663G> ;
+    skos:notation "BF7D14" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), 85."@de ;
+    skos:prefLabel "Bronze"@de,
+        "bronze"@en ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/B9C457>,
+        <https://www.wikidata.org/wiki/Q34095> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D> a skos:Concept ;
+    skos:altLabel "Calzedon"@de,
+        "Chalcedon"@de,
+        "chalcedone"@en ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C84834> ;
+    skos:definition "in verschiedenen Farben vorkommende Quarzvarietät, aus parallel gewachsenen, faserigen Kristallen von mikroskopischer und submikroskopischer Größe. Häufig finden sich auch Beimengungen von Moganite zwischen 1% - 20%, die sich jedoch im Laufe der Zeit zu Quarz umwandeln können, sodass ein moganite-freier Calcedon entsteht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B97F4A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BBA96A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C5322D> ;
+    skos:notation "C81F4D" ;
+    skos:note "DIN EN 12670"@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Calcedon"@de ;
+    skos:prefLabel "Calcedon"@de,
+        "calcedony"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C84834> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "weit verbreitetes Mineral aus reinem SiO2, welches in vielen Gesteinsarten vorkommt. Quarz ist grundsätzlich farblos - weiß, tritt jedoch je nach Verunreinigungen/Einlagerungen auch in vielerlei Farben auf (weiß, gelb, violett, braun, schwarz, grün, blau, rosa, etc.) und zeigt in der Regel einen glasigen, matten Glanz. Quarz ist bekannt für seine Härte (Mohshärte 7) und Widerstandsfähigkeit gegenüber Verwitterung."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A2C56B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B9A8BF>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C81F4D> ;
+    skos:notation "C84834" ;
+    skos:note "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Quarz"@de ;
+    skos:prefLabel "Quarz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341> a skos:Concept ;
+    skos:altLabel "Organik"@de,
+        "biologisches Material"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011792>,
+        <https://cameo.mfa.org/wiki/Organic> ;
+    skos:definition "Allgemeiner Sammelbegriff für natürlich von Organismen gebildete Stoffe meist tierisch- oder pflanzlichen Ursprungs."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/F2A45F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G76A78> ;
+    skos:notation "CD3341" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989),S. 226"@de ;
+    skos:prefLabel "organisches Material"@de,
+        "organic"@en ;
+    skos:relatedMatch <https://www.wikidata.org/wiki/Q1783121> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D39191> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B7DD6B> ;
+    skos:definition "Laubholz, das große Tracheen/Gefäße im Frühholz und deutlich kleinere im Spätholz ausbildet. Im Querschnitt von ringporigem Laubholz sind deutlich ringförmige Strukturen sichtbar"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/DBG8AD>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FG3BCD>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G2C131> ;
+    skos:notation "D39191" ;
+    skos:prefLabel "ringporiges Laubholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD> a skos:Concept ;
+    skos:altLabel "Stein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
+    skos:closeMatch <https://cameo.mfa.org/wiki/Rock>,
+        <https://cameo.mfa.org/wiki/Stone>,
+        <https://www.wikidata.org/wiki/Q8063> ;
+    skos:definition "mehr oder weniger verfestigter Werkstoff aus mikroskopisch heterogenen Gemengen von Mineralen, Gesteinsbruchstücken, organischen und/oder anorganischen Ausscheidungen und Wasser (Kristallwasser). Hauptgemengeteile bilden Minerale wie Silikate (Feldspat, Quarz, Glimmer, etc.) und Karbonate (Calcit, Dolomit, etc.). Stein findet im Bereich historischer Kulturgüter in der Verwendung als Statuen, Schmuck, Gefäßen, und Bauteilen. Je nach Zusammensetzung sind Gesteine mehr oder weniger anfällig für umgebungsbedingten Zerfall, so können z.B. Schadstoffe aus der Luft ebenso wie Salze und andere Bodenbestandteile Zerfallsprozesse an der Oberfläche von Steinobjekten hervorrufen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/ABB166>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF7826> ;
+    skos:notation "D866AD" ;
+    skos:note "Barbara Stuart, Analytical Techniques in Materials Conservation (West Sussex 2007)."@de ;
+    skos:prefLabel "Gestein"@de,
+        "stone"@en ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300011176> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F75BDB> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> ;
+    skos:definition "Mineral aus der Gruppe der Ringsilikate bestehend aus Beryllium-Aluminium-Silikat. Er zeichnet sich durch eine Härte von 7,5 . 8 auf der Mohs-Skala aus und tritt in reiner Form meist farblos transparent bis durchscheinend auf. Durch enthaltene Spurenelemente bildet der Beryll eine Reihe verschieden farbiger Varietäten, die aufgrund ihrers glasartigen Glanzes und der ästhetischen Farbgebung als Schmucksteine sehr geschätzt werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A72G88>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F43643>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G98D28> ;
+    skos:notation "F75BDB" ;
+    skos:note "Klaus Kugi, Norbert Jakober, Mineralien und Edelsteine: Ein umfassender Ratgeber zum Entdecken, Bestimmen und Sammeln. Übersetzt aus dem Italienischen (Klagenfurt 2004), S. 158/159."@de,
+        "https://www.mineralienatlas.de/lexikon/index.php/Mineralienportrait/Beryll"@de ;
+    skos:prefLabel "Beryll"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FCF757> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BA652F> ;
+    skos:definition "organisches Material aus der vom Körper abgetrennten, äußersten Gewebehülle von Tieren, die durch verschiedene Verfahren haltbar und weiter verarbeitbar gemacht wurde."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A82C8C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B9C731>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D73F9B> ;
+    skos:notation "FCF757" ;
+    skos:prefLabel "Tierhaut"@de,
+        "animal skin"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A> a skos:Concept ;
+    skos:altLabel "Edelmetalle"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F7D3DB> ;
+    skos:closeMatch <http://d-nb.info/gnd/4013531-7>,
+        <http://vocab.getty.edu/aat/300241621>,
+        <https://www.wikidata.org/wiki/Q585302> ;
+    skos:definition "korrosionsbeständiges Metall, das aufgrund seiner chemischen und physikalischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/F135A8>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FD5149> ;
+    skos:notation "FGA46A" ;
+    skos:note "DIN EN ISO 2080:2022-06, Metallische und andere anorganische Überzüge - Oberflächenbehandlung, metallische und andere anorganische Überzüge - Wörterbuch (ISO 2080:2022); Deutsche und Englische Fassung EN ISO 2080:2022, Deutsches Institut für Normung."@de,
+        "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000). S.26."@de ;
+    skos:prefLabel "Edelmetall"@de,
+        "nobel metal"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G4AG5C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F9GB13> ;
+    skos:definition "Legierung, bei dem der Hauptbestandteil ein Edelmetall ist."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/AD789F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DC5B2B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F9F6DG> ;
+    skos:notation "G4AG5C" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 42."@de ;
+    skos:prefLabel "Edelmetalllegierung"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/FGA46A> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A82D86> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FAG415> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300011014>,
+        <https://www.wikidata.org/wiki/Q355809> ;
+    skos:definition "Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung häufig als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/F15DFD>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F387GB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G6A358> ;
+    skos:notation "A82D86" ;
+    skos:note "Der Brockhaus von A-Z: In drei Bänden (Mannheim 2002)."@de ;
+    skos:prefLabel "Buntmetalllegierung"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B12CB4> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DF7826> ;
+    skos:definition "natürliches, glasartiges Gestein, das durch die rasche Abkühlung einer Schmelze, ohne Ausbildung von Kristallen, entsteht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B21C51>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C7BG27>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CCBB4G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D51GA5> ;
+    skos:notation "B12CB4" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 185."@de ;
+    skos:prefLabel "Gesteinsglas"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300010797>,
+        <https://cameo.mfa.org/wiki/Glass> ;
+    skos:definition "anorganischer, amorpher Feststoff, der durch schnelles Abkühlen einer Schmelze ohne Kristallisation erzeugt wird. Gläser bestehen in der Regel aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3))."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:notation "DA2D73" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 136 - 138."@de,
+        "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S.1 - 5."@de ;
+    skos:prefLabel "Glas"@de,
+        "glas"@en ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BG987D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DGC3A9>,
+        <https://www.wikidata.org/wiki/Q11469> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DG279C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A11ACA> ;
+    skos:definition "keramische Erzeugnisse mit einer dichten und feinen Scherbenstruktur, die in der Regel durch die Verwendung fein aufbereiteter und gemahlener Tone erzielt wird."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A38966>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CB19D3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CF41GC>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CG154B> ;
+    skos:notation "DG279C" ;
+    skos:note "Sven Frotscher, Dtv-Atlas Keramik und Porzellan. Dtv 3258. München: Deutscher Taschenbuch Verlag, 2003, S. 10/11."@de ;
+    skos:prefLabel "Feinkeramik"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341> ;
+    skos:definition "Überbegriff für Materialien die aus Pflanzen gewonnen werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A9A858>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C2FCA7>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G465BG> ;
+    skos:notation "F3G8D1" ;
+    skos:prefLabel "Materialien pflanzlichen Ursprungs"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FGB415> a skos:Concept ;
+    skos:altLabel "Kupferlegierungen"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A82D86> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300010942>,
+        <https://www.wikidata.org/wiki/Q518350> ;
+    skos:definition "Legierung mit Kupfer als Hauptbestandteil. Parallel zur Verwendung von reinem Kupfer, steht auch die Herstellung von Kupferlegierung am Beginn der historischen Metallverarbeitung der Menschheitsgeschichte. Aufgrund der reichen Verfügbarkeit, guten Verarbeitbarkeit und Verständigkeit wurde Kupfer für vielerlei Gegenstände (z.B. Schmuck, Waffen, Gefäße, etc.) verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A8B271>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B93G16>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BF7D14> ;
+    skos:notation "FGB415" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000)."@de,
+        "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989)."@de ;
+    skos:prefLabel "Kupferlegierung"@de,
+        "copper alloy"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6> ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/GC4CA7> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G76A78> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341> ;
+    skos:definition "Überbegriff für verfestigten Anreicherungen von organischen Kohlenstoffverbindungen (oder reinem Kohlenstoff) aus Überresten von Pflanzen und Tieren. Sie entstehen durch Umwandlung der organischen Materialien unter hohem Druck und Temperatur über geologische Zeiträume hinweg. Teilweise werden die Kaustobiolithe aufgrund ihrer Entstehungsart auch den sedimentären Gesteinen zugeordnet. Eine besondere Eigenschaft der Kaustobiolithe, die sie von den meisten \"klassischen\" Gesteinen unterscheidet, ist ihre Brennbarkeit."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A4A374>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A5B5B2>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AAG733>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D467F2> ;
+    skos:notation "G76A78" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 258/259."@de ;
+    skos:prefLabel "Kaustobiolith"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/ABB166> a skos:Concept ;
+    skos:altLabel "metamorphoses Gestein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD> ;
+    skos:definition "Überbegriff für Gesteine, die durch Umwandlung anderer Gesteine (z.B. Magmatite oder Sedimentgesteine) in den Tiefen der Erdkruste, aufgrund des dort herrschenden Drucks und steigenden Temperaturen, entstanden sind."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BAB939>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D6959D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF1279>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F85G77>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G63684> ;
+    skos:notation "ABB166" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 271/272."@de ;
+    skos:prefLabel "Metamorphit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DF7826> a skos:Concept ;
+    skos:altLabel "Erstarrungsgestein"@de,
+        "magmatisches Gestein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD> ;
+    skos:definition "Überbegriff für Gesteine, die aus Erstarrung einer Gesteinsschmelze entstehen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B12CB4>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B14489>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CDB814>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D9B246>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F646B4> ;
+    skos:notation "DF7826" ;
+    skos:note "DIN EN 12670"@de,
+        "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995), S. 124."@de ;
+    skos:prefLabel "Magmatit"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FC3FD6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DFG875> ;
+    skos:definition "Von Bäumen der botanischen Gruppe der Gymnospermen (Nadelbäume) gewonnenes Holz. Eine einzige Art von Zellen, die Tracheiden, übernimmt sowohl die Stabilitäts- als auch die Wassertransportfunktion, was dem Nadelholz einen relativ einfachen und regelmäßigen Zellaufbau verleiht. Dank ihrer Anpassung an kurze Vegetationsperioden können Nadelbäume auch in Regionen mit langen, kalten Wintern oder in großen Höhen überleben, wo Laubbäume nicht mehr wachsen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A73FD7>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F5GA47>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FCA7DA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G2944B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G356D5> ;
+    skos:notation "FC3FD6" ;
+    skos:note "DIN EN 844:2020-01, Rund- und Schnittholz - Terminologie; Dreisprachige Fassung EN 844:2019, Deutsches Institut für Normung."@de,
+        "Rudi Wagenführ, HOLZatlas (München 2000), S.8."@de,
+        "https://www.duden.de/rechtschreibung/Nadelholz"@de ;
+    skos:prefLabel "Nadelholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GB5BGF> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566> ;
+    skos:definition "Sammelbegriff für farbige Metalle, außer Eisen und Edelmetalle. Sie zeichnen sich durch ihre Farbvielfalt aus und wurden bereits seit der frühsten Menschheitsgeschichte für ihre spezifischen Eigenschaften wie Härte, Korrosionsbeständigkeit und elektrische Leitfähigkeit geschätzt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B28FA6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G78BD6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8AG1C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G992B6> ;
+    skos:notation "GB5BGF" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 17."@de ;
+    skos:prefLabel "Buntmetall"@de,
+        "nonferrous metal"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> a skos:Concept ;
+    skos:altLabel "Silikat"@de,
+        "mineralisches Materialien"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF> ;
+    skos:closeMatch <https://www.wikidata.org/wiki/Q7130787> ;
+    skos:definition "Oberbegriff für eine Vielzahl von nichtmetallischen, anorganischen Werkstoffen, die aus Silikaten bestehen oder aus diesen gewonnen werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A11ACA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DA2D73>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
+    skos:notation "GB6DF3" ;
+    skos:note "Jochem Wolters, Der Gold- und Silberschmied. Band 1 - Werkstoffe und Materialien (Stuttgart 1989), S. 136, 218 - 222."@de ;
+    skos:prefLabel "silikatisches Material"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DD9C25> a skos:Concept ;
+    skos:altLabel "Pflanzenfasern"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F3G8D1> ;
+    skos:definition "Natürliche Fasern, die aus pflanzlichem Material gewonnen und für verschiedene Anwendungen, wie Textilien, Seilen, Körben, Schnüren oder Matten, verwendet wurden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A2159C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A5G856>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AG4634>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BC685F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C3AF5A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D53ADA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8533D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFDB57> ;
+    skos:notation "DD9C25" ;
+    skos:note "Antoinette Rast-Eicher, Fibres. Microscopy of archaeological textiles and furs (Budapest 2016) S. 73 - 126."@de,
+        "DIN EN ISO 6938"@de ;
+    skos:prefLabel "pflanzliche Fasern"@de,
+        "plant fibres"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F8DFCG> a skos:Concept ;
+    skos:altLabel "Fell"@de,
+        "tierisches Haar"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G899F5> ;
+    skos:definition "natürliches Material aus dem Fell, Pelz oder der Behaarung von Tieren."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A9AC1A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AA47GG>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B576DA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BG71D3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CG49C6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D51GAA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF96G1>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G43GG2>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G593G4> ;
+    skos:notation "F8DFCG" ;
+    skos:prefLabel "Tierhaar"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C7F346> a skos:Concept ;
+    skos:altLabel "Sedimentit"@de,
+        "sedimentäres Gestein"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D866AD> ;
+    skos:definition "Überbegriff für Gesteine, die mittels Diagenese durch Verwitterung, Abtragung, Zerfall anderer Gesteine und deren sekundäre Ablagerung auf der Erdoberfläche entstehen. Auch Gesteine die durch chemische Ausfällung oder von Organismen aufgebaut werden, zählen zur Gruppe der Sedimentgesteine."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/ACD56G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B8224D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CB4C3C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DB13B8>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DD91F6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F2B8B7>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G636F1>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G734B3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GG4BF9>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GGCA4G> ;
+    skos:notation "C7F346" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995),S. 203 - 210."@de ;
+    skos:prefLabel "Sedimentgestein"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DAA3F9> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B7DD6B> ;
+    skos:definition "Laubholz, bei dem die Gefäße/Tracheen gleichmäßig und ohne klare Anordnung über einen gesamten Jahrring verteilt im Holz vorkommen. Anders als bei ringporigen Hölzern, bei denen große Gefäße im Frühholz und kleinere im Spätholz auftreten, gibt es bei zerstreutporigen Hölzern keinen großen Unterschied in der Größe oder Verteilung der Gefäße zwischen Früh- und Spätholz."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/ABBFB5>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B44F39>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B5C86F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B93452>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BGG879>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CAD229>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BD88>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FA1B26>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GAG81G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GG1CG9> ;
+    skos:notation "DAA3F9" ;
+    skos:prefLabel "zerstreutporiges Laubholz"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
+    skos:definition "Überbegriff für mineralisches Material, das von lebenden Organismen gebildet wird.  Aus chemischer Sicht handelt es sich dabei um anorganische Substanzen und Kristallstrukturen wir Kalziumkarbonat, Kalziumphosphat oder Siliziumdioxid. Diese werden von lebenden Organismen in biologischen Prozessen synthetisiert und in ihr Gewebe eingebaut. Dabei erfüllen die Biominerale spezifische Funktionen, wie den Schutz oder die Stabilität der Gewebestrukturen. Obwohl sie biologischen Ursprungs sind, werden Biominerale aufgrund ihrer chemischen Zusammensetzung und ihrer Eigenschaften den silikatischen bzw. mineralischen Materialien zugeorndet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A3D91B>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AG8F3A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B2F655>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B59296>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B626A3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B69747>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B69F1G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B77128>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B8B69D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BBC26F>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F9D2A8> ;
+    skos:notation "F1BA31" ;
+    skos:note "Matthias Epple, Biomaterialien und Biomineralisation (Wiesbaden 2003), S. 106/107."@de ;
+    skos:prefLabel "Biomineral"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BGC9F3> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
+    skos:definition "anorganischer, chemisch und physikalisch homogener Festkörper, mit meist kristalliner Struktur. Minerale entstehend durch natürliche, geologische Prozesse und zeichnen sich durch unterschiedliche charakterisierende Eigenschaften aus."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A42FG3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AD3B58>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B452DG>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C84834>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CGGB4G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D1788D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D74F9D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D8B5C3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F68381>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F75BDB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F9GC9A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FA5484>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FD27A8> ;
+    skos:notation "BGC9F3" ;
+    skos:note "R. Dietrich/ B. Skinner, Die Gesteine und ihre Mineralien. Ein Einführungs- und Bestimmungsbuch2 (Thun 1995)."@de ;
+    skos:prefLabel "Mineral"@de,
+        "mineral"@en .
+
+<https://www.w3id.org/archlink/branches/B51DAF> a skos:ConceptScheme ;
+    dc:creator "Kristina Fischer" ;
+    dc:description " Zweig für Material im Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter (https://www.w3id.org/archlink/terms/conservationthesaurus)"@de ;
+    dc:title "Material"@de ;
+    dcterms:contributor "Christian Eckmann",
+        "Dr. Ingrid Stelzner",
+        "Dr. Roland Schwab",
+        "Heidrun Hochgesand",
+        "Katja Broschat",
+        "Kristina Fella",
+        "Lasse Mempel-Länger",
+        "Lena Klar",
+        "Leslie Pluntke",
+        "Markus Wittköpper",
+        "Marlene Schmucker",
+        "Matthias Heinzel",
+        "Rüdiger Lehnert",
+        "Stephan Patscher",
+        "Ulrike Lehnert",
+        "Waldemar Muskalla" ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:publisher "Leibniz-Zentrum für Archäologie (LEIZA)" ;
+    dcterms:rights "CC BY 4.0" ;
+    dcterms:subject "Archäologie"@de,
+        "Konservierung"@de,
+        "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/B51DAF/" .
+

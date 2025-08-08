@@ -1,0 +1,281 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A255FD> a skos:Concept ;
+    skos:altLabel "Wassergesättigt"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300228711> ;
+    skos:definition "Das Materialgefüge/der Porenraum des Objektes ist vollständig mit Wasser gesättigt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "A255FD" ;
+    skos:prefLabel "Nass (Objektzustand)"@de,
+        "wet"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A5D63G> a skos:Concept ;
+    skos:altLabel "vorbehandelt"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C> ;
+    skos:definition "An dem Objekt sind Spuren der Veränderung festzustellen, die auf eine (oder mehrere) vorherige Konservierungs- bzw. Restaurierungsmaßnahme hindeuten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "A5D63G" ;
+    skos:prefLabel "altrestauriert"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AF5C86> a skos:Concept ;
+    skos:altLabel "mürbe"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Das Objektmaterial zeigt eine geringe Festigkeit und Widerstandsfähigkeit gegen Verformung. Es neigt bei anhaltender Belastung zu plötzlichem Bruch ohne vorherige elastische Verformung."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "AF5C86" ;
+    skos:prefLabel "spröde"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BCG421> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Das Objektmaterial zeigt eine geringe Festigkeit, aber gute Widerstandsfähigkeit gegenüber dauerhafter Verformung. Es ist fähig, nach der Verformung in seine ursprüngliche Form zurückzukehren."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "BCG421" ;
+    skos:prefLabel "elastisch"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BF6339> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Das Objektmaterial zeigt eine geringe Festigkeit, ist leicht verformbar und bietet wenig Widerstand gegen mechanische Belastung wie Druck oder Kratzer."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "BF6339" ;
+    skos:prefLabel "weich"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C77G9C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C> ;
+    skos:definition "An dem Objekt sind Spuren der Veränderung zu beobachten, die auf verschiedenste Einflüsse im Laufe der Lebensgeschichte (der Alterung) des Objektes zurück zu führen sind. Eine alterungsbedingte Veränderung ist nicht zwangsläufig als Beschädigung, sondern unter Umständen als aussagekräftiger Teil der Objektbiographie zu werten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "C77G9C" ;
+    skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "gealtert"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CC2F9C> a skos:Concept ;
+    skos:altLabel "antike Beschädigung"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C> ;
+    skos:definition "Beeinträchtigung eines Objektes, die bereits vor der Bodenlagerung, d.h. in der historischen Geschichte des Objektes, entstanden ist. Eine solche Beeinträchtigung kann infolge der Konzeption, des Herstellungsverfahrens oder der historischen Verwendung auftreten. Sie liefert wichtige Informationen über den kulturellen und historischen Kontext sowie über die technologischen Fähigkeiten der Menschen, die das Objekt hergestellt oder verwendet haben, tragen somit zur wissenschaftlichen Aussagekraft des Objektes bei und bedürfen in der Regel keiner konservatorischen oder restauratorischen Behandlung."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "CC2F9C" ;
+    skos:prefLabel "historische Beschädigung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D79DA6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FB6AGB> ;
+    skos:definition "Zustand des Objekt, bei dem es fähig ist seine Form und Struktur zu behalten und gegenüber äußeren Einwirkung, wie mechanischen Kärften oder chemischen Prozessen stand zu halten. Ein stabiles Objekt ist weniger anfällig für Beschädigungen, bleibt über einen längeren Zeitraum hinweg in gutem Erhaltungszustand und kann demnach ohne weitere Stabilisierungsmaßnahmen gehändelt werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "D79DA6" ;
+    skos:prefLabel "stabil"@de,
+        "stable"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DB581C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Das Objektmaterial zeigt eine gute Festigkeit und Widerstandsfähigkeit gegen ziehende Kräfte"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "DB581C" ;
+    skos:prefLabel "zugfest"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F573A5> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CAB799> ;
+    skos:definition "Zustand, bei dem alle ursprünglichen Teile des Objektes vorhanden sind."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "F573A5" ;
+    skos:prefLabel "vollständig"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FBG2B1> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Das Objektmaterial zeigt eine überaus hohe Festigkeit und ist somit sehr Wiederstandsfähig gegen Verformung, Kratzer oder Eindringen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "FBG2B1" ;
+    skos:prefLabel "hart"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FDB9F5> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397> ;
+    skos:definition "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen einen leichten bis mittelstarken Wassergehalt auf."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "FDB9F5" ;
+    skos:prefLabel "Feucht (Objektzustand)"@de,
+        "moist"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G147AG> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Das Objektmaterial zeigt eine gute Festigkeit und Widerstandsfähigkeit gegen Stöße und plötzliche Belastungen"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "G147AG" ;
+    skos:prefLabel "schlagfest"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G2A47C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Das Objektmaterial zeigt eine gute Festigkeit und Widerstandsfähigkeit gegen Druckbelastung"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "G2A47C" ;
+    skos:prefLabel "druckfest"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G2F586> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Das Objektmaterial zeigt eine gute Festigkeit und Widerstandsfähigkeit gegen Biegung und lässt sich nicht leicht durchbiegen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "G2F586" ;
+    skos:prefLabel "biegefest"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G41GC6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300195439> ;
+    skos:definition "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "G41GC6" ;
+    skos:prefLabel "Trocken (Objektzustand)"@de,
+        "dry"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G43DBC> a skos:Concept ;
+    skos:altLabel "Beschädigung"@de,
+        "Schaden"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C> ;
+    skos:definition "Das Objekt weist eine ungewollte, negative Veränderung im Vergleich zu seinem ursprünglichen Aussehen auf, die die wissenschaftliche Aussagekraft des Objektes mindert."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "G43DBC" ;
+    skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "beschädigt"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G9D1C8> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> ;
+    skos:definition "Die Abmessungen des Objektes"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "G9D1C8" ;
+    skos:prefLabel "Maße"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GAD71G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CAB799> ;
+    skos:definition "Zustand, bei dem ursprüngliche Teile des Objektes fehlen."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "GAD71G" ;
+    skos:prefLabel "unvollständig"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DG7A1D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> ;
+    skos:definition "Anfälligkeit des Objektwerkstoffs für Kohäsionsverlust. Das Material des Objektes ist leicht zerbrechlich oder empfindlich gegenüber physischer Einflüsse wie Stöße, Druck oder andere mechanischer Belastung. Ein Objekt dessen Werkstoff fragil ist, ist meistens in sich auch instabil, da es durch die Materialschwächung bei weiterer physischer Einwirkung nicht in der Lage ist seine ursprüngliche Form zu behalten."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "DG7A1D" ;
+    skos:prefLabel "fragil"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/FBA99A> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FBA99A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/FB6AGB> ;
+    skos:definition "mangelnde Fähigkeit des Objektes in einem stabilem Zustand zu bleiben. Das Objekt droht durch physische Faktoren, wie äußere Kräfte oder unzureichende Unterstützung seine Form oder Struktur zu verändern/verlieren. Es bedarf demnach entsprechende Stabilisierungsmaßnahmen, um in seiner ursprünglichen Form zu bleiben. Die Instabilität seines Objektes liegt häufig in der Fragilität bzw. mangelnden Festigkeit seines Werkstoffes begründet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:notation "FBA99A" ;
+    skos:prefLabel "instabil"@de,
+        "instable"@en ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/DG7A1D> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CAB799> a skos:Concept ;
+    skos:altLabel "Integrität"@de,
+        "completeness"@en ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300419305> ;
+    skos:definition "Ausmaß an materieller Ganzheitlichkeit eines Objektes."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/F573A5>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GAD71G> ;
+    skos:notation "CAB799" ;
+    skos:prefLabel "Vollständigkeit"@de,
+        "integrity"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FB6AGB> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> ;
+    skos:definition "Fahigkeit eines Objektes auch bei physischer Einwirkung seine Form oder Struktur bei zu behalten"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/D79DA6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FBA99A> ;
+    skos:notation "FB6AGB" ;
+    skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Stabilität"@de,
+        "stability"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397> a skos:Concept ;
+    skos:altLabel "Wassergehalt"@de,
+        "humidity content"@en ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300379432> ;
+    skos:definition "Enthaltener Feuchtigkeitsanteil im Porenraum eines Materials/Objektes"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A255FD>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FDB9F5>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G41GC6> ;
+    skos:notation "AG4397" ;
+    skos:prefLabel "Feuchtigkeitsgehalt"@de,
+        "moisture content"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> ;
+    skos:definition "Änderung des Zustandes eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A5D63G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C77G9C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CC2F9C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G43DBC> ;
+    skos:notation "C6GB1C" ;
+    skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de ;
+    skos:prefLabel "Veränderung"@de,
+        "alteration"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> a skos:Concept ;
+    skos:altLabel "Beschaffenheit"@de,
+        "Merkmale"@de ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57> ;
+    skos:definition "Die konkreten Merkmale und Eigenschaften eines Objektes"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/AG4397>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C6GB1C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CAB799>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FB6AGB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G9D1C8> ;
+    skos:notation "GDF8C2" ;
+    skos:prefLabel "Physischer Objektzustand"@de,
+        "physical condition"@en ;
+    skos:relatedMatch <http://vocab.getty.edu/aat/300389724> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> ;
+    skos:definition "Fähigkeit des Objektwerkstoffs mechanischen Widerstand gegen eine plastische Verformung oder Trennung zu leisten"@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/GDF8C2> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/AF5C86>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BCG421>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BF6339>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DB581C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DG7A1D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FBG2B1>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G147AG>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G2A47C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G2F586> ;
+    skos:notation "AGBB3C" ;
+    skos:prefLabel "Festigkeit"@de .
+
+<https://www.w3id.org/archlink/branches/GDF8C2> a skos:ConceptScheme ;
+    dc:creator "Kristina Fischer" ;
+    dc:description " Zweig für Physischer Objektzustand im Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter (https://www.w3id.org/archlink/terms/conservationthesaurus)"@de ;
+    dc:title "Physischer Objektzustand"@de ;
+    dcterms:contributor "Christian Eckmann",
+        "Dr. Ingrid Stelzner",
+        "Dr. Roland Schwab",
+        "Heidrun Hochgesand",
+        "Katja Broschat",
+        "Kristina Fella",
+        "Lasse Mempel-Länger",
+        "Lena Klar",
+        "Leslie Pluntke",
+        "Markus Wittköpper",
+        "Marlene Schmucker",
+        "Matthias Heinzel",
+        "Rüdiger Lehnert",
+        "Stephan Patscher",
+        "Ulrike Lehnert",
+        "Waldemar Muskalla" ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:publisher "Leibniz-Zentrum für Archäologie (LEIZA)" ;
+    dcterms:rights "CC BY 4.0" ;
+    dcterms:subject "Archäologie"@de,
+        "Konservierung"@de,
+        "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/GDF8C2/" .
+

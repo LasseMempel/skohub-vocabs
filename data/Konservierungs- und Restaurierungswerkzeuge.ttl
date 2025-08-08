@@ -1,0 +1,374 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A22C84> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "A22C84" ;
+    skos:prefLabel "Korundschleifkörper"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "A341F9" ;
+    skos:prefLabel "Schwamm"@de,
+        "sponge"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A4G4G1> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "A4G4G1" ;
+    skos:prefLabel "Heißluftföhn"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A7B5AA> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:definition "Produktname eines ph-neutralen, knetbaren Naturgummies der Firma Picreator Enterprises Ltd. zur Oberflächenreinigung. Laut Herstellerangaben abriebfest, rückstandsfrei und vollständig wiederverwendbar."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "A7B5AA" ;
+    skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 58."@de,
+        "https://www.kremer-pigmente.com/elements/resources/products/files/78061.pdf"@de ;
+    skos:prefLabel "Groom/Stick®"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A97F31> a skos:Concept ;
+    skos:altLabel "Gummipolierer"@de,
+        "rubber polisher"@en ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "A97F31" ;
+    skos:prefLabel "Gummischleifkörper"@de,
+        "rubber abrasives"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/AA4F93> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "AA4F93" ;
+    skos:prefLabel "Textil"@de,
+        "textile"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/ABF57G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "ABF57G" ;
+    skos:prefLabel "Diamantschleifkörper"@de,
+        "diamand grinding wheel"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "ACB46G" ;
+    skos:prefLabel "Stachelschweinborste"@de,
+        "porcupine bristle"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B28GC7> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "B28GC7" ;
+    skos:prefLabel "Zellstoff"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BA264C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A48485> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "BA264C" ;
+    skos:prefLabel "Omega-Häkchen"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/BBB987> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:definition "technisches Gerät zur Entfernung von gesundheitsgefährdenden Stäuben und/oder Dämpfen, i.d.R. bestehend aus Motor, Pumpe, Filter-Einheit und Saugrüssel."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "BBB987" ;
+    skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019),S. 58."@de ;
+    skos:prefLabel "Absauganlage"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C2112G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "C2112G" ;
+    skos:prefLabel "Gefriertrocknungsanlage"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "C4569A" ;
+    skos:prefLabel "Bürste"@de,
+        "brush"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C5A318> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:definition "technisches Gerät, das zur Reinigung von Objekten mittels hochfrequenter Ultraschallwellen eingesetzt wird. Diese Wellen erzeugen in einer Flüssigkeit, meist Wasser oder einer speziellen Reinigungslösung, Kavitationsblasen, die beim Zusammenfallen Verunreinigungen von der Oberfläche der zu reinigenden Gegenstände lösen. Diese Methode ist besonders schonend und effizient und wird in der Konservierung und Restaurierung für empfindliche oder komplex geformte Objekte verwendet."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "C5A318" ;
+    skos:note "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 385/386."@de ;
+    skos:prefLabel "Ultraschallgerät"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C871CB> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "C871CB" ;
+    skos:prefLabel "Ultraschallfeinmeißel"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C99F9G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "C99F9G" ;
+    skos:prefLabel "Plasmaanlage"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C9G1B6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "C9G1B6" ;
+    skos:prefLabel "Airbrush-System"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CC2BBB> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "CC2BBB" ;
+    skos:prefLabel "Pinsel"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CDF423> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "CDF423" ;
+    skos:prefLabel "Metallfräser"@de,
+        "metal cutter"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/CG825A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "CG825A" ;
+    skos:prefLabel "Wattestäbchen"@de,
+        "cotton swab"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D11BD4> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "D11BD4" ;
+    skos:prefLabel "Gaze"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D1A63D> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "D1A63D" ;
+    skos:prefLabel "Putzholz"@de,
+        "cleaning wood stick"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D1C67A> a skos:Concept ;
+    skos:altLabel "Dreikantschaber"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "D1C67A" ;
+    skos:prefLabel "Metallschaber"@de,
+        "metal scraper"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D7GGGG> a skos:Concept ;
+    skos:altLabel "Wärmekammer"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "D7GGGG" ;
+    skos:prefLabel "Wärmeschrank"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D84847> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "D84847" ;
+    skos:prefLabel "Wattepads"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DAC482> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "DAC482" ;
+    skos:prefLabel "Lötvorrichtung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F18C56> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "F18C56" ;
+    skos:prefLabel "Holzschaber"@de,
+        "wood scraper"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F19194> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "F19194" ;
+    skos:prefLabel "Nadel"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F71C33> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "F71C33" ;
+    skos:prefLabel "Skalpell"@de,
+        "scalpel"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F8323G> a skos:Concept ;
+    skos:altLabel "Mikrowelle"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "F8323G" ;
+    skos:prefLabel "industrielle Mikrowellenkammer"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F85978> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A48485> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "F85978" ;
+    skos:prefLabel "Bindedraht"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F91CBB> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "F91CBB" ;
+    skos:prefLabel "Radiergummi"@de,
+        "eraser"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FA9542> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "FA9542" ;
+    skos:prefLabel "Schmelzofen"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/FG9C55> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "FG9C55" ;
+    skos:prefLabel "Exsikkator"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G33846> a skos:Concept ;
+    skos:altLabel "Plexiglasschaber"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "G33846" ;
+    skos:prefLabel "Acrylglasschaber"@de,
+        "acrylic scraper"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/G487C2> a skos:Concept ;
+    skos:altLabel "Mikrostrahlgerät"@de,
+        "Sandstrahlgerät"@de ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "G487C2" ;
+    skos:prefLabel "Feinstrahlgerät"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GF3586> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "GF3586" ;
+    skos:prefLabel "Druckluft"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C93638> a skos:Concept ;
+    skos:altLabel "Konservierungs- und Restaurierungsequipment"@de ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3> ;
+    skos:closeMatch <http://www.wikidata.org/entity/Q39546> ;
+    skos:definition "Oberbegriff für Gegenstände, die genutzt werden um Konservierungs- und/oder Restaurierungsmaßnahmen durchzuführen. Die verschiedenen Werkzeuge ermöglichen ein präzises Arbeiten und erhöhen die Effizienz bei den unterschiedlichen Methoden und Aufgaben."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:notation "C93638" ;
+    skos:prefLabel "Konservierungs- und Restaurierungswerkzeuge"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:definition "präzises Elektrowerkzeug mit austauschbaren Aufsätzen, das in der Konservierung und Restaurierung verwendet wird, um feine Arbeiten wie Schleifen, Bohren oder Polieren durchzuführen. Es ermöglicht exakte Materialbearbeitung unter Kontrolle und ohne großen Kraftaufwand."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:notation "D8G747" ;
+    skos:prefLabel "Mikromotor"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/A48485> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BA264C>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F85978> ;
+    skos:notation "A48485" ;
+    skos:prefLabel "Draht"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:definition "Werkzeug aus abrasivem Material, in unterschiedlicher Form wie Scheiben, Stäben oder Blöcken, das in der Konservierung und Restaurierung zur schonenden Bearbeitung von Oberflächen eingesetzt wird. Es dient zum Glätten, Formen oder Entfernen von Schichten und wird auf die spezifischen Anforderungen des zu bearbeitenden Materials abgestimmt."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A22C84>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A97F31>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/ABF57G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CDF423> ;
+    skos:notation "C4C6B6" ;
+    skos:prefLabel "Schleifkörper"@de ;
+    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747> .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> a skos:Concept ;
+    rdfs:seeAlso "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.65." ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C93638> ;
+    skos:definition "Oberbegriff für komplexe, technische Hilfsmittel mit elektrischen oder elektronischen Komponenten, die durch Strom betrieben werden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A4G4G1>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/BBB987>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C2112G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C5A318>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C871CB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C99F9G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C9G1B6>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D7GGGG>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/DAC482>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F8323G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FA9542>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/FG9C55>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G487C2>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GF3586> ;
+    skos:notation "GF9C49" ;
+    skos:prefLabel "technische Geräte"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB> a skos:Concept ;
+    rdfs:seeAlso "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.64." ;
+    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C93638> ;
+    skos:definition "Oberbegriff für nicht-elektronische Geräte, die durch rein menschliche Kraft funktionieren."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A48485>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/A7B5AA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/AA4F93>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B28GC7>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CC2BBB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CG825A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D11BD4>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D1A63D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D1C67A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D84847>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F18C56>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F19194>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F71C33>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F91CBB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/G33846> ;
+    skos:notation "D941BB" ;
+    skos:prefLabel "manuelle Werkzeuge"@de .
+
+<https://www.w3id.org/archlink/branches/C93638> a skos:ConceptScheme ;
+    dc:creator "Kristina Fischer" ;
+    dc:description " Zweig für Konservierungs- und Restaurierungswerkzeuge im Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter (https://www.w3id.org/archlink/terms/conservationthesaurus)"@de ;
+    dc:title "Konservierungs- und Restaurierungswerkzeuge"@de ;
+    dcterms:contributor "Christian Eckmann",
+        "Dr. Ingrid Stelzner",
+        "Dr. Roland Schwab",
+        "Heidrun Hochgesand",
+        "Katja Broschat",
+        "Kristina Fella",
+        "Lasse Mempel-Länger",
+        "Lena Klar",
+        "Leslie Pluntke",
+        "Markus Wittköpper",
+        "Marlene Schmucker",
+        "Matthias Heinzel",
+        "Rüdiger Lehnert",
+        "Stephan Patscher",
+        "Ulrike Lehnert",
+        "Waldemar Muskalla" ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcterms:publisher "Leibniz-Zentrum für Archäologie (LEIZA)" ;
+    dcterms:rights "CC BY 4.0" ;
+    dcterms:subject "Archäologie"@de,
+        "Konservierung"@de,
+        "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/C93638/" .
+
