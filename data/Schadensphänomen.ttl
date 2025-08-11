@@ -719,22 +719,6 @@ Technologie. München 2000, S. 63."""@de ;
     skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
     skos:prefLabel "chemische Veränderung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> a skos:Concept ;
-    skos:altLabel "Beschädigungsart"@de,
-        "Schadensbild"@de ;
-    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57> ;
-    skos:definition "Art der beobachteten negativen Veränderungen des Objekts im Vergleich zu seinem als ursprünglich angenommenen Zustandes."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/branches/DAC996> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B224CD>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B86G16>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C188DA>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C9D991>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CB9GD3>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6> ;
-    skos:notation "DAC996" ;
-    skos:prefLabel "Schadensphänomen"@de,
-        "Damage type"@en .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A8D9GF> a skos:Concept ;
     skos:altLabel "Verformung"@de ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/B224CD> ;
@@ -764,6 +748,23 @@ Technologie. München 2000, S. 63."""@de ;
     skos:note "DIN CEN/TS 17135:2021-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe zur Beschreibung von Veränderungen an Objekten; Dreisprachige Fassung CEN/TS 17135:2020, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Substanzverlust"@de,
         "Loss of substance"@en .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> a skos:Concept ;
+    skos:altLabel "Beschädigungsart"@de,
+        "Schadensbild"@de ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57> ;
+    skos:definition "Art der beobachteten negativen Veränderungen des Objekts im Vergleich zu seinem als ursprünglich angenommenen Zustandes."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/DAC996> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B224CD>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/B86G16>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C188DA>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/C9D991>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CB9GD3>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D3AGG6> ;
+    skos:notation "DAC996" ;
+    skos:prefLabel "Schadensphänomen"@de,
+        "Damage type"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/branches/DAC996> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/B86G16> a skos:Concept ;
     skos:altLabel "Ablagerung"@de,
@@ -857,5 +858,6 @@ Technologie. München 2000, S. 63."""@de ;
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
-    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/DAC996/" .
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/DAC996/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> .
 

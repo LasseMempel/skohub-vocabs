@@ -209,7 +209,8 @@
     skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Schadensursache"@de,
         "Cause of damage"@en ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> .
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> ;
+    skos:topConceptOf <https://www.w3id.org/archlink/branches/F964CG> .
 
 <https://www.w3id.org/archlink/branches/F964CG> a skos:ConceptScheme ;
     dc:creator "Kristina Fischer" ;
@@ -237,5 +238,6 @@
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
-    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/F964CG/" .
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/F964CG/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/F964CG> .
 

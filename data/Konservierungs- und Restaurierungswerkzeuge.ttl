@@ -255,17 +255,6 @@
     skos:notation "GF3586" ;
     skos:prefLabel "Druckluft"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C93638> a skos:Concept ;
-    skos:altLabel "Konservierungs- und Restaurierungsequipment"@de ;
-    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3> ;
-    skos:closeMatch <http://www.wikidata.org/entity/Q39546> ;
-    skos:definition "Oberbegriff für Gegenstände, die genutzt werden um Konservierungs- und/oder Restaurierungsmaßnahmen durchzuführen. Die verschiedenen Werkzeuge ermöglichen ein präzises Arbeiten und erhöhen die Effizienz bei den unterschiedlichen Methoden und Aufgaben."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
-    skos:notation "C93638" ;
-    skos:prefLabel "Konservierungs- und Restaurierungswerkzeuge"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
     skos:definition "präzises Elektrowerkzeug mit austauschbaren Aufsätzen, das in der Konservierung und Restaurierung verwendet wird, um feine Arbeiten wie Schleifen, Bohren oder Polieren durchzuführen. Es ermöglicht exakte Materialbearbeitung unter Kontrolle und ohne großen Kraftaufwand."@de ;
@@ -281,6 +270,18 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/F85978> ;
     skos:notation "A48485" ;
     skos:prefLabel "Draht"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/C93638> a skos:Concept ;
+    skos:altLabel "Konservierungs- und Restaurierungsequipment"@de ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3> ;
+    skos:closeMatch <http://www.wikidata.org/entity/Q39546> ;
+    skos:definition "Oberbegriff für Gegenstände, die genutzt werden um Konservierungs- und/oder Restaurierungsmaßnahmen durchzuführen. Die verschiedenen Werkzeuge ermöglichen ein präzises Arbeiten und erhöhen die Effizienz bei den unterschiedlichen Methoden und Aufgaben."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/C93638> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/D941BB>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
+    skos:notation "C93638" ;
+    skos:prefLabel "Konservierungs- und Restaurierungswerkzeuge"@de ;
+    skos:topConceptOf <https://www.w3id.org/archlink/branches/C93638> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GF9C49> ;
@@ -370,5 +371,6 @@
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
-    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/C93638/" .
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/C93638/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/C93638> .
 

@@ -386,14 +386,6 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 104."@de ;
     skos:prefLabel "Badtränkung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> a skos:Concept ;
-    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3> ;
-    skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26> ;
-    skos:notation "F37GBB" ;
-    skos:prefLabel "[Behandlungsmethode]"@de .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300223809> ;
@@ -433,6 +425,15 @@
         <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
     skos:notation "D32A26" ;
     skos:prefLabel "Konservierung"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> a skos:Concept ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3> ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26> ;
+    skos:notation "F37GBB" ;
+    skos:prefLabel "[Behandlungsmethode]"@de ;
+    skos:topConceptOf <https://www.w3id.org/archlink/branches/F37GBB> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3> ;
@@ -717,5 +718,6 @@
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
-    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/F37GBB/" .
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/F37GBB/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> .
 

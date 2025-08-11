@@ -2013,7 +2013,8 @@ Technologie. München 2000, S. 86."""@de ;
         <https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575> ;
     skos:notation "C364G1" ;
     skos:prefLabel "Konservierungs- und Restaurierungsmaterialien"@de,
-        "restoration material"@en .
+        "restoration material"@en ;
+    skos:topConceptOf <https://www.w3id.org/archlink/branches/C364G1> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> a skos:Concept ;
     skos:altLabel "Acrylpolymere"@de,
@@ -2071,5 +2072,6 @@ Technologie. München 2000, S. 86."""@de ;
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
-    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/C364G1/" .
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/C364G1/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1> .
 

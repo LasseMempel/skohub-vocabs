@@ -233,7 +233,8 @@
     skos:notation "GDF8C2" ;
     skos:prefLabel "Physischer Objektzustand"@de,
         "physical condition"@en ;
-    skos:relatedMatch <http://vocab.getty.edu/aat/300389724> .
+    skos:relatedMatch <http://vocab.getty.edu/aat/300389724> ;
+    skos:topConceptOf <https://www.w3id.org/archlink/branches/GDF8C2> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/AGBB3C> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> ;
@@ -277,5 +278,6 @@
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
-    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/GDF8C2/" .
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/GDF8C2/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/GDF8C2> .
 

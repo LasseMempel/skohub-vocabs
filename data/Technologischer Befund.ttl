@@ -1439,17 +1439,6 @@ Technologie. München 2000, S. 95."""@de ;
         "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 268."@de ;
     skos:prefLabel "getrieben"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D6BCC2> a skos:Concept ;
-    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57> ;
-    skos:definition "Identifizierung der Techniken, Verfahren und Konstruktionsprinzipien, die zur Herstellung des Objektes eingesetzt wurden."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/branches/D6BCC2> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C3648A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F2244D>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F8F594> ;
-    skos:notation "D6BCC2" ;
-    skos:prefLabel "Technologischer Befund"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G> .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/D92DAG> a skos:Concept ;
     skos:altLabel "Handaufbau"@de ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AGG387> ;
@@ -1525,6 +1514,18 @@ Technologie. München 2000, S. 95."""@de ;
     skos:note "DIN ISO 1382"@de,
         "Erhard Brepohl, Theorie und Praxis des Goldschmieds (München 2000), S. 155."@de ;
     skos:prefLabel "Guss in verlorener Form"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/D6BCC2> a skos:Concept ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/BC5B57> ;
+    skos:definition "Identifizierung der Techniken, Verfahren und Konstruktionsprinzipien, die zur Herstellung des Objektes eingesetzt wurden."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/D6BCC2> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C3648A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F2244D>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/F8F594> ;
+    skos:notation "D6BCC2" ;
+    skos:prefLabel "Technologischer Befund"@de ;
+    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/G76B7G> ;
+    skos:topConceptOf <https://www.w3id.org/archlink/branches/D6BCC2> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/GG6A8B> a skos:Concept ;
     skos:altLabel "Folienvergoldung"@de ;
@@ -1848,5 +1849,6 @@ Technologie. München 2000, S. 92 - 97."""@de ;
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
-    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/D6BCC2/" .
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/D6BCC2/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/D6BCC2> .
 

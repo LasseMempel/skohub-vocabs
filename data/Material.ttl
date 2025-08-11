@@ -1332,20 +1332,6 @@
     skos:prefLabel "Elfenbein"@de,
         "ivory"@en .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF> a skos:Concept ;
-    skos:altLabel "Objektmaterial"@de ;
-    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/GD172G> ;
-    skos:closeMatch <http://terminology.lido-schema.org/lido00132>,
-        <http://vocab.getty.edu/aat/300010358> ;
-    skos:definition "Material aus dem das Objekt besteht."@de ;
-    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
-    skos:notation "B51DAF" ;
-    skos:prefLabel "Material"@de ;
-    skos:relatedMatch <https://www.wikidata.org/wiki/Q16829513> .
-
 <https://www.w3id.org/archlink/terms/conservationthesaurus/B59296> a skos:Concept ;
     skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F1BA31> ;
     skos:definition "biologisches Material, aus Dentin, Zahnschmelz und manchmal Zement. Es ist hart, langlebig und verhältnismäßig resistent gegen Verwitterung, wodurch es häufig in archäologischen Funden wie Schmuck, Werkzeugen oder Resten von Tieren und Menschen erhalten bleibt. Zahn kann durch Form, Farbe und Wachstumsmuster individuelle oder artspezifische Merkmale aufweisen und ist ein wichtiger Träger biologischer sowie kultureller Informationen."@de ;
@@ -1549,6 +1535,21 @@
     skos:note "Antoinette Rast-Eicher, Fibres. Microscopy of archaeological textiles and furs (Budapest 2016) S. 127/128."@de,
         "DIN EN ISO 6938"@de ;
     skos:prefLabel "Fasern tierischen Ursprungs"@de .
+
+<https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF> a skos:Concept ;
+    skos:altLabel "Objektmaterial"@de ;
+    skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/GD172G> ;
+    skos:closeMatch <http://terminology.lido-schema.org/lido00132>,
+        <http://vocab.getty.edu/aat/300010358> ;
+    skos:definition "Material aus dem das Objekt besteht."@de ;
+    skos:inScheme <https://www.w3id.org/archlink/branches/B51DAF> ;
+    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B5DD1A>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/CD3341>,
+        <https://www.w3id.org/archlink/terms/conservationthesaurus/GB6DF3> ;
+    skos:notation "B51DAF" ;
+    skos:prefLabel "Material"@de ;
+    skos:relatedMatch <https://www.wikidata.org/wiki/Q16829513> ;
+    skos:topConceptOf <https://www.w3id.org/archlink/branches/B51DAF> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/BBF566> a skos:Concept ;
     skos:altLabel "unedle Metalle"@de,
@@ -2019,5 +2020,6 @@
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
-    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/B51DAF/" .
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/B51DAF/" ;
+    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF> .
 
