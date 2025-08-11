@@ -4,11 +4,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A194CF> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/A194CF> a skos:Concept ;
     skos:altLabel "Auswaschung"@de,
         "Spülung"@de,
         "nasse Reinigung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CDD613> ;
     skos:definition "Entfernung ungewollter Substanzen durch Durchfeuchtung/ Durchnässung des Objektes, z.B. durch Abspülen unter laufendem Wasser oder Eintauchen in eine Reinigungsflüssigkeit."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "A194CF" ;
@@ -17,52 +17,52 @@
     skos:prefLabel "Nassreinigung"@de,
         "washing"@en ;
     skos:relatedMatch <http://vocab.getty.edu/aat/300053042>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C5A318>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575> .
+        <https://www.w3id.org/archlink/branches/C364G1/A2B746>,
+        <https://www.w3id.org/archlink/branches/C364G1/C421BF>,
+        <https://www.w3id.org/archlink/branches/C364G1/FGF575>,
+        <https://www.w3id.org/archlink/branches/C93638/C5A318> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A1B449> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532> ;
+<https://www.w3id.org/archlink/branches/F37GBB/A1B449> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C6A532> ;
     skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff, indem fließendes Wasser kontinuierlich über das Objekt geleitet wird."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "A1B449" ;
     skos:note "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 97."@de ;
     skos:prefLabel "Ausspülung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A24C1D> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/A24C1D> a skos:Concept ;
     skos:altLabel "provisorische Fixierung"@de,
         "temporäre Montage"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A13CD1> ;
     skos:definition "Methode zur vorübergehenden, nicht dauerhaften Zusammenfügung fragmentierter Objekte, um deren ursprüngliche Form, Konstruktion oder gestalterische Aspekte zu untersuchen oder zu dokumentieren."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "A24C1D" ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 116."@de ;
     skos:prefLabel "temporäre Fixierung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A44FD4> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/A44FD4> a skos:Concept ;
     skos:altLabel "Lyophilisation"@de,
         "Lyophilisierung"@de,
         "Sublimationstrocknung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/AF1F5C> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/AF1F5C> ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "A44FD4" ;
     skos:prefLabel "Gefriertrocknung"@de,
         "freeze drying"@en .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A6F2C7> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619> ;
+<https://www.w3id.org/archlink/branches/F37GBB/A6F2C7> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CGC619> ;
     skos:definition "Ergänzungsmethode für Objekte (i.d.R. Keramikgefäße), bei denen nur noch wenige Teile/Scherben erhalten sind. Voraussetzung ist ein durchgehendes Profil oder eine eindeutige Zuordnung des Objektes zu einer standartisierten Gefäßform. Durch die Ermittlung der ursprünglichen Innenform und dem Durchmesser des Gefäßes wird ein Tonkern angefertig, der diesen Maßen entspricht. Darauf werden die vorhandenen Objektteile/Scherben positioniert und die Fehlstellen durch Auftrag des Ergänzungsmaterials (meist Gips) gefüllt. Durch den Tonkern erhält das aufgetragene Ergänzungsmaterial bereits die ermittelte ursprüngliche Innenform des Objektes/Gefäßes, sodass lediglich die Außenform an die Form der erhaltenen Objektteile angeglichen werden muss."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "A6F2C7" ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 130 - 133."@de,
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 136/137."@de ;
     skos:prefLabel "Tonkernergänzung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/FBFFF5> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/FBFFF5> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A9D149> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/A9D149> a skos:Concept ;
     skos:altLabel "Niederdrucktränkung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C17A3G> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C17A3G> ;
     skos:definition "Spezielle Art der Badtränkung, bei der die Zugabe des Festigungsmittel (ein gelöstes Polymer) unter Vakuum, z.B. in einem Exsikkator, erfolgt. Durch das erzeugte Vakuum entsteht ein Sog, der die Polymerlösung tiefer in den Porenraum des Objektmaterials zieht. Auf diese Weise ist eine besonders gute Penetration des Objektes mit dem Festigungsmittel möglich. Allerdings ist die Methode nicht für sehr fragile Objekte geeignet, da der erzeugte Druck durch das Vakuum die instabile Struktur des Materials weiter beschädigen könnte."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "A9D149" ;
@@ -70,18 +70,18 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 104."@de ;
     skos:prefLabel "Vacuumtränkung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/AC16G1> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/AC16G1> a skos:Concept ;
     skos:altLabel "Verpackung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/F5G576> ;
     skos:definition "Maßnahme zur schützenden/sichernden Umhüllung des Objektes während eines Transportes und/oder der Depotlagerung"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "AC16G1" ;
     skos:note "DIN EN 16141:2013-01, Erhaltung des kulturellen Erbes - Richtlinien für den Umgang mit Umwelt- und Umgebungsbedingungen - Schaudepots: Definitionen und Merkmale von Sammlungszentren bestimmt für die Bewahrung und Pflege des kulturellen Erbes; Deutsche Fassung EN 16141:2012, Deutsches Institut für Normung."@de ;
     skos:prefLabel "Verpacken"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/D9G356> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/D9G356> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/AD143A> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1> ;
+<https://www.w3id.org/archlink/branches/F37GBB/AD143A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A13CD1> ;
     skos:definition "Klebemethode, bei der die einzelnen Fragmente/Teile nacheinander angefügt/geklebt werden und die ursprüngliche Form des Objektes nach und nach wieder aufgebaut wird. Bei Gefäßen bietet es sich häufig an vom Boden zum Rand aufsteigend zu arbeiten, wobei dies von Objekt zu Objekt jeweils individuell entschieden werden sollte."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "AD143A" ;
@@ -90,71 +90,71 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 109/110, 114."@de ;
     skos:prefLabel "Aufbaumethode"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/B2642A> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF> ;
+<https://www.w3id.org/archlink/branches/F37GBB/B2642A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C6C3CF> ;
     skos:definition "Methode, bei der zu einem früheren Zeitpunkt auf die Objektoberfläche aufgebrachte Beschichtungen entfernt werden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "B2642A" ;
     skos:prefLabel "Oberflächenbeschichtungen entfernt"@de,
         "removal of surface coatings"@en ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G3GB59>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8A626> .
+    skos:related <https://www.w3id.org/archlink/branches/F37GBB/A6A248>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G3GB59>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G8A626> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/B26D29> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/B26D29> a skos:Concept ;
     skos:altLabel "temporäre Festigung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/DA9CGG> ;
     skos:definition "zeitlich begrenzte, nicht dauerhafte Unterstützung eines fragilen Materials, beispielsweise für einen Transport oder als Erstversorgungsmaßnahme."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "B26D29" ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 112/113."@de,
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 99."@de ;
     skos:prefLabel "temporäre Stabilisierung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CD13GA>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F89522>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/AG2965>,
+        <https://www.w3id.org/archlink/branches/C364G1/B572B5>,
+        <https://www.w3id.org/archlink/branches/C364G1/CD13GA>,
+        <https://www.w3id.org/archlink/branches/C364G1/DF5773>,
+        <https://www.w3id.org/archlink/branches/C364G1/DF633G>,
+        <https://www.w3id.org/archlink/branches/C364G1/F89522>,
+        <https://www.w3id.org/archlink/branches/C364G1/GFD582> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/B614CA> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532> ;
+<https://www.w3id.org/archlink/branches/F37GBB/B614CA> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C6A532> ;
     skos:definition "Methode zur Entfernung von Salzen aus Buntmetalllegierungen. Dabei wird das Objekt dünn mit einem Feuchthaltemittel (z.B. Agar-Agar oder Gelatine) eingestrichen und eng mit Aluminium- oder Zinnfolie umwickelt. Das auf  diese Weite präparierte Objekt wird anschließend in eine Feuchtkammer (luftdicht verschlossenes Gefäß mit hoher Luftfeuchtigkeit) gelegt und mehrere Tage darin belassen. Das unedle und damit reaktionsfreudige Aluminium (bzw. Zinn) reagiert dabei mit den enthaltenen Chloridionen zu Aluminium- bzw Zinnchlorid."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "B614CA" ;
     skos:prefLabel "Feuchtkammermethode"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/BD119A> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/BD119A> a skos:Concept ;
     skos:altLabel "Färben"@de,
         "Kolorieren"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CGC619> ;
     skos:definition "Methode zur farbigen Nachfassung ergänzter Bereiche um sie, im Vergleich zum originalen Material, weniger stark in den Vordergrund treten zu lassen. In der Regel werden die Ergänzungen im gleichen Farbton, aber eine Nuance heller als das original Material, eingefärbt."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "BD119A" ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 150 - 153."@de ;
     skos:prefLabel "Retusche"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/AFD671> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/AFD671> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/BFA1CC> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A> ;
+<https://www.w3id.org/archlink/branches/F37GBB/BFA1CC> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A9FF5A> ;
     skos:definition "Festigungsmethode bei der ein sich in Lösung befindliches Polymer mit einer Spritze gezielt in das Objekt bzw. in innere Hohlräume des Objektes eingebracht werden kann."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "BFA1CC" ;
     skos:note "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 103."@de ;
     skos:prefLabel "Injektion"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C349C5> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532> ;
+<https://www.w3id.org/archlink/branches/F37GBB/C349C5> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C6A532> ;
     skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch die Auflage von feuchtigkeitsgetränktem Kompressenmaterial. Durch ein Feuchte- und/oder Konzentrationsgefälle zwischen Objekt und Kompresse werden die Salze durch Diffusion und den Kapillareffekt aus dem Objektmaterial in die Kompresse gezogen."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "C349C5" ;
     skos:note "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 92/97."@de ;
     skos:prefLabel "Kompressenentsalzung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C3733A> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/C3733A> a skos:Concept ;
     skos:altLabel "feuchte Reinigung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CDD613> ;
     skos:definition "Entfernung ungewollter Substanzen von der Objektoberfläche mit Hilfe leicht angefeuchteter Reinigungsmedien., die in wischenden, rollenden oder reibenden Bewegungen über die Objektfläche geführt werden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "C3733A" ;
@@ -162,14 +162,14 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 88/89."@de ;
     skos:prefLabel "Feuchtreinigung"@de,
         "wet cleaning"@en ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C421BF>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C9G1B6>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/A2B746>,
+        <https://www.w3id.org/archlink/branches/C364G1/C421BF>,
+        <https://www.w3id.org/archlink/branches/C364G1/FGF575>,
+        <https://www.w3id.org/archlink/branches/C93638/C9G1B6> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C7427F> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/C7427F> a skos:Concept ;
     skos:altLabel "Hinterklebung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A31C7C> ;
     skos:definition "Methode, bei der ein fragiles Objekt durch das Hinterlegen mit einem Gewebe (z.B. Glasfaser, Japanpapier, etc.) stabilisiert wird. Durch Tränkung des Gewebes mit einer Polymerlösung entsteht ein stabiles Laminat, das fest mit dem Objektmaterial verbunden ist und dieses bei mechanischer Einwirkung unterstützt."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "C7427F" ;
@@ -177,19 +177,19 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 103."@de ;
     skos:prefLabel "Laminierung (Konservierungsmethode)"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/CA59C2> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF> ;
+<https://www.w3id.org/archlink/branches/F37GBB/CA59C2> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C6C3CF> ;
     skos:definition "Methode, bei der zu einem früheren Zeitpunkt durchgeführte Klebungen gelöst und die verbliebenen Klebstoffreste entfernt werden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "CA59C2" ;
     skos:prefLabel "Klebungen entfernt"@de,
         "removal of adhesives"@en ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G3GB59>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8A626> .
+    skos:related <https://www.w3id.org/archlink/branches/F37GBB/A6A248>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G3GB59>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G8A626> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/CD536F> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A> ;
+<https://www.w3id.org/archlink/branches/F37GBB/CD536F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A9FF5A> ;
     skos:definition "Festigungsmethode, bei der ein sich in Lösung befindliches Polymer als Festigungsmittel auf die Oberfläche des Objektes aufgepinselt wird. Der Prozess wird nach Bedarf mehrfach wiederholt um den Sättigungsgrad der Tränkung und somit die stabilisierende Wirkung zu erhöhen. Bei dieser Methode ist eine sehr kontrollierte Einbringung des Festigungsmittels möglich, sodass auch nur gezielte Bereiche eines Objektes gefestigt werden können."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "CD536F" ;
@@ -197,10 +197,10 @@
         "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 264-266."@de,
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 103."@de ;
     skos:prefLabel "Pinseltränkung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CC2BBB> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C93638/CC2BBB> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D152G6> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CBDC4A> ;
+<https://www.w3id.org/archlink/branches/F37GBB/D152G6> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CBDC4A> ;
     skos:definition "Variante der Manschettenergänzung, bei der die Fehlstelle von beiden Seiten (Außen- und Innenseite bei Gefäßen) umschlossen wird. Hierzu werden zwei Manschetten angefertigt, die jeweils die beiden Seiten der Fehlstelle abdecken. Auf diese Weise wird ein der Materialstärke des Objektes entsprechender Holraum erzeugen, der mit einem Ergänzungsmaterial ausgefüllt werden kann. Diese Ergänzungsvariante wird insbesondere für Glasobjekte verwendet. Auch bei der Wahl von Kunstharzen als Ergänzungsmaterial ist diese Variante zu bevorzugen, da Kunstharze nach dem Aushärten nur noch mit relativ großem Aufwand nachbearbeitet werden können."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "D152G6" ;
@@ -208,18 +208,18 @@
         "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 92-95."@de,
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 130 - 135."@de ;
     skos:prefLabel "beidseitige Manschettenergänzung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/FBFFF5> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/FBFFF5> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D2D988> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C> ;
+<https://www.w3id.org/archlink/branches/F37GBB/D2D988> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A31C7C> ;
     skos:definition "Methode, bei der ein individuell an die Form des Objektes angepasstes Gestell erarbeitet wird, in welches das Objekt eingespannt/aufgelegt/befestigt werden kann. Der Träger ist dabei i.d.R. nicht dauerhaft fest mit dem Objekt verbunden. Durch den Unterbau wird das Objekt bestmöglich gestützt und die mechanische Belastung reduziert."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "D2D988" ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 155-157."@de ;
     skos:prefLabel "Trägerbau"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D66263> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532> ;
+<https://www.w3id.org/archlink/branches/F37GBB/D66263> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C6A532> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300443551> ;
     skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Anlegen elektrischer Spannung"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
@@ -227,14 +227,14 @@
     skos:note "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 98."@de ;
     skos:prefLabel "elektrochemische Entsalzung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D78721> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576> ;
+<https://www.w3id.org/archlink/branches/F37GBB/D78721> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/F5G576> ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "D78721" ;
     skos:prefLabel "Montage"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/DA9G57> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532> ;
+<https://www.w3id.org/archlink/branches/F37GBB/DA9G57> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C6A532> ;
     skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Einlegen des Objektes in eine Badlösung. Durch den osmotischen Druck, basierend auf dem Konzentrationsgefälle zwischen Objekt und der Badlösung, werden die Salze aus dem Objekt gespült."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "DA9G57" ;
@@ -243,51 +243,51 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 97."@de ;
     skos:prefLabel "Badentsalzung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/DAA82A> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CBDC4A> ;
+<https://www.w3id.org/archlink/branches/F37GBB/DAA82A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CBDC4A> ;
     skos:definition "Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips)."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "DAA82A" ;
     skos:note "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 76- 90."@de,
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 128 - 135."@de ;
     skos:prefLabel "einseitige Manschettenergänzung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/FBFFF5> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/FBFFF5> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/DGF99C> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/DGF99C> a skos:Concept ;
     skos:altLabel "Blockauflösung"@de,
         "Blockbergung ausgeräumt"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/D865C3> ;
     skos:definition "Methode bei der ein en-bloc geborgenes Objekt bzw. Fundkomplex systematisch unter Laborbedingungen freigelegt, dokumentiert und aus dem Blockverbund herausgelöst wird."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "DGF99C" ;
     skos:prefLabel "Blockbergung aufgelöst"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F285B2> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576> ;
+<https://www.w3id.org/archlink/branches/F37GBB/F285B2> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/F5G576> ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "F285B2" ;
     skos:prefLabel "Risikomanagement"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F2BDGC> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1> ;
+<https://www.w3id.org/archlink/branches/F37GBB/F2BDGC> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A13CD1> ;
     skos:definition "Methode, bei der Fragmente lediglich an einzelnen Punkten mit Klebstoffen zusammengefügt werden. Zum Beispiel um bei der Verwendung von Klebstoffen mit langer Aushärtzeit eine erste Fixierung in der gewünschten Position herzustellen."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "F2BDGC" ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 123."@de ;
     skos:prefLabel "punktuelle Heftung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F57A2A> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3> ;
+<https://www.w3id.org/archlink/branches/F37GBB/F57A2A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/D865C3> ;
     skos:definition "Methode, bei der die für einen temporären Zeitraum gefertigten Stabilisierungen entfernt werden. Dies bezieht sich z.B. auf vorübergehende Einhausungen für den Transport von Objekten."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "F57A2A" ;
     skos:prefLabel "temporäre Stabilisierung entfernt"@de ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G3GB59>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8A626> .
+    skos:related <https://www.w3id.org/archlink/branches/F37GBB/A6A248>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G3GB59>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G8A626> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F589G5> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1> ;
+<https://www.w3id.org/archlink/branches/F37GBB/F589G5> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A13CD1> ;
     skos:definition "Zweischrittige Klebemethode, bei der die einzelnen Fragmente/Teile zunächst temporär miteinander verbunden werden (z.B. durch kleine Klebebandstreifen, Omega-Häkchen, etc.), bis die ursprüngliche Form des Objektes wieder erkennbar ist. Die tatsächliche Klebung erfolgt im zweiten Schritt, durch den gleichzeitigen Auftrag eines dünnflüssigen Klebemittels auf alle Bruchfugen. Aufgrund des Kapillareffekts zwischen den vorfixierten Bruchkanten wird der niedrigviskose Klebstoff in die Bruchfuge gesogen."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "F589G5" ;
@@ -295,20 +295,20 @@
         "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 64 - 66, 69/70."@de ;
     skos:prefLabel "Infiltrationsklebung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F72743> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
+<https://www.w3id.org/archlink/branches/F37GBB/F72743> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/G98FD4> ;
     skos:definition "Methode, bei der mit Hilfe von ionisiertem Gas (Plasma) die korrodierte Oberfläche von Metallobjekten reduziert werden kann. Auf diese Weise lassen sich zum Beispiel dunkle Sulfidflecken entfernen, indem das Silbersulfid zu metallischem Silber reduziert wird."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "F72743" ;
     skos:note "Katharina Schmidt-Ott, Erhaltung von Kulturgütern. Das Plasma in der Metallkonservierung – Möglichkeiten und Grenzen. Collectio archaeologica 7 (Zürich 2010) S. 30/31."@de ;
     skos:prefLabel "Plasmabehandlung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/A7C8CB>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C99F9G> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/A7C8CB>,
+        <https://www.w3id.org/archlink/branches/C93638/C99F9G> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/FF8792> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/FF8792> a skos:Concept ;
     skos:altLabel "mechanische Reinigung"@de,
         "trockene Reinigung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CDD613> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300219637> ;
     skos:definition "Entfernung ungewollter Substanzen ohne Verwendung von Flüssigkeiten."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
@@ -318,19 +318,19 @@
     skos:prefLabel "Trockenreinigung"@de,
         "dry cleaning"@en .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF> ;
+<https://www.w3id.org/archlink/branches/F37GBB/FGBB54> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C6C3CF> ;
     skos:definition "Methode, bei der zu einem früheren Zeitpunkt ausgeführte Ergänzungsarbeiten aus dem Objekt heraus gelöst und entfernt werden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "FGBB54" ;
     skos:prefLabel "Ergänzungsmaterialien entfernt"@de,
         "removal of filling materials"@en ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G3GB59>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8A626> .
+    skos:related <https://www.w3id.org/archlink/branches/F37GBB/A6A248>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G3GB59>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G8A626> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/G3368F> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A> ;
+<https://www.w3id.org/archlink/branches/F37GBB/G3368F> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A9FF5A> ;
     skos:definition "Festigungsmethode, bei der ein sich in Lösung befindliches Polymere als Festigungsmittel mit Hilfe einer Pipette auf das Objekt aufgetropft wird. Die Anwendung kann dabei mehrfach wiederholt werden, um den Sättigungsgrad des Objektmaterials und somit die stabilisierende Wirkung zu erhöhen. Wie bei der Pinseltränkung ist ebenfalls eine große Kontrolle der Auftragung möglich und es können gezielt einzelne Bereiche gefestigt werden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "G3368F" ;
@@ -339,8 +339,8 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 103."@de ;
     skos:prefLabel "Pipettentränkung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/GAD222> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619> ;
+<https://www.w3id.org/archlink/branches/F37GBB/GAD222> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CGC619> ;
     skos:definition "Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle. Das separate Ausformen der Ergänzung kann durch freies Modellieren, Abnehmen der fehlenden Form an einer anderen Stelle des Objektes oder separate Abformung an einem dem fehlenden Teil ähnlichen Vergleichsobjekt erfolgen."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "GAD222" ;
@@ -349,204 +349,204 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 128, 134/135."@de ;
     skos:prefLabel "Einfügung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/GF41DG> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
+<https://www.w3id.org/archlink/branches/F37GBB/GF41DG> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/G98FD4> ;
     skos:definition "Methode zum Schutz der Objektoberfläche vor negativer Einwirkung von außen durch Auftrag eines schützenden Materials"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "GF41DG" ;
     skos:prefLabel "Schutzüberzug"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/D2G12A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/D2G12A>,
+        <https://www.w3id.org/archlink/branches/C364G1/GFD582> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/GG1924> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576> ;
+<https://www.w3id.org/archlink/branches/F37GBB/GG1924> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/F5G576> ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "GG1924" ;
     skos:prefLabel "Monitoring"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/AF1F5C> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
+<https://www.w3id.org/archlink/branches/F37GBB/AF1F5C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/G98FD4> ;
     skos:definition "Methode zur Entfernung von Feuchtigkeit aus dem Objekt oder von dessen Oberfläche"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A44FD4> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A44FD4> ;
     skos:notation "AF1F5C" ;
     skos:prefLabel "Trocknung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/A4G4G1>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D7GGGG>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F8323G> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C93638/A4G4G1>,
+        <https://www.w3id.org/archlink/branches/C93638/D7GGGG>,
+        <https://www.w3id.org/archlink/branches/C93638/F8323G> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C17A3G> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A> ;
+<https://www.w3id.org/archlink/branches/F37GBB/C17A3G> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/A9FF5A> ;
     skos:definition "Festigungsmethode, bei der das Objekt durch Eintauchen in eine Badlösung gefestigt wird. Der gesamte Porenraum des Objektwerkstoffes wird dabei mit einem sich in Lösung befindlichen Polymers ausgefüllt. Theoretisch sind bei der Badtränkung auch Teiltränung gezielter Bereiche möglich, in dem nur diese Bereiche in das Bad eingetaucht werden. Durch den Kapillareffekt im Inneren eines porösen Materials, kann die Verteilung des gelösten Polymers jedoch nicht genau kontrolliert werden. Aus diesem Grund wird unter einer Badtränkung in der Regel eine Volltränkung des gesamten Objektes verstanden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A9D149> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A9D149> ;
     skos:notation "C17A3G" ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 109-111."@de,
         "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 264."@de,
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 104."@de ;
     skos:prefLabel "Badtränkung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> ;
+<https://www.w3id.org/archlink/branches/F37GBB/A31C7C> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/DA9CGG> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300223809> ;
     skos:definition "Methode, bei der ein Objekt durch die mechanische Befestigung auf einem festen Material unterstützt/ stabilisiert wird."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C7427F>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D2D988> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/C7427F>,
+        <https://www.w3id.org/archlink/branches/F37GBB/D2D988> ;
     skos:notation "A31C7C" ;
     skos:prefLabel "Verstärkung"@de,
         "reinforcement"@en ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/BGGCA4>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F89522>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/AF31AG>,
+        <https://www.w3id.org/archlink/branches/C364G1/AG2965>,
+        <https://www.w3id.org/archlink/branches/C364G1/B572B5>,
+        <https://www.w3id.org/archlink/branches/C364G1/BGGCA4>,
+        <https://www.w3id.org/archlink/branches/C364G1/DF5773>,
+        <https://www.w3id.org/archlink/branches/C364G1/DF633G>,
+        <https://www.w3id.org/archlink/branches/C364G1/F89522>,
+        <https://www.w3id.org/archlink/branches/C364G1/GFD582> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/CBDC4A> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619> ;
+<https://www.w3id.org/archlink/branches/F37GBB/CBDC4A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/CGC619> ;
     skos:definition "Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt an das Objekt angegossen und mit wenig Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/D152G6>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DAA82A> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/D152G6>,
+        <https://www.w3id.org/archlink/branches/F37GBB/DAA82A> ;
     skos:notation "CBDC4A" ;
     skos:note "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003) 2nd. ed, S. 286, 291/292."@de,
         "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 76-95."@de,
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 130 - 135."@de ;
     skos:prefLabel "Manschettenergänzung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> ;
+<https://www.w3id.org/archlink/branches/F37GBB/D32A26> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/F37GBB> ;
     skos:definition "Vorkehrungen oder Eingriffe zur Stabilisierung eines Objektes."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/F5G576>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G98FD4> ;
     skos:notation "D32A26" ;
     skos:prefLabel "Konservierung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/F37GBB> a skos:Concept ;
     skos:broadMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/CFGDA3> ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/C79561>,
+        <https://www.w3id.org/archlink/branches/F37GBB/D32A26> ;
     skos:notation "F37GBB" ;
     skos:prefLabel "[Behandlungsmethode]"@de ;
     skos:topConceptOf <https://www.w3id.org/archlink/branches/F37GBB> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3> ;
+<https://www.w3id.org/archlink/branches/F37GBB/C6C3CF> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/D865C3> ;
     skos:definition "Methode, bei der im Zuge voran gegangener Konservierungs- und/oder Restaurierungsmaßnahmen eingebrachte Materialien von bzw. aus dem Objekt entfernt werden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/B2642A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CA59C2>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FGBB54> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/B2642A>,
+        <https://www.w3id.org/archlink/branches/F37GBB/CA59C2>,
+        <https://www.w3id.org/archlink/branches/F37GBB/FGBB54> ;
     skos:notation "C6C3CF" ;
     skos:note "Reiner Geschke, Keramikrestaurierung (Berlin 2019), S. 105."@de,
         "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 271-273."@de ;
     skos:prefLabel "frühere Restaurierungsmaterialien entfernt"@de,
         "removal of previous restoration materials"@en .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/D865C3> a skos:Concept ;
     skos:altLabel "Rerestaurierung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C79561> ;
     skos:definition "Sammelbegriff für Methoden, bereits durchgeführte Maßnahmen (Altrestaurierungen/-Konservierungen) aber auch temporäre Stabilisierungen z.B. für die Bergung im Feld oder den Transport in die Werkstatt, zu überarbeiten bzw. zu entfernen. Dies kann der Fall sein, wenn z.B. verwendete Materialien im Laufe der Zeit selbst von Abbauprozessen negativ beeinflusst wurden oder ehemals angewandte Methoden/Materialien nicht mehr dem aktuellen Zeitgeist der Restaurierungsethik entsprechend."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/C6C3CF>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DGF99C>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F57A2A> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/C6C3CF>,
+        <https://www.w3id.org/archlink/branches/F37GBB/DGF99C>,
+        <https://www.w3id.org/archlink/branches/F37GBB/F57A2A> ;
     skos:notation "D865C3" ;
     skos:note "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 74."@de ;
     skos:prefLabel "Überarbeitung"@de .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/DA9CGG> a skos:Concept ;
     skos:altLabel "Festigen"@de,
         "Sicherung"@de,
         "Stabilisierung"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/G98FD4> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300053768>,
         <http://vocab.getty.edu/aat/300219960> ;
     skos:definition "Methode zur Verbesserung des inneren Zusammenhaltes oder der mechanischen Stabiliät eines Objektes durch Zuführung eines stabilisierenden Materials"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A31C7C>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B26D29> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A31C7C>,
+        <https://www.w3id.org/archlink/branches/F37GBB/A9FF5A>,
+        <https://www.w3id.org/archlink/branches/F37GBB/B26D29> ;
     skos:notation "DA9CGG" ;
     skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de,
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 100/101."@de ;
     skos:prefLabel "Festigung"@de,
         "consolidation"@en ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F89522>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/AG2965>,
+        <https://www.w3id.org/archlink/branches/C364G1/B572B5>,
+        <https://www.w3id.org/archlink/branches/C364G1/DF5773>,
+        <https://www.w3id.org/archlink/branches/C364G1/DF633G>,
+        <https://www.w3id.org/archlink/branches/C364G1/F89522>,
+        <https://www.w3id.org/archlink/branches/C364G1/GFD582> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/A13CD1> a skos:Concept ;
     rdfs:seeAlso "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 106 - 118." ;
     skos:altLabel "Babbe"@de,
         "Fügung"@de,
         "Kleben"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C79561> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300053012> ;
     skos:definition "Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive und kohäsive Verbindung mit Klebstoff, ohne dass das Objektgefüge wesentlich verändert wird."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A24C1D>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/AD143A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F2BDGC>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F589G5> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A24C1D>,
+        <https://www.w3id.org/archlink/branches/F37GBB/AD143A>,
+        <https://www.w3id.org/archlink/branches/F37GBB/F2BDGC>,
+        <https://www.w3id.org/archlink/branches/F37GBB/F589G5> ;
     skos:notation "A13CD1" ;
     skos:note "Wolfgang Knobloch, Ergänzungen und Rekonstruktionen an historischen Objekten aus Metall. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und Technologie. München 2000, S. 86."@de ;
     skos:prefLabel "Klebung"@de,
         "bonding"@en ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/B7B8B6> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/B7B8B6> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> ;
+<https://www.w3id.org/archlink/branches/F37GBB/A6A248> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/G814D2> ;
     skos:definition "Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "A6A248" ;
     skos:note "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.65."@de ;
     skos:prefLabel "maschinelle Freilegung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/ADD53A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/BBB987>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C4C6B6>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C5A318>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C871CB>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D8G747>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G487C2> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/ADD53A>,
+        <https://www.w3id.org/archlink/branches/C93638/BBB987>,
+        <https://www.w3id.org/archlink/branches/C93638/C4C6B6>,
+        <https://www.w3id.org/archlink/branches/C93638/C5A318>,
+        <https://www.w3id.org/archlink/branches/C93638/C871CB>,
+        <https://www.w3id.org/archlink/branches/C93638/D8G747>,
+        <https://www.w3id.org/archlink/branches/C93638/G487C2> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/A9FF5A> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG> ;
+<https://www.w3id.org/archlink/branches/F37GBB/A9FF5A> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/DA9CGG> ;
     skos:definition "Konservierungsmethode, bei der die poröse/instabile, innere Werkstoffstruktur eines Objektes durch die Einbringung eines sich in Lösung befindlichen Polymers stabilisiert wird. Nach Verflüchtigung des Lösungsmittels bildet das Polymere ein stabiles Gerüst, welches die instabile Struktur des original Objektmaterials zusammenhält und unterstützt."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/BFA1CC>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C17A3G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CD536F>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G3368F> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/BFA1CC>,
+        <https://www.w3id.org/archlink/branches/F37GBB/C17A3G>,
+        <https://www.w3id.org/archlink/branches/F37GBB/CD536F>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G3368F> ;
     skos:notation "A9FF5A" ;
     skos:note "Sandra Davison, Conservation and Restoration of Glass (Oxford 2003), S. 263/264."@de,
         "Stefan Koob, Conservation and Care of Glass Objects (London 2006), S. 55."@de ;
     skos:prefLabel "Tränkung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/AF31AG>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/AG2965>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B572B5>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF5773>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DF633G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F89522>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GFD582> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/AF31AG>,
+        <https://www.w3id.org/archlink/branches/C364G1/AG2965>,
+        <https://www.w3id.org/archlink/branches/C364G1/B572B5>,
+        <https://www.w3id.org/archlink/branches/C364G1/DF5773>,
+        <https://www.w3id.org/archlink/branches/C364G1/DF633G>,
+        <https://www.w3id.org/archlink/branches/C364G1/F89522>,
+        <https://www.w3id.org/archlink/branches/C364G1/GFD582> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/CDD613> a skos:Concept ;
     skos:altLabel "Reinigen"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C79561> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300053027> ;
     skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen verwendet. Er weist enge Verwandschaft und einen fließenden Übergang zu dem Begriff \"Freilegung\" auf."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A194CF>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C3733A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FF8792> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A194CF>,
+        <https://www.w3id.org/archlink/branches/F37GBB/C3733A>,
+        <https://www.w3id.org/archlink/branches/F37GBB/FF8792> ;
     skos:notation "CDD613" ;
     skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de,
         "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S. 63/64."@de,
@@ -554,37 +554,37 @@
         "Susan Buys, Victoria Oakley, The conservation and restoration of ceramics (Great Britain 1998), S. 84."@de ;
     skos:prefLabel "Reinigung"@de,
         "cleaning"@en ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/A341F9>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C4569A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CC2BBB>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D84847> .
+    skos:related <https://www.w3id.org/archlink/branches/F37GBB/G814D2> ;
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C93638/A341F9>,
+        <https://www.w3id.org/archlink/branches/C93638/C4569A>,
+        <https://www.w3id.org/archlink/branches/C93638/CC2BBB>,
+        <https://www.w3id.org/archlink/branches/C93638/D84847> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/CGC619> a skos:Concept ;
     skos:altLabel "Ergänzen"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C79561> ;
     skos:definition "Methode zur Schließung von Fehlstellen und/oder Vervollständigung fehlender Objektteile durch das Hinzufügen von Material. Wird nach der modernen archäologischen Restaurierungsethik hauptsächlich aus statischen/stabilisierenden Gründen oder zu Rekonstruktion eines vollkommen unkenntlichen Erscheinungsbildes durchgeführt."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A6F2C7>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/BD119A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CBDC4A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GAD222> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A6F2C7>,
+        <https://www.w3id.org/archlink/branches/F37GBB/BD119A>,
+        <https://www.w3id.org/archlink/branches/F37GBB/CBDC4A>,
+        <https://www.w3id.org/archlink/branches/F37GBB/GAD222> ;
     skos:notation "CGC619" ;
     skos:prefLabel "Ergänzung (Restaurierungsmethode)"@de,
         "filling"@en ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/B7B8B6>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FBFFF5> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/B7B8B6>,
+        <https://www.w3id.org/archlink/branches/C364G1/FBFFF5> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/F5G576> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/F5G576> a skos:Concept ;
     skos:altLabel "präventive Maßnahmen"@de,
         "preventive care"@en ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/D32A26> ;
     skos:definition "Sammelbegriff für vorbeugende Maßnahmen zur Vermeidung oder Minimierung von künftigen Schaden, Abbau, Verlust und folglich invasivem Eingriff. Bei der präventiven Konservierung findet lediglich eine passive Einwirkung auf das Objekt statt."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/AC16G1>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D78721>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F285B2>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GG1924> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/AC16G1>,
+        <https://www.w3id.org/archlink/branches/F37GBB/D78721>,
+        <https://www.w3id.org/archlink/branches/F37GBB/F285B2>,
+        <https://www.w3id.org/archlink/branches/F37GBB/GG1924> ;
     skos:notation "F5G576" ;
     skos:note "DIN EN 15898:2020-02,Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung"@de,
         "ICOM-CC, Terminology to characterize the conservation of tangible cultural heritage, (2008). https://www.icom-cc.org/en/terminology-for-conservation (aufgerufen am 31.10.2024)"@de ;
@@ -592,78 +592,78 @@
         "preventive conservation"@en ;
     skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/DAB4B7> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/G3GB59> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> ;
+<https://www.w3id.org/archlink/branches/F37GBB/G3GB59> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/G814D2> ;
     skos:definition "Per Hand ausgeführte Freilegung der originalen Oberfläche ohne Verwendung elektrischer Geräte"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "G3GB59" ;
     skos:note "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.64."@de ;
     skos:prefLabel "manuelle Freilegung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/ACB46G>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D1C67A>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F18C56>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F71C33>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G33846> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C93638/ACB46G>,
+        <https://www.w3id.org/archlink/branches/C93638/D1C67A>,
+        <https://www.w3id.org/archlink/branches/C93638/F18C56>,
+        <https://www.w3id.org/archlink/branches/C93638/F71C33>,
+        <https://www.w3id.org/archlink/branches/C93638/G33846> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/G814D2> a skos:Concept ;
     skos:altLabel "Freilegen"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/C79561> ;
     skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff \"Freilegung\" wird, in Abgrenzung zum Begriff \"Reinigung\", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Übergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden."@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A6A248>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G3GB59>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G8A626> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A6A248>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G3GB59>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G8A626> ;
     skos:notation "G814D2" ;
     skos:prefLabel "Freilegung"@de,
         "uncovering"@en ;
-    skos:related <https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613> ;
+    skos:related <https://www.w3id.org/archlink/branches/F37GBB/CDD613> ;
     skos:relatedMatch <http://vocab.getty.edu/aat/300053027> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/G8A626> a skos:Concept ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> ;
+<https://www.w3id.org/archlink/branches/F37GBB/G8A626> a skos:Concept ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/G814D2> ;
     skos:definition "Freilegung der originalen Objektoberfläche durch Anwendung von Chemikalien"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
     skos:notation "G8A626" ;
     skos:note "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.65-67."@de ;
     skos:prefLabel "nasschemische Freilegung"@de ;
-    skos:relatedMatch <https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B3FCA1>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F87124>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/FGF575> .
+    skos:relatedMatch <https://www.w3id.org/archlink/branches/C364G1/A2B746>,
+        <https://www.w3id.org/archlink/branches/C364G1/B3FCA1>,
+        <https://www.w3id.org/archlink/branches/C364G1/F87124>,
+        <https://www.w3id.org/archlink/branches/C364G1/FGF575> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/C6A532> a skos:Concept ;
     skos:altLabel "Entsalzen"@de ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/G98FD4> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300053754> ;
     skos:definition "Methode zur Entfernung von durch die Bodenlagerung in ein Objekt/Material eingedrungenen Salzen"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A1B449>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/B614CA>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C349C5>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D66263>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9G57> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A1B449>,
+        <https://www.w3id.org/archlink/branches/F37GBB/B614CA>,
+        <https://www.w3id.org/archlink/branches/F37GBB/C349C5>,
+        <https://www.w3id.org/archlink/branches/F37GBB/D66263>,
+        <https://www.w3id.org/archlink/branches/F37GBB/DA9G57> ;
     skos:notation "C6A532" ;
     skos:note "Janey Cronyn, The Elements of Archaeological Conservation (London 1990), S.81."@de ;
     skos:prefLabel "Entsalzung"@de,
         "desalination"@en ;
     skos:relatedMatch <https://d-nb.info/gnd/4124842-9>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/A2B746>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DFD1B7>,
+        <https://www.w3id.org/archlink/branches/C364G1/A2B746>,
+        <https://www.w3id.org/archlink/branches/C364G1/DFD1B7>,
         <https://www.wikidata.org/wiki/Q190873> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/C79561> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/C79561> a skos:Concept ;
     skos:altLabel "Restaurierungsmaßnahme"@de,
         "Restaurierungsmethode"@de,
         "restoration method"@en ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/F37GBB> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300053742> ;
     skos:definition "Sammelbegriff für Methoden des aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/A13CD1>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CDD613>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/CGC619>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/D865C3>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/G814D2> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/A13CD1>,
+        <https://www.w3id.org/archlink/branches/F37GBB/CDD613>,
+        <https://www.w3id.org/archlink/branches/F37GBB/CGC619>,
+        <https://www.w3id.org/archlink/branches/F37GBB/D865C3>,
+        <https://www.w3id.org/archlink/branches/F37GBB/G814D2> ;
     skos:notation "C79561" ;
     skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de,
         "ICOM-CC, Terminology to characterize the conservation of tangible cultural heritage, (2008). https://www.icom-cc.org/en/terminology-for-conservation (aufgerufen am 31.10.2024)"@de ;
@@ -671,18 +671,18 @@
         "restoration"@en ;
     skos:relatedMatch <https://www.wikidata.org/wiki/Q217102> .
 
-<https://www.w3id.org/archlink/terms/conservationthesaurus/G98FD4> a skos:Concept ;
+<https://www.w3id.org/archlink/branches/F37GBB/G98FD4> a skos:Concept ;
     skos:altLabel "stabilisierende Maßnahme"@de,
         "remedial conservation"@en ;
-    skos:broader <https://www.w3id.org/archlink/terms/conservationthesaurus/D32A26> ;
+    skos:broader <https://www.w3id.org/archlink/branches/F37GBB/D32A26> ;
     skos:closeMatch <http://vocab.getty.edu/aat/300404519> ;
     skos:definition "Sammelbegriff für Methoden des aktive Eingriffs, der direkt an einem Objekt vorgenommen wird, um weiteren Abbau, Zerfall und/oder Schädigung zu verhindern, zu verzögern und/oder zu begrenzen"@de ;
     skos:inScheme <https://www.w3id.org/archlink/branches/F37GBB> ;
-    skos:narrower <https://www.w3id.org/archlink/terms/conservationthesaurus/AF1F5C>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/C6A532>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/DA9CGG>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/F72743>,
-        <https://www.w3id.org/archlink/terms/conservationthesaurus/GF41DG> ;
+    skos:narrower <https://www.w3id.org/archlink/branches/F37GBB/AF1F5C>,
+        <https://www.w3id.org/archlink/branches/F37GBB/C6A532>,
+        <https://www.w3id.org/archlink/branches/F37GBB/DA9CGG>,
+        <https://www.w3id.org/archlink/branches/F37GBB/F72743>,
+        <https://www.w3id.org/archlink/branches/F37GBB/GF41DG> ;
     skos:notation "G98FD4" ;
     skos:note "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung."@de,
         "ICOM-CC, Terminology to characterize the conservation of tangible cultural heritage, (2008). https://www.icom-cc.org/en/terminology-for-conservation (aufgerufen am 31.10.2024)"@de ;
@@ -719,5 +719,5 @@
         "Konservierung"@de,
         "Restaurierung"@de ;
     vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/F37GBB/" ;
-    skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/F37GBB> .
+    skos:hasTopConcept <https://www.w3id.org/archlink/branches/F37GBB/F37GBB> .
 
