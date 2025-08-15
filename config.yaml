@@ -1,7 +1,7 @@
 ---
 # see https://github.com/nextapps-de/flexsearch#tokenizer-prefix-search for options
 tokenizer: "full" # strict, forward, reverse, full
-custom_domain: "https://www.w3id.org/archlink/branches/" #"https://www.w3id.org/archlink/terms/" #"https://www.w3id.org/conservation/terms/" #"https://www.lassemempel.github.io/terminologies/" #  # "https://www.w3id.org/conservation/terms/" # "https://conservationdata.github.io/terms/" #"https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/" # "https://lassemempel.github.io/LEIZA-Terminologien/" #"https://museumsvokabular-de.github.io/Museumsvokabular-Hub/" # "https://lassemempel.github.io/gatsbytest/"
+custom_domain: "" # "https://www.w3id.org/archlink/branches/" #"https://www.w3id.org/archlink/terms/" #"https://www.w3id.org/conservation/terms/" #"https://www.lassemempel.github.io/terminologies/" #  # "https://www.w3id.org/conservation/terms/" # "https://conservationdata.github.io/terms/" #"https://restaurierungs-und-konservierungsdaten.github.io/Metadaten/" # "https://lassemempel.github.io/LEIZA-Terminologien/" #"https://museumsvokabular-de.github.io/Museumsvokabular-Hub/" # "https://lassemempel.github.io/gatsbytest/"
 fail_on_validation: true
 searchableAttributes:
   - "prefLabel" # you should not delete this one

@@ -2,6 +2,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A14455> a skos:Concept ;
     rdfs:seeAlso "https://www.dow.com/en-us/document-viewer.html?docPath=/content/dam/dcc/documents/884/884-01223-01-paraloid-b-72-solid-grade-thermoplastic-acrylic-resin-tds.pdf" ;
@@ -2071,5 +2072,6 @@ Technologie. München 2000, S. 86."""@de ;
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/C364G1/" ;
     skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/C364G1> .
 

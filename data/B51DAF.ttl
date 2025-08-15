@@ -2,6 +2,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A2159C> a skos:Concept ;
     skos:altLabel "Rindenbast"@de ;
@@ -2019,5 +2020,6 @@
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/B51DAF/" ;
     skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/B51DAF> .
 

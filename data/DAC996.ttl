@@ -2,6 +2,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
 
 <https://www.w3id.org/archlink/terms/conservationthesaurus/A21DB2> a skos:Concept ;
     skos:altLabel "Aufrauhung"@de ;
@@ -857,5 +858,6 @@ Technologie. München 2000, S. 63."""@de ;
     dcterms:subject "Archäologie"@de,
         "Konservierung"@de,
         "Restaurierung"@de ;
+    vann:preferredNamespaceUri "https://www.w3id.org/archlink/branches/DAC996/" ;
     skos:hasTopConcept <https://www.w3id.org/archlink/terms/conservationthesaurus/DAC996> .
 
