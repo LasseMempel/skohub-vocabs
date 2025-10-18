@@ -173,7 +173,7 @@ baseLanguageLabel = "de"
 baseUri = "https://www.w3id.org/conservation/terms/metadata" #"https://www.lassemempel.github.io/Restaurierungsdaten/Metadaten"  # "http://data.archaeology.link/terminology/archeologicalconservation"
 
 # dictionary to map divergent column names in the csv to the SKOS properties
-propertyMatchDict = {"identifier":"notation","description":"definition","parent":"broader", "note (source)": "source"}
+propertyMatchDict = {"identifier":"notation","description":"definition","parent":"broader", "note (source)": "source", "Verwendungshinweis": ""}
 seperator = "|"
 
 main(link, baseLanguageLabel, propertyMatchDict, seperator)
