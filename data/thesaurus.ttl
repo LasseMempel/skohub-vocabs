@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
 
-<https://www.w3id.org/conservation/terms/metadata/G59SR3> a skos:Concept ;
-    skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
-    skos:notation "G59SR3" ;
-    skos:prefLabel "Art der Kennzeichnungsnummer"@de .
-
 <https://www.w3id.org/conservation/terms/metadata/LGPT6AC> a skos:Concept ;
+    doc:TextOrUri "Text" ;
+    doc:Verpflichtungsgrad "optional" ;
     skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
     skos:notation "LGPT6AC" ;
     skos:prefLabel "Art der weiteren Objektnummer"@de .
@@ -480,7 +477,9 @@ Beispiel: "Fundort: Italien - Numana - Grab 34", "kultureller Kontext: Renaissan
     doc:Wiederholbar "Nein" ;
     skos:altLabel "Datum der Beprobung"@de ;
     skos:broader <https://www.w3id.org/conservation/terms/metadata/CD5C3F> ;
-    skos:definition "Datum, an dem die Probe aus dem Objekt entnommen wurde."@de ;
+    skos:definition """Datum, an dem die Probe aus dem Objekt entnommen wurde.\r\r
+\r\r
+Auch vage Angaben über den genauen Zeitpunkt einer Untersuchung, z.B. bei der Nacherfassung historischer Untersuchungen, sind Informationen. Auch die Angabe "unbekannt" ist möglich."""@de ;
     skos:exactMatch <http://terminology.lido-schema.org/lido00528> ;
     skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
     skos:notation "D3AF3A" ;
@@ -634,7 +633,7 @@ Beispiel: "Objekt ausschließlich liegend transportieren", "Transport nur in kli
 
 <https://www.w3id.org/conservation/terms/metadata/F2A45F> a skos:Concept ;
     doc:TextOrUri "Text" ;
-    doc:Verpflichtungsgrad "Pflicht" ;
+    doc:Verpflichtungsgrad "bedingte Pflicht" ;
     doc:Wiederholbar "Nein" ;
     skos:broader <https://www.w3id.org/conservation/terms/metadata/B51DAF> ;
     skos:definition "Datum, an dem das Objekt in die aktuell zuständige Sammlung aufgenommen wurde. An dieser Stelle ist (noch) nicht das Datum, an dem das Objekt in die Restaurierungseinrichtung eingeliefert wurde gemeint."@de ;
@@ -717,21 +716,6 @@ Beispiele: Vorderseite, linker unterer Rand, Bruchkante der Scherbe, Sockelinnen
     skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
     skos:notation "F72743" ;
     skos:prefLabel "Durchführende Einrichtung (Probenahme)"@de .
-
-<https://www.w3id.org/conservation/terms/metadata/F7D3DB> a skos:Concept ;
-    doc:TextOrUri "Text" ;
-    doc:Verpflichtungsgrad "Pflicht" ;
-    doc:Wiederholbar "Nein" ;
-    skos:altLabel "Inventarnummer, Objektnummer, Signatur, Katalognummer"@de ;
-    skos:broader <https://www.w3id.org/conservation/terms/metadata/B51DAF> ;
-    skos:closeMatch <http://vocab.getty.edu/aat/300404626> ;
-    skos:definition """Nummer, die das Objekt eindeutig identifiziert. \r\r
-\r\r
-Beispiel: "O.3649", "2025-05-21\""""@de ;
-    skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
-    skos:notation "F7D3DB" ;
-    skos:note "Begriff nach DIN EN 16095:2012-10"@de ;
-    skos:prefLabel "Kennzeichnungsnummer"@de .
 
 <https://www.w3id.org/conservation/terms/metadata/F87124> a skos:Concept ;
     doc:EmpfohleneVokabulare "Art & Architecture Thesaurus" ;
@@ -854,13 +838,24 @@ Beispiel: Sicherung der Malschichten, Volle Rekonstruktion der ursprünglichen F
     skos:notation "G56866" ;
     skos:prefLabel "Zugangsrecht"@de .
 
+<https://www.w3id.org/conservation/terms/metadata/G59SR3> a skos:Concept ;
+    doc:TextOrUri "Text" ;
+    doc:Verpflichtungsgrad "Pflicht" ;
+    doc:Wiederholbar "Nein" ;
+    skos:broader <https://www.w3id.org/conservation/terms/metadata/F7D3DB> ;
+    skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
+    skos:notation "G59SR3" ;
+    skos:prefLabel "Art der Kennzeichnungsnummer"@de .
+
 <https://www.w3id.org/conservation/terms/metadata/G73958> a skos:Concept ;
     doc:TextOrUri "Text" ;
     doc:Verpflichtungsgrad "Pflicht" ;
     doc:Wiederholbar "Nein" ;
     skos:altLabel "Datum der Untersuchung"@de ;
     skos:broader <https://www.w3id.org/conservation/terms/metadata/B3FCA1> ;
-    skos:definition "Datum, an dem die jeweilige Untersuchung durchgeführt wurde."@de ;
+    skos:definition """Datum, an dem die jeweilige Untersuchung durchgeführt wurde.\r\r
+\r\r
+Auch vage Angaben über den genauen Zeitpunkt einer Untersuchung, z.B. bei der Nacherfassung historischer Untersuchungen, sind Informationen. Auch die Angabe "unbekannt" ist möglich."""@de ;
     skos:exactMatch <http://terminology.lido-schema.org/lido00528> ;
     skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
     skos:notation "G73958" ;
@@ -961,7 +956,7 @@ Beispiel: "Teil der Sammlung Becker\""""@de ;
 
 <https://www.w3id.org/conservation/terms/metadata/GF856C> a skos:Concept ;
     doc:TextOrUri "Text" ;
-    doc:Verpflichtungsgrad "Pflicht" ;
+    doc:Verpflichtungsgrad "bedingte Pflicht" ;
     doc:Wiederholbar "Nein" ;
     skos:broader <https://www.w3id.org/conservation/terms/metadata/DBC278> ;
     skos:definition "Angabe der vertikalen Ausdehnung eines Objektes von seiner untersten zur höchsten Stelle (Y-Achse)."@de ;
@@ -1004,7 +999,7 @@ Beispiel: "Teil der Sammlung Becker\""""@de ;
 
 <https://www.w3id.org/conservation/terms/metadata/WF436G> a skos:Concept ;
     doc:TextOrUri "Text" ;
-    doc:Verpflichtungsgrad "Pflicht" ;
+    doc:Verpflichtungsgrad "bedingte Pflicht" ;
     doc:Wiederholbar "Nein" ;
     skos:broader <https://www.w3id.org/conservation/terms/metadata/DBC278> ;
     skos:definition "Angabe der horizontalen Ausdehnung eines Objektes von seiner linken zur rechten Seite in Frontalansicht (X-Achse)."@de ;
@@ -1036,7 +1031,24 @@ Beispiel: "Zustandsbericht + Fotos\""""@de ;
     skos:notation "D949G6" ;
     skos:prefLabel "Untersuchungsgerät"@de .
 
+<https://www.w3id.org/conservation/terms/metadata/F7D3DB> a skos:Concept ;
+    doc:TextOrUri "Text" ;
+    doc:Verpflichtungsgrad "Pflicht" ;
+    doc:Wiederholbar "Nein" ;
+    skos:altLabel "Inventarnummer, Objektnummer, Signatur, Katalognummer"@de ;
+    skos:broader <https://www.w3id.org/conservation/terms/metadata/B51DAF> ;
+    skos:closeMatch <http://vocab.getty.edu/aat/300404626> ;
+    skos:definition """Nummer, die das Objekt eindeutig identifiziert. \r\r
+\r\r
+Beispiel: "O.3649", "2025-05-21\""""@de ;
+    skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
+    skos:narrower <https://www.w3id.org/conservation/terms/metadata/G59SR3> ;
+    skos:notation "F7D3DB" ;
+    skos:note "Begriff nach DIN EN 16095:2012-10"@de ;
+    skos:prefLabel "Kennzeichnungsnummer"@de .
+
 <https://www.w3id.org/conservation/terms/metadata/G5TA85> a skos:Concept ;
+    doc:TextOrUri "Text" ;
     doc:Verpflichtungsgrad "bedingte Pflicht" ;
     skos:altLabel "Grund der Zustandserfassung"@de ;
     skos:broader <https://www.w3id.org/conservation/terms/metadata/F52262> ;
@@ -1070,7 +1082,9 @@ Beispiel: "Zustandsbericht + Fotos\""""@de ;
         "Schaden"@de,
         "Schadensbild"@de ;
     skos:broader <https://www.w3id.org/conservation/terms/metadata/AC1786> ;
-    skos:definition "Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes."@de ;
+    skos:definition """Beschreibung der beobachteten negativen Veränderungen am Objekt im Vergleich zu seinem als ursprünglich angenommenen Zustandes. \r\r
+\r\r
+Auch die Angabe, dass keine Beschädigung erkennbar ist, sollte hier erfasst werden!"""@de ;
     skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
     skos:narrower <https://www.w3id.org/conservation/terms/metadata/C2488A>,
         <https://www.w3id.org/conservation/terms/metadata/D4A13D> ;
@@ -1242,7 +1256,7 @@ Nicht gemeint sind dabei die allgemeinen Arbeitssicherheitsmaßnahmen, die im Ra
     skos:prefLabel "Konservatorische Bedingungen"@de .
 
 <https://www.w3id.org/conservation/terms/metadata/DBC278> a skos:Concept ;
-    doc:Verpflichtungsgrad "Pflicht" ;
+    doc:Verpflichtungsgrad "bedingte Pflicht" ;
     doc:Wiederholbar "Nein" ;
     skos:altLabel "Abmessungen"@de,
         "Dimension"@de,
