@@ -1287,6 +1287,7 @@ Nicht gemeint sind dabei die allgemeinen Arbeitssicherheitsmaßnahmen, die im Ra
     skos:prefLabel "Überprüfte Bedingungen"@de .
 
 <https://www.w3id.org/conservation/terms/metadata/F52262> a skos:Concept ;
+    doc:Verpflichtungsgrad "Pflicht" ;
     doc:Wiederholbar "Ja" ;
     skos:altLabel "Zustandserhebung"@de ;
     skos:definition "Oberbegriff für Informationen, die die systematische Erfassung des Zustands eines Objektes zu einem definierten Zeitpunkt dokumentieren."@de ;
@@ -1303,6 +1304,7 @@ Nicht gemeint sind dabei die allgemeinen Arbeitssicherheitsmaßnahmen, die im Ra
     skos:topConceptOf <https://www.w3id.org/conservation/terms/metadata> .
 
 <https://www.w3id.org/conservation/terms/metadata/DA2D73> a skos:Concept ;
+    doc:Verpflichtungsgrad "Pflicht" ;
     doc:Wiederholbar "Nein" ;
     skos:definition "Oberbegriff für Informationen, die die Beschaffenheit, Merkmale und die Bedeutung des Objektes näher beschreiben"@de ;
     skos:inScheme <https://www.w3id.org/conservation/terms/metadata> ;
@@ -1381,6 +1383,7 @@ Nicht gemeint sind dabei die allgemeinen Arbeitssicherheitsmaßnahmen, die im Ra
     skos:topConceptOf <https://www.w3id.org/conservation/terms/metadata> .
 
 <https://www.w3id.org/conservation/terms/metadata/B51DAF> a skos:Concept ;
+    doc:Verpflichtungsgrad "Pflicht" ;
     doc:Wiederholbar "Nein" ;
     skos:altLabel "Objektidentifikation"@de ;
     skos:definition "Übergeordneter Begriff zur eindeutigen Kennzeichnung des zu behandelnden Objektes sowie Erfassung weiterer indentifizierender Merkmale, die eine zweifelsfreie Zuordnung des Objektes während des gesamten Behandlungsprozesses gewährleistet."@de ;
